@@ -31,6 +31,13 @@ This release applies the systematic literature review completed on 9 November 20
 - Qualified dates are now used throughout: Xunzi "c. 310 – after 238 BCE"; Locke *Two Treatises* "1689 [title page 1690]"; Marx's 1844 manuscripts "1844/1932"; Epictetus's *Enchiridion* "early 2nd century CE" (exact date unverified); Dostoevsky "1879–80 (book 1880)"; Mill "1861/1863".
 - Bibliography replaced by a verified, deduplicated `references.bib` built from the literature-review master bibliography, with priority additions per chapter (Metz SEP "The Meaning of Life", King & Hicks 2021, Martela & Steger 2016, Roughley SEP "Human Nature", Dominik et al. 2024, Parnia et al. AWARE-II 2023, Jobin et al. 2019, Matthias 2004, Floridi & Cowls 2019, Butlin et al. 2025, Jayawickreme & Blackie 2014, Stilwell et al. 2022, Hilton et al. 2017).
 
+### Format and presentation in v1.1.0
+
+- The book is now built with Quarto from one Markdown source per chapter: a website with search and chapter navigation, plus a downloadable PDF.
+- Notes about how each citation was checked were removed from the chapter text; the corrections themselves stay. The record of what was checked is kept by the editor.
+- Restored from v1.0: clickable mindmap (also by keyboard), debates that open and close, A+/A− font size, and a reading progress bar.
+- Every DOI in the bibliography was resolved against Crossref/doi.org before release.
+
 ## [1.0.0] — 8 November 2026
 
 First version of the living book, built as an interactive web book.
