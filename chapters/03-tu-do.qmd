@@ -47,8 +47,7 @@ Vohs và Schooler (2008) cho thấy trong một nghiên cứu, việc gây ra s�
 
 ## 5. Nghiên cứu thực nghiệm nói gì?
 
-::: {.callout-note}
-## Nghiên cứu thực nghiệm nói gì?
+::: {.callout-note appearance="simple"}
 
 Khoa học thần kinh về ý chí đã tiến xa kể từ Libet. Điện thế sẵn sàng dường như phản ánh sự tích luỹ ngẫu nhiên và chuẩn bị, chứ không phải một quyết định vô thức. Soon dự đoán chỉ những lựa chọn vận động đơn giản, tuỳ ý, với độ chính xác khiêm tốn (khoảng 60%, so với 50% của đoán mò). Tính không xác định lượng tử, nếu có trong não, tự nó không cho ta kiểm soát — ngẫu nhiên không phải là tự do.
 
