@@ -1,0 +1,46 @@
+# Phương pháp {.unnumbered}
+
+## Cuốn sách này là gì, và không là gì
+
+Đây là một **tổng thuật có chọn lọc**: mỗi chương chọn những lập trường, tranh luận và nghiên cứu tiêu biểu nhất cho một nhóm câu hỏi, rồi đặt chúng cạnh nhau. Cuốn sách **không phải** một tổng quan hệ thống (*systematic review*). Nó không tìm kiếm và sàng lọc toàn bộ tài liệu theo một giao thức định trước, và không tuyên bố đã bao quát hết các quan điểm.
+
+## Nguồn được chọn thế nào
+
+Sách ưu tiên, theo thứ tự:
+
+1. tác phẩm gốc của các nhà tư tưởng;
+2. các bách khoa triết học có bình duyệt, chủ yếu *Stanford Encyclopedia of Philosophy* (SEP) và *Internet Encyclopedia of Philosophy* (IEP);
+3. sách chuyên khảo của các nhà xuất bản học thuật;
+4. bài báo bình duyệt, đặc biệt là tổng quan hệ thống và phân tích gộp khi bàn về bằng chứng thực nghiệm;
+5. hướng dẫn của các tổ chức chuyên môn và quốc tế (ví dụ IASP, WHO, UNESCO) cho các định nghĩa và khuyến nghị.
+
+Khi các nguồn bất đồng, sách trình bày cả hai phía và nói rõ bằng chứng nghiêng về đâu, thay vì chọn một phía mà không giải thích. Một giả thuyết chưa được xác lập được trình bày là giả thuyết. Ví dụ: lý thuyết quản lý nỗi sợ cái chết được trình bày như vậy sau khi hiệu ứng trung tâm của nó không tái tạo được.
+
+## Nguồn được kiểm tra thế nào
+
+- Mọi tài liệu có mã DOI đều được đối chiếu với cơ sở dữ liệu Crossref hoặc doi.org trước khi phát hành: DOI phải tồn tại, năm và tiêu đề phải khớp.
+- Tài liệu không có DOI (sách cổ điển, mục bách khoa, văn bản của tổ chức) được đối chiếu với trang của nhà xuất bản hoặc tổ chức ban hành.
+- Không có trích dẫn nào được đưa vào nếu chưa kiểm tra được. Một chi tiết không xác định chắc chắn, như niên đại của văn bản cổ, được ghi bằng khoảng thời gian hoặc chữ "khoảng".
+- Mỗi trích dẫn trong sách đều có trong danh mục tài liệu tham khảo, và ngược lại.
+
+## Mức độ thẩm định
+
+Các phiên bản hiện nay **do tác giả tự thẩm định** (*owner-reviewed*). Sách chưa qua bình duyệt độc lập bởi chuyên gia bên ngoài. Người đọc nên coi đây là một tài liệu nhập môn có nguồn rõ ràng, không phải một công trình đã qua bình duyệt.
+
+## Sách được cập nhật thế nào
+
+Đây là một cuốn sách sống. Mỗi chương được cập nhật độc lập, khi:
+
+- có nghiên cứu mới quan trọng;
+- một nguồn được sửa đổi;
+- người đọc hoặc tác giả phát hiện sai sót.
+
+Mỗi lần cập nhật chỉ thay đổi chương liên quan và tài liệu tham khảo của chương đó. Mọi thay đổi được ghi trong [lịch sử phiên bản](https://github.com/fossbk-spec/ai4l-book/blob/main/CHANGELOG.md) và mỗi phiên bản có một mốc phát hành. Cuối mỗi chương có khung **Trạng thái chương** cho biết lần cập nhật gần nhất.
+
+## Báo lỗi và góp ý
+
+Nếu bạn thấy một sai sót, một nguồn không chính xác, hoặc một lập trường quan trọng bị bỏ sót, hãy mở một [issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues). Ghi rõ chương, đoạn, và nếu có thể, nguồn bạn đề xuất.
+
+## Giấy phép
+
+Nội dung sách được phát hành theo giấy phép [Creative Commons Ghi công 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

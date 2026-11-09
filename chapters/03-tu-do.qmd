@@ -83,3 +83,13 @@ Phương Tây hỏi "tôi có thể làm khác đi không?"; phương Đông th�
 - Harris (2012), *Free Will* [@harris2012]
 - O'Connor & Franklin, SEP "Free Will" [@oconnorSEPfreewill]
 - Dominik và cộng sự (2024) [@dominik2024]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.1.2. Bỏ tiêu đề lặp trong khung "Nghiên cứu thực nghiệm".
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Trạng thái:** Ổn định.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::

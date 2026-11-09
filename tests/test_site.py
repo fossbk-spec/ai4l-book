@@ -67,7 +67,7 @@ class RenderedSiteTests(unittest.TestCase):
 
     def test_mindmap_links(self):
         page = parse(SITE / "mindmap.html")
-        self.assertEqual(len(page.svg_links), 7)
+        self.assertEqual(len(page.svg_links), 8)
         for href, label in page.svg_links:
             with self.subTest(href=href):
                 self.assertRegex(href, r"^chapters/[^/]+\.html$")
@@ -91,7 +91,7 @@ class RenderedSiteTests(unittest.TestCase):
 
     def test_chapters_have_controls_and_debates(self):
         chapters = sorted(CHAPTERS.glob("*.html"))
-        self.assertEqual(len(chapters), 7)
+        self.assertEqual(len(chapters), 8)
         for path in chapters:
             with self.subTest(path=path):
                 page = parse(path)

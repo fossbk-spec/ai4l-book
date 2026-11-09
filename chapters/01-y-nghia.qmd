@@ -90,3 +90,13 @@ Sự khác biệt đáng chú ý là thái độ đối với khổ đau. Truy�
 - Baumeister (1991), *Meanings of Life* [@baumeister1991]
 - Metz, SEP "The Meaning of Life", ấn bản Mùa thu 2026 [@metzSEP]
 - King & Hicks (2021), "The Science of Meaning in Life" [@kingHicks2021]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.1.2. Bỏ tiêu đề lặp trong khung "Nghiên cứu thực nghiệm".
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Trạng thái:** Ổn định.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::

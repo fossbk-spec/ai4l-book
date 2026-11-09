@@ -37,7 +37,7 @@ Daniel Dennett, trong *Consciousness Explained* (1991), trả lời ngược l�
 
 Hai lý thuyết lớn chi phối nghiên cứu đương đại. **Lý thuyết không gian làm việc toàn cục** (*Global Workspace Theory*, GWT), do Baars đề xuất trong *A Cognitive Theory of Consciousness* (1988), và được Dehaene phát triển trong *Consciousness and the Brain* (2014), cho rằng ý thức xuất hiện khi thông tin được phát sóng rộng rãi trong não bộ, tới nhiều hệ thống khác nhau [@baars1988; @dehaene2014]. **Lý thuyết thông tin tích hợp** (*Integrated Information Theory*, IIT), do Tononi đề xuất trong "An Information Integration Theory of Consciousness" (2004), *BMC Neuroscience*, cho rằng ý thức là thông tin tích hợp, đo bằng Phi (Φ): một hệ thống càng tích hợp, càng có ý thức [@tononi2004].
 
-Cả hai lý thuyết đều không giải quyết vấn đề khó; IIT bị phê phán vì nó hàm ý rằng ngay cả các hệ thống đơn giản cũng có một chút ý thức. Liên minh Cogitate và cộng sự (2025), trong "Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness", *Nature*, kiểm định đối kháng GWT và IIT trên 256 người tham gia, với fMRI, MEG và ECoG: mỗi lý thuyết được xác nhận một phần và bị thách thức một phần, không lý thuyết nào được ủng hộ hoàn toàn [@cogitate2025].
+Cả hai lý thuyết đều không giải quyết vấn đề khó; IIT bị phê phán vì nó hàm ý rằng ngay cả các hệ thống đơn giản cũng có một chút ý thức. Liên minh Cogitate và cộng sự (2025), trong "Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness", *Nature*, kiểm định đối kháng GWT và IIT trên 256 người tham gia, với fMRI, MEG và ECoG: mỗi lý thuyết được xác nhận một phần và bị thách thức một phần, không lý thuyết nào được ủng hộ hoàn toàn [@cogitate2025]. Ngoài hai lý thuyết này còn những hướng khác. Một ví dụ là xử lý dự đoán (*predictive processing*): bộ não được xem như một cỗ máy liên tục dự đoán tín hiệu cảm giác và điều chỉnh theo sai số dự đoán [@clark2013predictive]. Khung này giải thích được bao nhiêu về trải nghiệm chủ quan vẫn là câu hỏi mở.
 
 ::: {.callout-note}
 ## Nghiên cứu thực nghiệm nói gì?
@@ -53,7 +53,7 @@ Plato, trong *Symposium* (khoảng 385–370 TCN, trích theo số Stephanus 172
 
 Erich Fromm, trong *The Art of Loving* (1956), tên đầy đủ *The Art of Loving: An Inquiry into the Nature of Love*, cho rằng tình yêu là một nghệ thuật, một thực hành: chăm sóc, trách nhiệm, tôn trọng, hiểu biết [@fromm1956]. Harry Frankfurt, trong *The Reasons of Love* (2004), cho rằng tình yêu định hình cái tôi và cho ta lý do hành động [@frankfurt2004].
 
-Tâm lý học gắn bó đưa ra một bức tranh khác, bổ sung chứ không đối lập. John Bowlby, trong *Attachment and Loss, Vol. 1: Attachment* (1969), cho rằng gắn bó là cơ chế sinh tồn [@bowlby1969]. Mary Ainsworth và cộng sự (1978), trong *Patterns of Attachment: A Psychological Study of the Strange Situation*, phân biệt gắn bó an toàn, lo âu, và tránh né [@ainsworth1978]. Robert Sternberg (1986), trong "A Triangular Theory of Love", *Psychological Review*, đề xuất ba thành phần: thân mật, đam mê, và cam kết [@sternberg1986]. Khoa học thần kinh cho thấy tình yêu lãng mạn liên quan tới hệ thống khen thưởng dopaminergic, oxytocin, vasopressin — nhưng biết cơ chế không giải thích được ý nghĩa của tình yêu, giống như biết về sóng âm không giải thích được ý nghĩa của một bản nhạc.
+Tâm lý học gắn bó đưa ra một bức tranh khác, bổ sung chứ không đối lập. John Bowlby, trong *Attachment and Loss, Vol. 1: Attachment* (1969), cho rằng gắn bó là cơ chế sinh tồn [@bowlby1969]. Mary Ainsworth và cộng sự (1978), trong *Patterns of Attachment: A Psychological Study of the Strange Situation*, phân biệt gắn bó an toàn, lo âu, và tránh né [@ainsworth1978]. Robert Sternberg (1986), trong "A Triangular Theory of Love", *Psychological Review*, đề xuất ba thành phần: thân mật, đam mê, và cam kết [@sternberg1986]. Các nghiên cứu hình ảnh não cho thấy tình yêu lãng mạn kích hoạt những vùng thuộc hệ thống khen thưởng, giàu dopamine [@bartels2000love; @fisher2005love] — nhưng biết cơ chế không giải thích được ý nghĩa của tình yêu, giống như biết về sóng âm không giải thích được ý nghĩa của một bản nhạc.
 
 Helm (2005), SEP "Love" (xuất bản lần đầu 8 tháng 4 năm 2005, sửa đổi 2009, 2013, 2021), là điểm khởi đầu tốt cho triết học về tình yêu [@sepLove].
 
@@ -84,3 +84,13 @@ Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắ
 - Fromm (1956), *The Art of Loving* [@fromm1956]
 - Van Gulick, SEP "Consciousness" [@sepConsciousness]
 - Butlin và cộng sự (2026) [@butlin2026]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho khoa học thần kinh về tình yêu; nhắc tới xử lý dự đoán.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Trạng thái:** Ổn định.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::

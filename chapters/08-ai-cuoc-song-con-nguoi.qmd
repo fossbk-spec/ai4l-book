@@ -1,0 +1,125 @@
+# Chương 8. Trí tuệ nhân tạo trong cuộc sống và con người
+
+Bảy chương trước hỏi những câu hỏi cũ như loài người: sống để làm gì, ta là ai, ta có tự do không, cái chết, cái thiện, ý thức, khổ đau. Chương này hỏi lại các câu hỏi ấy dưới ánh sáng của một thứ mới: những cỗ máy biết trò chuyện, viết, chẩn đoán và đề xuất quyết định. Trí tuệ nhân tạo (AI) không tạo ra câu hỏi triết học mới nào từ con số không. Nhưng nó buộc ta trả lời các câu hỏi cũ một cách cụ thể hơn, và nhanh hơn.
+
+Chương này không hỏi AI sẽ làm được gì trong mười năm tới; câu hỏi đó thay đổi từng tháng. Nó hỏi: khi AI có mặt trong công việc, quan hệ, y tế và chiến tranh, điều gì trong cách ta hiểu về con người cần được xem lại, và điều gì cần được giữ vững?
+
+## 1. Bản đồ các lập trường
+
+| Lập trường | Ý chính | Đại diện / nguồn | Điểm yếu lớn nhất |
+|---|---|---|---|
+| AI vì một xã hội tốt | AI có cơ hội lớn cho con người, nếu được dẫn dắt bằng nguyên tắc: làm điều tốt, không gây hại, tự chủ, công bằng, có thể giải thích | Floridi và cộng sự (2018); Floridi và Cowls (2019) | Nguyên tắc dễ đồng thuận nhưng khó thực thi; có nguy cơ "tẩy xanh đạo đức" |
+| Phê phán thuật toán | Thuật toán mang theo thiên lệch của dữ liệu và của người thiết kế; cần soi xét bằng chứng, công bằng và khả năng truy vết | Mittelstadt và cộng sự (2016); Obermeyer và cộng sự (2019) | Dễ dừng ở chẩn đoán vấn đề mà thiếu giải pháp thiết kế |
+| Thận trọng về "hiểu" | Mô hình ngôn ngữ tạo văn bản trôi chảy mà không có ý định giao tiếp; đừng nhân cách hoá | Bender và cộng sự (2021); Shanahan (2024) | Có thể đánh giá thấp những năng lực mới xuất hiện ở các hệ thống lớn |
+| Đạo đức đức hạnh cho thời công nghệ | Câu hỏi chính không phải "máy nên làm gì" mà là "ta cần trở thành người thế nào để sống tốt cùng công nghệ" | Vallor (2016) | Khó chuyển thành quy định cụ thể cho hệ thống |
+
+Bốn lập trường này không loại trừ nhau. Một người có thể vừa tin AI mang lại lợi ích lớn cho y tế, vừa đòi kiểm tra thiên lệch, vừa thận trọng khi nói máy "hiểu", vừa lo cho đức tính của chính mình khi dùng máy mỗi ngày.
+
+## 2. Lịch sử ngắn: từ trò chơi bắt chước tới mô hình ngôn ngữ
+
+Năm 1950, Alan Turing đề nghị thay câu hỏi "máy có thể suy nghĩ không?", một câu hỏi ông cho là quá mơ hồ, bằng một trò chơi bắt chước: nếu qua trao đổi bằng chữ, người hỏi không phân biệt được máy với người, ta có lý do gì để từ chối gọi đó là suy nghĩ? Ông cũng liệt kê trước các phản bác, trong đó có lập luận rằng máy không có ý thức [@turing1950].
+
+Mười sáu năm sau, Joseph Weizenbaum viết ELIZA, một chương trình trò chuyện đơn giản, nổi tiếng nhất với kịch bản đóng vai nhà trị liệu tâm lý. Chương trình chỉ nhận dạng từ khoá và biến đổi câu của người dùng; vậy mà, như chính Weizenbaum ghi nhận, người dùng dễ dàng gán cho nó sự thấu hiểu mà nó không có [@weizenbaum1966]. Bài học ấy, rằng con người rất sẵn lòng thấy một tâm trí ở nơi chỉ có một cơ chế, vẫn còn nguyên giá trị.
+
+Searle, với Phòng Trung Hoa (Chương 6), lập luận rằng thao tác ký hiệu theo quy tắc, dù tinh vi tới đâu, không đủ để có hiểu biết [@searle1980]. Các mô hình ngôn ngữ lớn ngày nay đưa câu hỏi ấy ra khỏi phòng thí nghiệm tư tưởng và vào đời sống hằng ngày.
+
+## 3. Tranh luận 8.1: Máy có hiểu những gì nó nói không?
+
+**Một phía:** Bender và cộng sự (2021) cảnh báo rằng mô hình ngôn ngữ lớn học các mẫu hình thức của văn bản từ khối dữ liệu khổng lồ, nhưng văn bản nó tạo ra không gắn với ý định giao tiếp hay với thế giới. Người đọc mới là bên gán ý nghĩa vào đó. Các tác giả cũng chỉ ra những cái giá ít được nói tới: chi phí môi trường và tài chính, và những thiên lệch nằm trong dữ liệu huấn luyện quá lớn để kiểm soát [@bender2021parrots]. Shanahan (2024) khuyên tránh dùng những từ như "biết", "tin", "nghĩ" một cách tuỳ tiện khi nói về mô hình ngôn ngữ, vì cách nói ấy làm mờ khoảng cách giữa một hệ dự đoán văn bản và một con người [@shanahan2024llm].
+
+**Phía kia:** Turing nhắc rằng ta cũng chỉ suy ra tâm trí của người khác từ hành vi của họ [@turing1950]. Nếu một hệ thống trả lời đúng, linh hoạt, trong những tình huống chưa từng gặp, thì đòi hỏi thêm một thứ "hiểu thật sự" ở bên trong có phải là một tiêu chuẩn kép không?
+
+**Đánh giá:** Tranh luận này lặp lại tranh luận về ý thức ở Chương 6, nhưng với tiền cược thực tế hơn. Butlin và cộng sự (2026) cho rằng hiện chưa có hệ AI nào là ứng viên mạnh cho ý thức, dù cũng không thấy rào cản kỹ thuật hiển nhiên nào ngăn việc xây dựng một hệ như vậy [@butlin2026]. Với người dùng bình thường, hệ quả thực hành rõ ràng hơn kết luận triết học: hãy đối xử với câu trả lời của máy như một bản nháp cần kiểm tra, không như lời của một người hiểu mình.
+
+## 4. AI trong công việc: việc làm, ý nghĩa và phẩm giá
+
+Chương 1 cho thấy ý nghĩa cuộc sống của nhiều người gắn với công việc: làm ra một điều có giá trị, được người khác cần tới. AI chạm thẳng vào chỗ đó.
+
+Bằng chứng kinh tế cho tới nay còn phân tán. Acemoglu và Restrepo (2020), nghiên cứu robot công nghiệp ở các thị trường lao động địa phương tại Mỹ giai đoạn 1990–2007, cho thấy các vùng tiếp nhận nhiều robot hơn có tỷ lệ việc làm và tiền lương giảm [@acemoglu2020robots]. Với mô hình ngôn ngữ, Eloundou và cộng sự (2024) ước tính phần lớn người lao động ở Mỹ có ít nhất một phần nhiệm vụ "phơi nhiễm" với công cụ này [@eloundou2024gpts]. Nhưng phơi nhiễm không có nghĩa là bị thay thế: một nhiệm vụ có thể được làm nhanh hơn, làm khác đi, hoặc biến mất.
+
+Câu hỏi triết học nằm phía sau con số. Nếu máy làm tốt hơn phần lớn những việc ta từng tự hào, thì giá trị của một đời người đến từ đâu? Aristotle sẽ nói: từ hoạt động có đức tính, chứ không phải từ sản lượng [@aristotleNE]. Frankl sẽ nói: từ việc ta sáng tạo, yêu thương, và thái độ ta chọn trước điều không thể thay đổi [@frankl1946].
+
+## 5. AI trong quan hệ và chăm sóc
+
+Chương 6 hỏi tình yêu là cảm xúc, lựa chọn hay thực hành. Ngày nay có người trò chuyện với một "bạn đồng hành" AI mỗi ngày. Skjuve và cộng sự (2021) phỏng vấn người dùng một ứng dụng chatbot bạn đồng hành, và thấy quan hệ với chatbot có thể phát triển từ hời hợt tới sâu sắc, mang lại cảm giác được lắng nghe và được hỗ trợ [@skjuve2021replika]. Đây là nghiên cứu định tính trên một nhóm nhỏ: nó cho thấy trải nghiệm ấy *có thật*, chứ không cho biết nó phổ biến tới đâu hay tốt hay xấu về lâu dài.
+
+Trong chăm sóc người cao tuổi, Sharkey và Sharkey (2012) nêu các lo ngại đạo đức khi dùng robot:
+- giảm tiếp xúc giữa người với người;
+- người già cảm thấy bị đối xử như đồ vật và mất quyền kiểm soát;
+- mất quyền riêng tư và tự do cá nhân;
+- nguy cơ lừa dối và "trẻ con hoá" người được chăm sóc [@sharkey2012granny].
+
+Câu hỏi không phải là có nên dùng máy hay không, mà là máy thay thế hay hỗ trợ sự hiện diện của con người. Fromm gọi tình yêu là một nghệ thuật cần thực hành [@fromm1956]. Một quan hệ không đòi hỏi gì ở ta, không bao giờ làm ta thất vọng, có còn là nơi để thực hành nghệ thuật đó không?
+
+## 6. AI trong y tế: hứa hẹn, thiên lệch và trách nhiệm
+
+Topol (2019) mô tả hứa hẹn của AI ở ba tầng: bác sĩ đọc ảnh và tín hiệu nhanh hơn, hệ thống y tế vận hành hiệu quả hơn, và người bệnh tự theo dõi sức khoẻ tốt hơn. Ông cũng nhấn mạnh rằng phần lớn bằng chứng khi đó đến từ các nghiên cứu hồi cứu, chưa được đánh giá tiến cứu trong thực hành lâm sàng [@topol2019].
+
+Obermeyer và cộng sự (2019) cho thấy mặt trái bằng một trường hợp cụ thể. Một thuật toán được dùng rộng rãi để chọn bệnh nhân cần chăm sóc thêm đã dùng *chi phí y tế* làm thước đo thay cho *nhu cầu sức khoẻ*. Vì hệ thống y tế chi ít hơn cho bệnh nhân da đen, ở cùng một mức điểm rủi ro họ thực ra ốm hơn bệnh nhân da trắng. Khi các tác giả đổi biến mục tiêu, thiên lệch giảm đáng kể [@obermeyer2019bias]. Bài học: một hệ thống không cần ý định xấu để gây bất công; chỉ cần một lựa chọn kỹ thuật tưởng như trung tính.
+
+Mittelstadt và cộng sự (2016) gom các mối lo về thuật toán thành một bản đồ: bằng chứng không kết luận được, bằng chứng không thể soi xét, bằng chứng sai lệch, kết quả bất công, tác động làm thay đổi cách ta sống, và khó truy vết trách nhiệm [@mittelstadt2016]. Chương 5 đã bàn về "khoảng trống trách nhiệm" [@matthias2004] và mô hình trách nhiệm chia sẻ giữa nhiều bên mà WHO khuyến nghị [@who2021aiHealth]. Ở đây chỉ cần thêm: trách nhiệm không tự xuất hiện khi có sự cố; nó phải được thiết kế từ trước, vào dữ liệu, vào giao diện và vào quy trình.
+
+## 7. Tranh luận 8.2: Máy có thể có địa vị đạo đức không?
+
+**Phía "máy là công cụ":** Bryson (2010) lập luận rằng robot là thứ ta tạo ra và sở hữu. Nhân cách hoá chúng là một sai lầm: nó lãng phí sự quan tâm đạo đức vốn dành cho con người, và che mờ trách nhiệm của người làm ra máy [@bryson2010].
+
+**Phía "hãy nghiêm túc với câu hỏi":**
+- Schwitzgebel và Garza (2015): nếu một AI có những năng lực tâm lý và xã hội giống con người, nó xứng đáng được quan tâm đạo đức tương tự. Chính vì ta tạo ra nó, ta có thể còn nợ nó nhiều hơn [@schwitzgebel2015].
+- Coeckelbergh (2010) đổi góc nhìn: thay vì hỏi máy *có* thuộc tính gì bên trong (ý thức, cảm giác), hãy nhìn vào quan hệ xã hội mà ta thực sự có với nó [@coeckelbergh2010].
+- Gunkel (2018) khảo sát toàn bộ cuộc tranh luận về "quyền của robot" và kêu gọi suy nghĩ lại chính khuôn khổ đặt câu hỏi [@gunkel2018].
+- Metzinger (2021) đi theo hướng thận trọng ngược lại: vì ta không biết khi nào một hệ thống có thể *khổ đau*, ông đề xuất một lệnh hoãn toàn cầu đối với nghiên cứu có nguy cơ tạo ra trải nghiệm nhân tạo, để tránh tạo ra khổ đau mới mà ta không nhận ra [@metzinger2021].
+
+**Đánh giá:** Câu hỏi này nối Chương 6 (ý thức) với Chương 7 (khổ đau). Nếu khổ đau là điều xấu ở bất cứ đâu nó xuất hiện, thì khả năng tạo ra khổ đau nhân tạo là một rủi ro đạo đức, dù xác suất thấp. Đồng thời, gán tâm trí cho máy quá dễ (bài học ELIZA) cũng có cái giá của nó. Hai sai lầm đối xứng: coi một cơ chế là một ai đó, và coi một ai đó chỉ là một cơ chế.
+
+## 8. Tự do và trách nhiệm khi máy ra quyết định
+
+Chương 3 hỏi ta có tự do không, và nếu không thì trách nhiệm ở đâu. Sparrow (2007) đặt câu hỏi ấy cho vũ khí tự động: khi một hệ thống tự chọn mục tiêu và gây ra cái chết sai trái, ta không thể quy trách nhiệm một cách thoả đáng cho người lập trình, cho chỉ huy, hay cho chính cỗ máy. Vì vậy, theo ông, triển khai những vũ khí như thế là phi đạo đức [@sparrow2007].
+
+Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quyết định quan trọng được giao cho một hệ thống mà không ai thực sự hiểu và không ai thực sự chịu trách nhiệm, ta đang thu hẹp không gian của tự do và trách nhiệm con người. Chính vì thế, khả năng giải thích được Floridi và Cowls (2019) đề xuất thành một nguyên tắc riêng [@floridiCowls2019]. Các văn bản quốc tế như Khuyến nghị về Đạo đức Trí tuệ Nhân tạo của UNESCO, được 193 quốc gia thành viên thông qua năm 2021 [@unesco2021], và tổng quan 84 bộ nguyên tắc đạo đức AI của Jobin và cộng sự (2019) [@jobin2019] cho thấy sự đồng thuận về nguyên tắc. Khoảng cách nằm ở việc thực thi.
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+- **Thiên lệch là có thật và đo được:** thuật toán y tế dùng chi phí thay cho nhu cầu đã đánh giá thấp nhu cầu của bệnh nhân da đen; đổi biến mục tiêu làm giảm thiên lệch [@obermeyer2019bias].
+- **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, mới đo được mức "phơi nhiễm" của nhiệm vụ, chưa phải mức thay thế [@eloundou2024gpts].
+- **Quan hệ với chatbot có thể mang lại cảm giác được hỗ trợ**, nhưng bằng chứng hiện có chủ yếu là định tính, trên nhóm nhỏ [@skjuve2021replika].
+- **AI trong y tế cần kiểm chứng tiến cứu**, không chỉ hiệu năng trên dữ liệu cũ [@topol2019].
+- **Chưa có bằng chứng hệ AI hiện nay có ý thức** theo các chỉ báo rút ra từ các lý thuyết khoa học về ý thức [@butlin2026].
+:::
+
+## 9. Đối chiếu các truyền thống
+
+Thay vì hỏi "phương Đông nghĩ gì về AI", hãy đặt cạnh nhau những văn bản cụ thể.
+
+**Aristotle, Khổng Tử và Phật giáo, qua Vallor.** Vallor (2016) xây dựng một bộ "đức tính công nghệ – đạo đức" cho thời đại số, như trung thực, tự chủ, khiêm tốn, công bằng, can đảm, cảm thông, quan tâm và khôn ngoan thực hành. Bà lấy chất liệu từ ba truyền thống: đạo đức đức hạnh của Aristotle, Nho giáo và Phật giáo [@vallor2016]. Điểm chung bà nêu: cả ba coi đức tính là thói quen được rèn qua thực hành, trong quan hệ với người khác, chứ không phải một quy tắc có thể lập trình. Nhưng ba truyền thống cũng khác nhau, và khác nhau ngay bên trong:
+- Nho giáo đặt con người trong mạng quan hệ và lễ [@confucius], nhưng Mạnh Tử và Tuân Tử bất đồng về chuyện đức tính đến từ bản tính hay từ rèn luyện (Chương 2).
+- Phật giáo nhấn mạnh vô ngã và sự dính mắc [@buddhaSEP]. Câu hỏi "AI có cái tôi không?" vì vậy được đặt lại thành câu hỏi "ta đang bám víu vào điều gì khi tìm sự đồng hành nơi máy?".
+
+**Kant và trường phái vị lợi trước một thuật toán phân bổ.** Thuyết vị lợi có thể ủng hộ một thuật toán phân bổ nguồn lực y tế nếu nó làm tăng tổng lợi ích. Kant nhắc rằng mỗi người là một mục đích tự thân, không phải một điểm dữ liệu [@kant1785]. Trường hợp Obermeyer cho thấy hai cách nhìn này gặp nhau: một hệ thống tối ưu sai thước đo vừa không tối đa hoá lợi ích, vừa đối xử bất công với một nhóm người.
+
+## 10. Câu hỏi mở
+
+- Nếu máy tạo ra văn bản, hình ảnh, âm nhạc không phân biệt được với của người, thì "sáng tạo" còn là dấu hiệu riêng của con người không? Nếu không, điều gì là riêng?
+- Khi một hệ AI làm tốt hơn bác sĩ ở một nhiệm vụ hẹp, bác sĩ còn có quyền, và có nghĩa vụ, phủ quyết nó không?
+- Có nên cho phép những "bạn đồng hành" AI được thiết kế để người dùng gắn bó lâu nhất có thể không?
+- Nếu ta không bao giờ chắc một hệ thống có trải nghiệm hay không, nguyên tắc thận trọng nào là hợp lý: đối xử như thể nó có, hay như thể nó không?
+- Khi AI làm nhiều việc thay ta, đời sống có thêm thời gian cho điều có ý nghĩa, hay mất đi những hoạt động từng tạo ra ý nghĩa?
+
+## 11. Đọc thêm
+
+- Turing (1950), "Computing Machinery and Intelligence" [@turing1950]
+- Vallor (2016), *Technology and the Virtues* [@vallor2016]
+- Floridi và cộng sự (2018), "AI4People" [@floridi2018ai4people]
+- Bender và cộng sự (2021), "On the Dangers of Stochastic Parrots" [@bender2021parrots]
+- Gunkel (2018), *Robot Rights* [@gunkel2018]
+- Müller, SEP "Ethics of Artificial Intelligence and Robotics" [@sepAIEthics]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.2.0. Chương mới.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Trạng thái:** Mới — mời góp ý.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::

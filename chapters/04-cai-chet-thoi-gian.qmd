@@ -4,7 +4,17 @@ Cái chết làm cuộc sống trở nên vô nghĩa, hay chính sự hữu hạ
 
 Chương này đi từ Plato và Epicurus tới Nagel, Heidegger, Williams, McTaggart, và các nghiên cứu cận tử đương đại — cùng với một lời cảnh báo về lý thuyết quản lý nỗi sợ cái chết, một giả thuyết từng được trình bày như sự thật đã được xác lập.
 
-## 1. Cái chết có xấu không?
+## 1. Bản đồ các lập trường
+
+| Lập trường | Ý chính | Đại diện | Điểm yếu lớn nhất |
+|---|---|---|---|
+| Cái chết không là gì với ta | Khi ta tồn tại, cái chết vắng mặt; khi cái chết có mặt, ta không còn. Ta không sợ khoảng vĩnh hằng trước khi sinh, vậy cũng không nên sợ khoảng sau khi chết | Epicurus, Lucretius | Khó giải thích trực giác rất phổ biến rằng chết sớm là một mất mát |
+| Thuyết tước đoạt | Cái chết xấu vì nó lấy đi những điều tốt đẹp lẽ ra ta đã có | Nagel, Kagan | Khó chỉ ra ai chịu thiệt, khi người ấy không còn để trải nghiệm |
+| Hữu hạn làm nên đời sống chân thực | Đối diện cái chết như khả năng chắc chắn nhất giúp ta sống thật với lựa chọn của mình | Heidegger, Kierkegaard | Dễ xem nhẹ nỗi mất mát thật sự mà cái chết gây ra |
+| Bất tử: tẻ nhạt hay đáng muốn | Williams cho rằng bất tử sẽ tẻ nhạt; Fischer cho rằng nó có thể đáng muốn | Williams, Fischer | Câu trả lời phụ thuộc vào câu hỏi "cái tôi nào sống mãi?" (Parfit) |
+| Biến hoá và tiếp nối | Sinh và tử là biến hoá của Đạo; tái sinh là sự tiếp nối nhân quả mà không có một cái tôi cố định | Trang Tử, Phật giáo | Khó đặt cạnh bằng chứng thực nghiệm; câu hỏi "điều gì tiếp nối?" vẫn mở |
+
+## 2. Cái chết có xấu không?
 
 Plato, trong *Phaedo* (khoảng 360 TCN), mô tả Socrates trong ngày cuối cùng: linh hồn là bất tử, và triết học là sự chuẩn bị cho cái chết [@platoPhaedo]. Simmias và Cebes phản đối: linh hồn có thể chỉ là sự hài hoà của cơ thể, tan biến khi cơ thể tan rã — như âm thanh của cây đàn biến mất khi đàn vỡ.
 
@@ -14,7 +24,7 @@ Thomas Nagel, trong "Death" (*Noûs*, 1970; in lại trong *Mortal Questions*, 1
 
 Trang Tử nhìn cái chết khác hẳn: sinh và tử là sự biến hoá của Đạo, như bốn mùa. Phật giáo nói không có *atman*, không có cái tôi cố định, nhưng có tái sinh như sự tiếp nối nhân quả — như ngọn lửa được truyền từ cây nến này sang cây nến khác — cho tới khi đạt niết bàn [@buddhaSEP].
 
-## 2. Tranh luận 4.1: Bất tử có đáng muốn không?
+## 3. Tranh luận 4.1: Bất tử có đáng muốn không?
 
 Bernard Williams, trong "The Makropulos Case" (1973), trong *Problems of the Self*, kể về Elina Makropulos, người đã sống 300 năm nhờ một loại thuốc trường sinh — và rơi vào sự chán chường sâu sắc [@williams1973]. Williams lập luận: bất tử sẽ trở nên tẻ nhạt, vì những ham muốn và tính cách làm nên "ta" rồi sẽ cạn kiệt; một đời sống kéo dài vô hạn sẽ không còn là đời sống *của ta* nữa.
 
@@ -22,13 +32,13 @@ Bernard Williams, trong "The Makropulos Case" (1973), trong *Problems of the Sel
 
 **Đánh giá:** Tranh luận này cho thấy câu hỏi "bất tử có đáng muốn không?" phụ thuộc vào câu hỏi "cái 'tôi' nào sẽ sống mãi?" — và đó là câu hỏi về bản sắc cá nhân. Parfit, trong *Reasons and Persons* (1984), cho rằng điều quan trọng không phải là bản sắc nghiêm ngặt, mà là sự tiếp nối tâm lý — và điều đó làm thay đổi cả cách ta nghĩ về cái chết [@parfit1984].
 
-## 3. Heidegger: hiện hữu-hướng-tới-cái-chết
+## 4. Heidegger: hiện hữu-hướng-tới-cái-chết
 
 Heidegger, trong *Being and Time* (1927), cho rằng Dasein — hiện hữu con người — về bản chất là *hiện hữu-hướng-tới-cái-chết* (*Sein-zum-Tode*): cái chết là khả năng chắc chắn nhất, không thể thay thế, và không thể vượt qua của ta [@heidegger1927]. Tính không chân thực (*inauthenticity*) là chạy trốn khỏi cái chết — sống như thể mình sẽ sống mãi, bận rộn với những chuyện tầm thường để không phải đối diện với sự hữu hạn. Tính chân thực là đón nhận cái chết như một phần của mình, và vì vậy sống một cách quyết đoán, với những lựa chọn thực sự là của mình. Kierkegaard, trong *The Sickness unto Death* (1849), đã đi trước Heidegger ở điểm này: tuyệt vọng là không muốn là chính mình, hay muốn là chính mình một cách tuyệt vọng [@kierkegaard1843].
 
 Sartre (1943) và Camus (1942) đưa ra những biến thể khác nhau của cùng một trực giác: cái chết không có ý nghĩa cho sẵn, và chính vì vậy ta phải tự tạo ra ý nghĩa [@sartre1943; @camus1942].
 
-## 4. Thời gian: dãy A, dãy B, và thời gian sống
+## 5. Thời gian: dãy A, dãy B, và thời gian sống
 
 Augustine, trong *Confessions* (khoảng 397–400), Quyển XI, hỏi: thời gian là gì? Quá khứ đã qua, tương lai chưa tới, hiện tại chỉ là một khoảnh khắc không có độ dài — vậy thời gian ở đâu? Câu trả lời của ông: thời gian ở trong tâm hồn — *distentio animi*, sự căng ra của tâm hồn: hiện tại của quá khứ là ký ức, hiện tại của hiện tại là chú ý, hiện tại của tương lai là mong đợi [@augustine].
 
@@ -38,7 +48,7 @@ Thuyết tương đối của Einstein (1905, 1915) làm cho vấn đề trở n
 
 **Câu hỏi mở:** Thời gian có thực sự trôi, hay sự trôi qua chỉ là cách não bộ tổ chức ký ức? Mũi tên thời gian đến từ đâu — từ nhiệt động lực học, từ vũ trụ học, hay từ chính cấu trúc của ý thức?
 
-## 5. Tranh luận 4.2: Lý thuyết quản lý nỗi sợ cái chết — giả thuyết, không phải sự thật
+## 6. Tranh luận 4.2: Lý thuyết quản lý nỗi sợ cái chết — giả thuyết, không phải sự thật
 
 Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho rằng văn hoá là những "dự án bất tử": con người xây dựng văn hoá, tôn giáo, và danh tiếng để phủ nhận cái chết của mình [@becker1973]. Greenberg, Pyszczynski và Solomon phát triển ý tưởng này thành lý thuyết quản lý nỗi sợ cái chết (*terror management theory*, TMT): khi nỗi sợ cái chết được gợi lên (*mortality salience*), con người bám chặt hơn vào thế giới quan văn hoá của mình và bảo vệ lòng tự trọng.
 
@@ -46,7 +56,7 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 
 **Vì sao phải trình bày TMT như một giả thuyết, không phải sự thật đã xác lập?** Many Labs 4 — Klein và cộng sự (2022), "Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement", *Collabra: Psychology* — với 17 phòng thí nghiệm, N = 1.550 sau khi loại trừ, đã không tái tạo được hiệu ứng nổi bật về tử vong cổ điển [@klein2022]. Một giả thuyết có thể vẫn sinh nhiều nghiên cứu thú vị ngay cả khi hiệu ứng trung tâm của nó không tái tạo được — nhưng nó phải được trình bày đúng với tình trạng bằng chứng của nó: một giả thuyết phong phú, đang tranh cãi, không phải một sự thật đã xác lập.
 
-## 6. Nghiên cứu thực nghiệm nói gì? Trải nghiệm cận tử và định nghĩa cái chết
+## 7. Nghiên cứu thực nghiệm nói gì? Trải nghiệm cận tử và định nghĩa cái chết
 
 ::: {.callout-note appearance="simple"}
 
@@ -57,11 +67,11 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 **Chết não.** Ủy ban Harvard (1968), "A definition of irreversible coma", *JAMA* [@harvard1968]. Theo hướng dẫn đồng thuận năm 2023, chết não (chết theo tiêu chuẩn thần kinh) đòi hỏi mất vĩnh viễn chức năng của toàn bộ não, gồm cả thân não; việc xác định này dẫn tới tuyên bố tử vong về mặt pháp lý trong bối cảnh Hoa Kỳ [@greer2023brainDeath]. Trạng thái thực vật, hay hội chứng thức tỉnh không đáp ứng, là rối loạn ý thức ở một người còn sống, không phải chết não [@giacino2018consciousness]. ECMO và bảo quản lạnh tiếp tục đặt ra câu hỏi về ranh giới của cái chết. Xem thêm Luper (chủ biên) (2014), *The Cambridge Companion to Life and Death* [@luper2014], và các mục SEP "Death" [@luperSEPdeath], "Time", "Personal Identity" [@olsonSEPidentity], và "The Definition of Death".
 :::
 
-## 7. Đối thoại Đông – Tây
+## 8. Đối thoại Đông – Tây
 
 Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường hỏi "làm sao sống với cái chết?". Trang Tử xem sinh tử như sự biến hoá của Đạo; Phật giáo xem cái chết như một phần của vô thường, và sự bám víu vào một cái tôi vĩnh cửu là nguồn gốc của khổ đau. Heidegger nói về tính chân thực qua việc đón nhận cái chết; Phật giáo nói về chánh niệm về cái chết (*maraṇasati*) như một thực hành. Cả hai đều cho rằng chạy trốn khỏi cái chết làm cho đời sống trở nên nông cạn — nhưng Heidegger đi tới quyết đoán cá nhân, còn Phật giáo đi tới buông bỏ cái tôi. Đó là hai con đường khác nhau từ cùng một điểm khởi hành.
 
-## 8. Câu hỏi mở
+## 9. Câu hỏi mở
 
 - Cái chết có thể xấu cho người đã chết, nếu không còn ai để chịu đựng nó?
 - Bất tử có đáng muốn không, và cái "tôi" nào sẽ sống mãi?
@@ -70,7 +80,7 @@ Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường h
 - Não bộ tạo ra ý thức hay chỉ tiếp nhận nó?
 - Khi nào một người chết, và ai quyết định?
 
-## 9. Đọc thêm
+## 10. Đọc thêm
 
 - Heidegger (1927), *Being and Time* [@heidegger1927]
 - Nagel (1979), *Mortal Questions* — bài "Death" (1970) [@nagel1970death]
@@ -79,3 +89,13 @@ Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường h
 - McTaggart (1908), "The Unreality of Time" [@mctaggart1908]
 - Fischer (2019; bìa mềm 2020) [@fischer2019]
 - Luper (chủ biên) (2014), *The Cambridge Companion to Life and Death* [@luper2014]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm bản đồ các lập trường; trước đó (1.1.3) tách chết não khỏi trạng thái thực vật.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Trạng thái:** Ổn định.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::
