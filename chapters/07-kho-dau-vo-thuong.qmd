@@ -52,8 +52,7 @@ Tedeschi và Calhoun (1996), với Posttraumatic Growth Inventory (PTGI), *Journ
 
 ## 5. Nghiên cứu thực nghiệm nói gì?
 
-::: {.callout-note}
-## Nghiên cứu thực nghiệm nói gì?
+::: {.callout-note appearance="simple"}
 
 **Khả năng phục hồi.** Bonanno, "Loss, Trauma, and Human Resilience" (2004), *American Psychologist* — quỹ đạo phổ biến nhất sau mất mát/sang chấn là phục hồi, không phải rối loạn mạn tính; khả năng phục hồi là một quá trình bình thường, phụ thuộc vào các mối quan hệ, niềm tin và nguồn lực [@bonanno2004]. Đừng nhầm với bản in lại 2008. Nhấn mạnh quá mức vào khả năng phục hồi có thể trở thành một yêu cầu "đứng lên một mình", bỏ qua hỗ trợ xã hội và bất bình đẳng.
 

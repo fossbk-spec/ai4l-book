@@ -2,6 +2,12 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.1.2] — Structure
+
+- Ch. 2: the Mencius–Xunzi section is labelled as debate 2.1 (the chapter had only 2.2) and now opens and closes like the other debates.
+- Ch. 1, 3, 4, 7: the empirical-research box no longer repeats the title of the section it sits in.
+- Timeline: headings now match their rows (17th century, 18th–19th, 20th, 21st); entries after 1700 and after 2000 had sat under the wrong heading.
+
 ## [1.1.1] — Citation details
 
 - Ch. 6, timeline: Butlin et al. dated **2026**, as published in *Trends in Cognitive Sciences* 30(6): 488–501 (June 2026); it was listed as 2025.

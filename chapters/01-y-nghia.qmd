@@ -56,8 +56,7 @@ Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất l
 
 ## 6. Nghiên cứu thực nghiệm nói gì?
 
-::: {.callout-note}
-## Nghiên cứu thực nghiệm nói gì?
+::: {.callout-note appearance="simple"}
 
 Tâm lý học đương đại phân biệt ba khía cạnh của ý nghĩa: **tính mạch lạc** (đời sống có thể hiểu được), **mục đích** (có định hướng, mục tiêu), và **tính quan trọng** (đời sống có giá trị, đáng sống). Ba khía cạnh này được Martela và Steger (2016) hệ thống hoá [@martelaSteger2016] và được King và Hicks (2021) tổng quan trong *Annual Review of Psychology* [@kingHicks2021].
 

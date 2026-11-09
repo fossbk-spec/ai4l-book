@@ -48,8 +48,7 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 
 ## 6. Nghiên cứu thực nghiệm nói gì? Trải nghiệm cận tử và định nghĩa cái chết
 
-::: {.callout-note}
-## Nghiên cứu thực nghiệm nói gì?
+::: {.callout-note appearance="simple"}
 
 **Trải nghiệm cận tử (NDE).** Van Lommel và cộng sự (2001), *The Lancet*: 344 người sống sót sau ngừng tim ở 10 bệnh viện Hà Lan, 62 người (18%) báo cáo NDE, 41 người (12%) trải nghiệm cốt lõi; tần suất không tương quan với thời gian ngừng tim, thuốc, hay nỗi sợ cái chết trước đó [@vanLommel2001]. AWARE (Parnia và cộng sự, 2014), *Resuscitation*, không tìm thấy bằng chứng khách quan vững chắc về tri giác ngoài cơ thể [@parnia2014]. AWARE-II (Parnia và cộng sự, 2023), *Resuscitation* — 25 cơ sở, 567 ca ngừng tim nội viện 2017–2020 — bổ sung các tương quan EEG trong quá trình hồi sức tim phổi [@parnia2023]. Martial và cộng sự (2020) tổng quan NDE như một cửa sổ thăm dò ý thức (ngắt kết nối) [@martial2020]. Kovoor và cộng sự (2024), tổng quan phạm vi trên 11 nghiên cứu tiền cứu, ghi nhận tỷ lệ 6,3–39,3% [@kovoor2024].
 
