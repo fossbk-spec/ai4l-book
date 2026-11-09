@@ -7,6 +7,7 @@ All notable changes to *Cuộc sống và con người* are documented here. The
 - Timeline: removed the incorrect 1842 birth claim for Camus; the existing 1942 publication row remains.
 - References: moved 15 SEP/IEP URLs and the Chalmers and Frankfurt links into URL fields so readers can follow them.
 - Ch. 4: distinguished brain death from vegetative state/unresponsive wakefulness syndrome.
+- Ch. 5: clarified shared accountability for supervised clinical AI while retaining the clinician's final care decision.
 
 ## [1.1.2] — Structure
 
