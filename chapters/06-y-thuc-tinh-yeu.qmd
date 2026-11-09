@@ -59,7 +59,7 @@ Helm (2005), SEP "Love" (xuất bản lần đầu 8 tháng 4 năm 2005, sửa �
 
 ## 6. Tranh luận 6.2: AI có thể có ý thức không?
 
-Butlin, Long, Bayne và cộng sự (2025), "Identifying Indicators of Consciousness in AI Systems", *Trends in Cognitive Sciences* (bản preprint 2023, arXiv:2308.08708), đề xuất 14 chỉ báo ý thức rút ra từ các lý thuyết: không có hệ AI hiện tại nào là ứng cử viên mạnh, nhưng không có rào cản kỹ thuật rõ ràng nào ngăn việc xây dựng một hệ như vậy [@butlin2025]. Chức năng luận nói: nếu AI thực hiện đúng các chức năng, không có lý do nguyên tắc nào để phủ nhận tâm trí. Searle nói: mô phỏng là chưa đủ, chỉ có nhân quả sinh học đúng mới cho ý thức. IIT hỏi: AI có Phi đủ cao và cấu trúc tích hợp đúng không? GWT hỏi: nó có một không gian làm việc toàn cục thực sự, hay chỉ là các mô-đun rời rạc?
+Butlin, Long, Bayne và cộng sự (2026), "Identifying Indicators of Consciousness in AI Systems", *Trends in Cognitive Sciences* (bản preprint 2023, arXiv:2308.08708), đề xuất 14 chỉ báo ý thức rút ra từ các lý thuyết: không có hệ AI hiện tại nào là ứng cử viên mạnh, nhưng không có rào cản kỹ thuật rõ ràng nào ngăn việc xây dựng một hệ như vậy [@butlin2026]. Chức năng luận nói: nếu AI thực hiện đúng các chức năng, không có lý do nguyên tắc nào để phủ nhận tâm trí. Searle nói: mô phỏng là chưa đủ, chỉ có nhân quả sinh học đúng mới cho ý thức. IIT hỏi: AI có Phi đủ cao và cấu trúc tích hợp đúng không? GWT hỏi: nó có một không gian làm việc toàn cục thực sự, hay chỉ là các mô-đun rời rạc?
 
 **Hệ quả đạo đức:** Nếu một AI có ý thức, dù tối thiểu, ta có thể nợ nó một số nghĩa vụ; nếu ta gán ý thức quá dễ dàng, ta lãng phí nguồn lực đạo đức và làm méo mó trách nhiệm con người. Quan điểm thận trọng: đừng khẳng định AI hiện tại có ý thức, đừng loại trừ AI tương lai, và hãy xây dựng tiêu chí đánh giá trước khi các hệ thống trở nên đủ phức tạp.
 
@@ -83,4 +83,4 @@ Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắ
 - Dehaene (2014), *Consciousness and the Brain* [@dehaene2014]
 - Fromm (1956), *The Art of Loving* [@fromm1956]
 - Van Gulick, SEP "Consciousness" [@sepConsciousness]
-- Butlin và cộng sự (2025) [@butlin2025]
+- Butlin và cộng sự (2026) [@butlin2026]

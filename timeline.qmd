@@ -105,7 +105,8 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 2022 | Klein và cộng sự, Many Labs 4, *Collabra: Psychology* — không tái tạo được hiệu ứng nổi bật về tử vong; Mudrik và cộng sự, *Trends in Cognitive Sciences*; Stilwell và cộng sự, *Journal of Pain*. | 4, 3, 7 |
 | 2023 | Parnia và cộng sự, AWARE-II, *Resuscitation*. | 4 |
 | 2024 | Dominik và cộng sự, tổng quan hệ thống về Libet, *Neuroscience & Biobehavioral Reviews*; Nathan, *The Quest for Human Nature*; Kovoor và cộng sự, *Discover Mental Health*. | 3, 2, 4 |
-| 2025 | Butlin và cộng sự, 14 chỉ báo ý thức ở hệ AI, *Trends in Cognitive Sciences*; Cogitate Consortium và cộng sự, kiểm định đối kháng GWT và IIT, *Nature*. | 6 |
+| 2025 | Cogitate Consortium và cộng sự, kiểm định đối kháng GWT và IIT, *Nature*. | 6 |
+| 2026 | Butlin và cộng sự, 14 chỉ báo ý thức ở hệ AI, *Trends in Cognitive Sciences*. | 6 |
 
 ## Đọc dòng thời gian như thế nào?
 
