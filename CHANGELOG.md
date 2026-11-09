@@ -2,6 +2,10 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.1.4] — Citation detail
+
+- Ch. 6: Cogitate Consortium et al. (2025) now cited with volume and pages, *Nature* 642(8066): 133–142.
+
 ## [1.1.3] — Accuracy and reference links
 
 - Timeline: removed the incorrect 1842 birth claim for Camus; the existing 1942 publication row remains.
