@@ -2,6 +2,11 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.1.3] — Accuracy and reference links
+
+- Timeline: removed the incorrect 1842 birth claim for Camus; the existing 1942 publication row remains.
+- References: moved 15 SEP/IEP URLs and the Chalmers and Frankfurt links into URL fields so readers can follow them.
+
 ## [1.1.2] — Structure
 
 - Ch. 2: the Mencius–Xunzi section is labelled as debate 2.1 (the chapter had only 2.2) and now opens and closes like the other debates.

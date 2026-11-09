@@ -81,6 +81,14 @@ class RenderedSiteTests(unittest.TestCase):
                     [href for href in parse(path).links if href.split("#", 1)[0].split("?", 1)[0].endswith(".qmd")]
                 )
 
+    def test_reference_encyclopedia_links(self):
+        page = parse(SITE / "references.html")
+        encyclopedia_links = [
+            href for href in page.links
+            if "plato.stanford.edu" in href or "iep.utm.edu" in href
+        ]
+        self.assertGreaterEqual(len(encyclopedia_links), 15)
+
     def test_chapters_have_controls_and_debates(self):
         chapters = sorted(CHAPTERS.glob("*.html"))
         self.assertEqual(len(chapters), 7)
