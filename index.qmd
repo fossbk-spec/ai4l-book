@@ -1,7 +1,7 @@
 # Cuộc sống và con người
 
-**Tác giả:** Hoang Quang Huy (Ben) — Giảng viên, Đại học Bách khoa Hà Nội, iBME Lab
-**Phiên bản:** 1.1.0 — bản hiệu đính theo tổng quan tài liệu ngày 9 tháng 11 năm 2026
+**Tác giả:** Hoàng Quang Huy — Đại học Bách khoa Hà Nội
+**Phiên bản:** 1.1 (tháng 11 năm 2026)
 
 > "Một đời sống không được suy xét thì không đáng sống."
 > — Socrates
@@ -26,13 +26,13 @@ Cuốn sách gồm bảy chương, mỗi chương là một nhóm câu hỏi:
 
 Bạn có thể đọc theo thứ tự, hoặc nhảy thẳng tới câu hỏi đang khiến bạn trăn trở. Mỗi chương đều đứng độc lập. Trước khi đọc sâu, hãy xem **[bản đồ tư duy](mindmap.qmd)** để có cái nhìn toàn cảnh, và **[dòng thời gian](timeline.qmd)** để thấy các ý tưởng đã nối tiếp nhau ra sao trong 2.500 năm, từ khoảng năm 800 trước Công nguyên tới năm 2025.
 
-Mỗi chương có cùng một cấu trúc quen thuộc: bản đồ các lập trường, các tranh luận mở và đóng, một khung riêng về những gì nghiên cứu thực nghiệm nói, một phần đối thoại Đông – Tây, các câu hỏi mở, và danh mục đọc thêm. Cuối sách là bản đồ sáu liên kết chéo giữa các chương — bởi vì các câu hỏi này không tách rời nhau: bản chất con người gắn với tự do, tự do gắn với trách nhiệm đạo đức, cái chết gắn với ý nghĩa, và khổ đau gắn với tất cả.
+Mỗi chương có cùng một cấu trúc quen thuộc: bản đồ các lập trường, các tranh luận mở và đóng, một khung riêng về những gì nghiên cứu thực nghiệm nói, một phần đối thoại Đông – Tây, các câu hỏi mở, và danh mục đọc thêm. Trang bản đồ tư duy còn chỉ ra sáu liên kết chéo giữa các chương — bởi vì các câu hỏi này không tách rời nhau: bản chất con người gắn với tự do, tự do gắn với trách nhiệm đạo đức, cái chết gắn với ý nghĩa, và khổ đau gắn với tất cả.
 
 ## Một cuốn sách sống
 
-Đây là một cuốn sách sống (living book): nó được cập nhật từng chương, khi có nghiên cứu mới hoặc khi phát hiện sai sót. Phiên bản 1.0 được xây dựng ngày 8 tháng 11 năm 2026. Phiên bản 1.1.0 chỉ hiệu đính theo tổng quan tài liệu: sửa 12 lỗi trích dẫn và niên đại, trong đó có trích dẫn gốc của lý thuyết quản lý nỗi sợ cái chết, lịch sử tên sách của Frankl, cách ghi niên đại của Aristotle, Lão Tử, Upanishad và Bhagavad Gita, cùng năm 2022 của Many Labs 4. Chi tiết xem [CHANGELOG.md](CHANGELOG.md). Không có luận điểm mới nào được thêm vào trong bản 1.1.0.
+Đây là một cuốn sách sống: nó được cập nhật từng chương, khi có nghiên cứu mới hoặc khi phát hiện sai sót. Những thay đổi giữa các phiên bản được ghi trong [lịch sử phiên bản](https://github.com/fossbk-spec/ai4l-book/blob/main/CHANGELOG.md).
 
-Cuốn sách được viết bằng tiếng Việt, với tài liệu tham khảo đã được kiểm chứng và ghi trong `references.bib`. Các trích dẫn trong sách đều có thể truy về nguồn gốc: nhà xuất bản, số DOI, hoặc Bách khoa toàn thư Triết học Stanford (SEP) và Bách khoa toàn thư Triết học trên Internet (IEP). Khi một điều chưa thể xác định chắc chắn — như niên đại của các văn bản cổ — sách ghi một khoảng thời gian hoặc chữ "khoảng", thay vì một con số chính xác.
+Mọi tài liệu tham khảo được liệt kê ở [cuối sách](references.qmd). Các trích dẫn trong sách đều có thể truy về nguồn gốc: nhà xuất bản, số DOI, hoặc Bách khoa toàn thư Triết học Stanford (SEP) và Bách khoa toàn thư Triết học trên Internet (IEP). Khi một điều chưa thể xác định chắc chắn — như niên đại của các văn bản cổ — sách ghi một khoảng thời gian hoặc chữ "khoảng", thay vì một con số chính xác.
 
 ## Ai nên đọc cuốn sách này?
 

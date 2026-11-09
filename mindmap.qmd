@@ -31,4 +31,3 @@ Các chương không đứng riêng lẻ. Sáu liên kết sau chạy xuyên su�
 
 - Nếu bạn mới bắt đầu, hãy đọc bản đồ rồi chọn một nhánh gần với câu hỏi của mình nhất.
 - Nếu bạn đã đọc hết, hãy quay lại bản đồ và đi theo các liên kết chéo: đó là nơi cuốn sách thực sự bắt đầu đối thoại với chính nó.
-- Mỗi chương đều có thể được cập nhật độc lập; khi một chương thay đổi, bản đồ này cũng sẽ được xem lại.
