@@ -57,7 +57,7 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 |---|---|---|
 | 1903 | G. E. Moore, *Principia Ethica*: sai lầm tự nhiên hoá. | 5 |
 | 1905 / 1915 | Einstein, thuyết tương đối: tính đồng thời là tương đối, không có một hiện tại vũ trụ duy nhất. | 4 |
-| 1908 | McTaggart, "The Unreality of Time", *Mind* 17(68): 457–474: dãy A và dãy B. | 4 |
+| 1908 | McTaggart, "The Unreality of Time", *Mind*: dãy A và dãy B. | 4 |
 | 1927 | Heidegger, *Being and Time*: Dasein là hiện hữu-hướng-tới-cái-chết. | 4 |
 | 1930 | Freud, *Civilization and Its Discontents* (viết 1929): văn minh dựng trên kìm nén. | 2 |
 | 1942 | Camus, *The Myth of Sisyphus*. | 1, 7 |
@@ -65,47 +65,47 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 1945 | Merleau-Ponty, *Phenomenology of Perception*: tâm trí nhập thân. | 6 |
 | 1946 / 1959 / 1962 | Frankl: tiếng Đức 1946; tiếng Anh 1959 là *From Death-Camp to Existentialism*; tên *Man's Search for Meaning* chỉ từ 1962. | 1, 7 |
 | 1956 | Fromm, *The Art of Loving*: tình yêu là nghệ thuật, thực hành, chăm sóc, trách nhiệm, tôn trọng, hiểu biết. | 6 |
-| 1958 | Anscombe, "Modern Moral Philosophy", *Philosophy* 33(124): 1–19. | 5 |
-| 1962 | P. F. Strawson, "Freedom and Resentment", *Proceedings of the British Academy* 48: 187–211. | 3 |
-| 1965 | Melzack & Wall, lý thuyết cổng kiểm soát cơn đau, *Science* 150(3699): 971–979. | 7 |
-| 1967 | Foot, "The Problem of Abortion and the Doctrine of the Double Effect", *Oxford Review* 5: 5–15 — bài toán xe điện ra đời (Thomson đặt tên sau đó). | 5 |
-| 1968 | Ủy ban Harvard về định nghĩa chết não, *JAMA* 205(6): 337–340. | 4 |
-| 1969 | Bowlby, *Attachment and Loss, Vol. 1: Attachment*; Frankfurt, "Alternate Possibilities and Moral Responsibility", *Journal of Philosophy* 66(23): 829–839. | 6, 3 |
-| 1970 | Nagel, "Death", *Noûs* 4(1): 73–80: cái chết gây hại bằng cách tước đoạt tương lai tốt đẹp. | 4 |
+| 1958 | Anscombe, "Modern Moral Philosophy", *Philosophy*. | 5 |
+| 1962 | P. F. Strawson, "Freedom and Resentment", *Proceedings of the British Academy*. | 3 |
+| 1965 | Melzack & Wall, lý thuyết cổng kiểm soát cơn đau, *Science*. | 7 |
+| 1967 | Foot, "The Problem of Abortion and the Doctrine of the Double Effect", *Oxford Review* — bài toán xe điện ra đời (Thomson đặt tên sau đó). | 5 |
+| 1968 | Ủy ban Harvard về định nghĩa chết não, *JAMA*. | 4 |
+| 1969 | Bowlby, *Attachment and Loss, Vol. 1: Attachment*; Frankfurt, "Alternate Possibilities and Moral Responsibility", *Journal of Philosophy*. | 6, 3 |
+| 1970 | Nagel, "Death", *Noûs*: cái chết gây hại bằng cách tước đoạt tương lai tốt đẹp. | 4 |
 | 1971 | Rawls, *A Theory of Justice*. | 5 |
-| 1973 | Becker, *The Denial of Death* (Pulitzer 1974); Williams, "The Makropulos Case", trong *Problems of the Self*, tr. 82–100. | 4 |
-| 1974 | Nagel, "What Is It Like to Be a Bat?", *Philosophical Review* 83(4): 435–450. | 6 |
-| 1976 / 1985 | Thomson về bài toán xe điện: *The Monist* 59(2): 204–217 (1976); *Yale Law Journal* 94(6): 1395–1415 (1985). | 5 |
+| 1973 | Becker, *The Denial of Death* (Pulitzer 1974); Williams, "The Makropulos Case", trong *Problems of the Self*. | 4 |
+| 1974 | Nagel, "What Is It Like to Be a Bat?", *Philosophical Review*. | 6 |
+| 1976 / 1985 | Thomson về bài toán xe điện: *The Monist*; *Yale Law Journal*. | 5 |
 | 1978 | Ainsworth và cộng sự, *Patterns of Attachment*; Beauchamp & Childress, *Principles of Biomedical Ethics*, ấn bản 1 in 1978, bản quyền 1979. | 6, 5 |
-| 1980 | Searle, "Minds, Brains, and Programs", *Behavioral and Brain Sciences* 3(3): 417–457: Phòng Trung Hoa. | 6 |
+| 1980 | Searle, "Minds, Brains, and Programs", *Behavioral and Brain Sciences*: Phòng Trung Hoa. | 6 |
 | 1981 | MacIntyre, *After Virtue*: trở lại Aristotle. | 5 |
-| 1982 | Cassell, "The Nature of Suffering and the Goals of Medicine", *NEJM* 306(11): 639–645. | 7 |
-| 1983 | Libet và cộng sự, *Brain* 106(3): 623–642; van Inwagen, *An Essay on Free Will*. | 3 |
+| 1982 | Cassell, "The Nature of Suffering and the Goals of Medicine", *NEJM*. | 7 |
+| 1983 | Libet và cộng sự, *Brain*; van Inwagen, *An Essay on Free Will*. | 3 |
 | 1984 | Parfit, *Reasons and Persons*; Dennett, *Elbow Room*. | 4, 3 |
-| 1986 | Greenberg, Pyszczynski & Solomon, lý thuyết quản lý nỗi sợ cái chết, trong Baumeister (chủ biên), *Public Self and Private Self*, Springer, tr. 189–212. | 4 |
-| 1986 | Sternberg, lý thuyết tam giác của tình yêu, *Psychological Review* 93(2): 119–135. | 6 |
+| 1986 | Greenberg, Pyszczynski & Solomon, lý thuyết quản lý nỗi sợ cái chết, trong Baumeister (chủ biên), *Public Self and Private Self*. | 4 |
+| 1986 | Sternberg, lý thuyết tam giác của tình yêu, *Psychological Review*. | 6 |
 | 1988 | Baars, *A Cognitive Theory of Consciousness*: lý thuyết không gian làm việc toàn cục. | 6 |
 | 1991 | Baumeister, *Meanings of Life*; Dennett, *Consciousness Explained*. | 1, 6 |
 | 1995 / 1996 | Chalmers, "Facing Up to the Problem of Consciousness" (1995) và *The Conscious Mind* (1996): vấn đề khó. | 6 |
-| 1996 | Kane, *The Significance of Free Will*; Tedeschi & Calhoun, Posttraumatic Growth Inventory, *Journal of Traumatic Stress* 9(3): 455–471. | 3, 7 |
-| 2001 | Haidt, "The Emotional Dog and Its Rational Tail", *Psychological Review* 108(4): 814–834; Greene và cộng sự, *Science* 293(5537): 2105–2108; van Lommel và cộng sự, trải nghiệm cận tử, *The Lancet* 358(9298): 2039–2045; Pereboom, *Living Without Free Will*. | 5, 4, 3 |
+| 1996 | Kane, *The Significance of Free Will*; Tedeschi & Calhoun, Posttraumatic Growth Inventory, *Journal of Traumatic Stress*. | 3, 7 |
+| 2001 | Haidt, "The Emotional Dog and Its Rational Tail", *Psychological Review*; Greene và cộng sự, *Science*; van Lommel và cộng sự, trải nghiệm cận tử, *The Lancet*; Pereboom, *Living Without Free Will*. | 5, 4, 3 |
 | 2002 | Pinker, *The Blank Slate*; Seligman, *Authentic Happiness*. | 2, 1 |
 | 2003 | Dennett, *Freedom Evolves*. | 3 |
-| 2004 | Bonanno, khả năng phục hồi, *American Psychologist* 59(1): 20–28; Frankfurt, *The Reasons of Love*; Tononi, lý thuyết thông tin tích hợp, *BMC Neuroscience* 5: 42. | 7, 6 |
-| 2006 | Steger và cộng sự, Meaning in Life Questionnaire, *Journal of Counseling Psychology* 53(1): 80–93. | 1 |
-| 2008 | Soon và cộng sự, *Nature Neuroscience* 11(5): 543–545; Vohs & Schooler, *Psychological Science* 19(1): 49–54. | 3 |
-| 2010 | Wolf, *Meaning in Life and Why It Matters*; Henrich và cộng sự, WEIRD, *Behavioral and Brain Sciences* 33(2–3): 61–83. | 1, 2 |
-| 2012 | Schurger và cộng sự, *PNAS* 109(42): E2904–E2913; Kagan, *Death*; Haidt, *The Righteous Mind*. | 3, 4, 5 |
-| 2013 | Baumeister và cộng sự, *Journal of Positive Psychology* 8(6): 505–516; Metz, *Meaning in Life: An Analytic Study*. | 1 |
-| 2014 | Goyal và cộng sự, thiền và sức khoẻ, *JAMA Internal Medicine* 174(3): 357–368; Dehaene, *Consciousness and the Brain*; Parnia và cộng sự, AWARE, *Resuscitation* 85(12): 1799–1805. | 7, 6, 4 |
-| 2016 | Henrich, *The Secret of Our Success*; Martela & Steger, *Journal of Positive Psychology* 11(5): 531–545; Cohen và cộng sự, meta-analysis về mục đích sống và tử vong, *Psychosomatic Medicine* 78(2): 122–133. | 2, 1 |
-| 2017 | Sapolsky, *Behave*; Hilton và cộng sự, thiền và đau mạn tính, *Annals of Behavioral Medicine* 51(2): 199–213. | 2, 7 |
-| 2019 | Tomasello, *Becoming Human*; Jobin và cộng sự, 84 hướng dẫn đạo đức AI, *Nature Machine Intelligence* 1(9): 389–399; Floridi & Cowls, *Harvard Data Science Review* 1(1); Fischer, *Death, Immortality, and Meaning in Life* (bản bìa mềm 2020). | 2, 5, 4 |
-| 2021 | King & Hicks, *Annual Review of Psychology* 72: 561–584; Schurger và cộng sự, *Trends in Cognitive Sciences* 25(7): 558–570. | 1, 3 |
-| 2022 | Klein và cộng sự, Many Labs 4, *Collabra: Psychology* 8(1): 35271 — không tái tạo được hiệu ứng nổi bật về tử vong; Mudrik và cộng sự, *Trends in Cognitive Sciences* 26(7): 555–566; Stilwell và cộng sự, *Journal of Pain* 23(5): 729–738. | 4, 3, 7 |
-| 2023 | Parnia và cộng sự, AWARE-II, *Resuscitation* 191: 109903. | 4 |
-| 2024 | Dominik và cộng sự, tổng quan hệ thống về Libet, *Neuroscience & Biobehavioral Reviews* 157: 105503; Nathan, *The Quest for Human Nature*; Kovoor và cộng sự, *Discover Mental Health* 4(1): 19. | 3, 2, 4 |
-| 2025 | Butlin và cộng sự, 14 chỉ báo ý thức ở hệ AI, *Trends in Cognitive Sciences* 30: 488–501; Cogitate Consortium và cộng sự, kiểm định đối kháng GWT và IIT, *Nature*, DOI 10.1038/s41586-025-08888-1. | 6 |
+| 2004 | Bonanno, khả năng phục hồi, *American Psychologist*; Frankfurt, *The Reasons of Love*; Tononi, lý thuyết thông tin tích hợp, *BMC Neuroscience*. | 7, 6 |
+| 2006 | Steger và cộng sự, Meaning in Life Questionnaire, *Journal of Counseling Psychology*. | 1 |
+| 2008 | Soon và cộng sự, *Nature Neuroscience*; Vohs & Schooler, *Psychological Science*. | 3 |
+| 2010 | Wolf, *Meaning in Life and Why It Matters*; Henrich và cộng sự, WEIRD, *Behavioral and Brain Sciences*. | 1, 2 |
+| 2012 | Schurger và cộng sự, *PNAS*; Kagan, *Death*; Haidt, *The Righteous Mind*. | 3, 4, 5 |
+| 2013 | Baumeister và cộng sự, *Journal of Positive Psychology*; Metz, *Meaning in Life: An Analytic Study*. | 1 |
+| 2014 | Goyal và cộng sự, thiền và sức khoẻ, *JAMA Internal Medicine*; Dehaene, *Consciousness and the Brain*; Parnia và cộng sự, AWARE, *Resuscitation*. | 7, 6, 4 |
+| 2016 | Henrich, *The Secret of Our Success*; Martela & Steger, *Journal of Positive Psychology*; Cohen và cộng sự, meta-analysis về mục đích sống và tử vong, *Psychosomatic Medicine*. | 2, 1 |
+| 2017 | Sapolsky, *Behave*; Hilton và cộng sự, thiền và đau mạn tính, *Annals of Behavioral Medicine*. | 2, 7 |
+| 2019 | Tomasello, *Becoming Human*; Jobin và cộng sự, 84 hướng dẫn đạo đức AI, *Nature Machine Intelligence*; Floridi & Cowls, *Harvard Data Science Review*; Fischer, *Death, Immortality, and Meaning in Life* (bản bìa mềm 2020). | 2, 5, 4 |
+| 2021 | King & Hicks, *Annual Review of Psychology*; Schurger và cộng sự, *Trends in Cognitive Sciences*. | 1, 3 |
+| 2022 | Klein và cộng sự, Many Labs 4, *Collabra: Psychology* — không tái tạo được hiệu ứng nổi bật về tử vong; Mudrik và cộng sự, *Trends in Cognitive Sciences*; Stilwell và cộng sự, *Journal of Pain*. | 4, 3, 7 |
+| 2023 | Parnia và cộng sự, AWARE-II, *Resuscitation*. | 4 |
+| 2024 | Dominik và cộng sự, tổng quan hệ thống về Libet, *Neuroscience & Biobehavioral Reviews*; Nathan, *The Quest for Human Nature*; Kovoor và cộng sự, *Discover Mental Health*. | 3, 2, 4 |
+| 2025 | Butlin và cộng sự, 14 chỉ báo ý thức ở hệ AI, *Trends in Cognitive Sciences*; Cogitate Consortium và cộng sự, kiểm định đối kháng GWT và IIT, *Nature*. | 6 |
 
 ## Đọc dòng thời gian như thế nào?
 
