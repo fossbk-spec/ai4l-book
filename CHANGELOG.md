@@ -8,6 +8,7 @@ All notable changes to *Cuộc sống và con người* are documented here. The
 - References: moved 15 SEP/IEP URLs and the Chalmers and Frankfurt links into URL fields so readers can follow them.
 - Ch. 4: distinguished brain death from vegetative state/unresponsive wakefulness syndrome.
 - Ch. 5: clarified shared accountability for supervised clinical AI while retaining the clinician's final care decision.
+- Ch. 7: distinguished the experience of pain from nociception using the revised IASP definition.
 
 ## [1.1.2] — Structure
 
