@@ -26,6 +26,8 @@ jobs:
           version: 1.11.9
       - name: Render book (HTML + PDF via Typst)
         run: quarto render
+      - name: Check the rendered site
+        run: python3 -m unittest tests/test_site.py -v
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
