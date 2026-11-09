@@ -2,25 +2,8 @@
 
 Bản đồ dưới đây tóm tắt toàn bộ cuốn sách trong một hình. Bảy nhánh là bảy chương. Nhấn vào một nhánh để tới chương tương ứng. Các đường nối chéo cho thấy các chương liên hệ với nhau như thế nào.
 
-![Bản đồ tư duy của cuốn sách](assets/mindmap.svg)
-
-```{mermaid}
-%%| fig-cap: "Bản đồ tư duy — bảy chương và sáu liên kết chéo"
-flowchart TD
-    A["Cuộc sống và con người<br/>A life unexamined is not worth living — Socrates"] --> B["1. Ý nghĩa cuộc sống"]
-    A --> C["2. Bản chất con người"]
-    A --> D["3. Tự do"]
-    A --> E["4. Cái chết và thời gian"]
-    A --> F["5. Đạo đức"]
-    A --> G["6. Ý thức, tâm trí và tình yêu"]
-    A --> H["7. Khổ đau và sự vô thường"]
-    click B "chapters/01-y-nghia.qmd" "Chương 1 — Ý nghĩa cuộc sống"
-    click C "chapters/02-ban-chat-con-nguoi.qmd" "Chương 2 — Bản chất con người"
-    click D "chapters/03-tu-do.qmd" "Chương 3 — Tự do"
-    click E "chapters/04-cai-chet-thoi-gian.qmd" "Chương 4 — Cái chết và thời gian"
-    click F "chapters/05-dao-duc.qmd" "Chương 5 — Đạo đức"
-    click G "chapters/06-y-thuc-tinh-yeu.qmd" "Chương 6 — Ý thức, tâm trí và tình yêu"
-    click H "chapters/07-kho-dau-vo-thuong.qmd" "Chương 7 — Khổ đau và sự vô thường"
+```{=html}
+{{< include assets/mindmap.svg >}}
 ```
 
 ## Bảy nhánh, tóm tắt một dòng

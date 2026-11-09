@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _site
+  resources:
+    - assets/book.js
 
 lang: vi
 bibliography: references.bib
@@ -37,6 +39,14 @@ format:
     theme: cosmo
     toc: true
     toc-depth: 3
+    css: assets/book.css
+    include-after-body:
+      - text: |
+          <script>
+            const bookScript = document.createElement('script');
+            bookScript.src = new URL((location.pathname.includes('/chapters/') ? '../' : '') + 'assets/book.js', location.href);
+            document.body.append(bookScript);
+          </script>
   typst:
     toc: true
     papersize: a4
