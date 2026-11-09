@@ -73,7 +73,7 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 1958 | Anscombe, "Modern Moral Philosophy", *Philosophy*. | 5 |
 | 1962 | P. F. Strawson, "Freedom and Resentment", *Proceedings of the British Academy*. | 3 |
 | 1965 | Melzack & Wall, lý thuyết cổng kiểm soát cơn đau, *Science*. | 7 |
-| 1966 | Weizenbaum, ELIZA: người dùng dễ gán sự thấu hiểu cho một chương trình đơn giản. | 8 |
+| 1966 | Weizenbaum, ELIZA: bàn về cảm giác được thấu hiểu mà người trò chuyện có với một chương trình đơn giản. | 8 |
 | 1967 | Foot, "The Problem of Abortion and the Doctrine of the Double Effect", *Oxford Review* — bài toán xe điện ra đời (Thomson đặt tên sau đó). | 5 |
 | 1968 | Ủy ban Harvard về định nghĩa chết não, *JAMA*. | 4 |
 | 1969 | Bowlby, *Attachment and Loss, Vol. 1: Attachment*; Frankfurt, "Alternate Possibilities and Moral Responsibility", *Journal of Philosophy*. | 6, 3 |

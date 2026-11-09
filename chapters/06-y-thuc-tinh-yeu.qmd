@@ -89,7 +89,7 @@ Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắ
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho khoa học thần kinh về tình yêu; nhắc tới xử lý dự đoán.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

@@ -93,7 +93,7 @@ Phương Đông cổ đại đã hỏi câu hỏi về bản chất con người
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho tương tác gen – môi trường (Caspi 2003; Risch 2009).
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

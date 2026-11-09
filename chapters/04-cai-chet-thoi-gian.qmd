@@ -6,13 +6,13 @@ Chương này đi từ Plato và Epicurus tới Nagel, Heidegger, Williams, McTa
 
 ## 1. Bản đồ các lập trường
 
-| Lập trường | Ý chính | Đại diện | Điểm yếu lớn nhất |
+| Lập trường | Ý chính | Đại diện | Một phản biện |
 |---|---|---|---|
 | Cái chết không là gì với ta | Khi ta tồn tại, cái chết vắng mặt; khi cái chết có mặt, ta không còn. Ta không sợ khoảng vĩnh hằng trước khi sinh, vậy cũng không nên sợ khoảng sau khi chết | Epicurus, Lucretius | Khó giải thích trực giác rất phổ biến rằng chết sớm là một mất mát |
 | Thuyết tước đoạt | Cái chết xấu vì nó lấy đi những điều tốt đẹp lẽ ra ta đã có | Nagel, Kagan | Khó chỉ ra ai chịu thiệt, khi người ấy không còn để trải nghiệm |
-| Hữu hạn làm nên đời sống chân thực | Đối diện cái chết như khả năng chắc chắn nhất giúp ta sống thật với lựa chọn của mình | Heidegger, Kierkegaard | Dễ xem nhẹ nỗi mất mát thật sự mà cái chết gây ra |
+| Hữu hạn làm nên đời sống chân thực | Đối diện cái chết như khả năng chắc chắn nhất giúp ta sống thật với lựa chọn của mình | Heidegger | Dễ xem nhẹ nỗi mất mát thật sự mà cái chết gây ra |
 | Bất tử: tẻ nhạt hay đáng muốn | Williams cho rằng bất tử sẽ tẻ nhạt; Fischer cho rằng nó có thể đáng muốn | Williams, Fischer | Câu trả lời phụ thuộc vào câu hỏi "cái tôi nào sống mãi?" (Parfit) |
-| Biến hoá và tiếp nối | Sinh và tử là biến hoá của Đạo; tái sinh là sự tiếp nối nhân quả mà không có một cái tôi cố định | Trang Tử, Phật giáo | Khó đặt cạnh bằng chứng thực nghiệm; câu hỏi "điều gì tiếp nối?" vẫn mở |
+| Biến hoá và tiếp nối | Sinh và tử là biến hoá của Đạo; tái sinh là sự tiếp nối nhân quả mà không có một cái tôi cố định | Trang Tử, Phật giáo | Nếu không có một cái tôi cố định, điều gì tiếp nối, và vì sao điều đó quan trọng với *tôi*? |
 
 ## 2. Cái chết có xấu không?
 
@@ -94,7 +94,7 @@ Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường h
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm bản đồ các lập trường; trước đó (1.1.3) tách chết não khỏi trạng thái thực vật.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
