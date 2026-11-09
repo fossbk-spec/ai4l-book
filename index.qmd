@@ -32,7 +32,7 @@ Mỗi chương có cùng một cấu trúc quen thuộc: bản đồ các lập 
 
 Đây là một cuốn sách sống (living book): nó được cập nhật từng chương, khi có nghiên cứu mới hoặc khi phát hiện sai sót. Phiên bản 1.0 được xây dựng ngày 8 tháng 11 năm 2026. Phiên bản 1.1.0 chỉ hiệu đính theo tổng quan tài liệu: sửa 12 lỗi trích dẫn và niên đại, trong đó có trích dẫn gốc của lý thuyết quản lý nỗi sợ cái chết, lịch sử tên sách của Frankl, cách ghi niên đại của Aristotle, Lão Tử, Upanishad và Bhagavad Gita, cùng năm 2022 của Many Labs 4. Chi tiết xem [CHANGELOG.md](CHANGELOG.md). Không có luận điểm mới nào được thêm vào trong bản 1.1.0.
 
-Cuốn sách được viết bằng tiếng Việt, với tài liệu tham khảo đã được kiểm chứng và ghi trong `references.bib`. Các trích dẫn trong sách đều có thể truy về nguồn gốc: nhà xuất bản, số DOI, hoặc Bách khoa toàn thư Triết học Stanford (SEP) và Bách khoa toàn thư Triết học trên Internet (IEP). Những gì chưa kiểm chứng được đều được ghi rõ là chưa kiểm chứng, thay vì trình bày như đã chắc chắn.
+Cuốn sách được viết bằng tiếng Việt, với tài liệu tham khảo đã được kiểm chứng và ghi trong `references.bib`. Các trích dẫn trong sách đều có thể truy về nguồn gốc: nhà xuất bản, số DOI, hoặc Bách khoa toàn thư Triết học Stanford (SEP) và Bách khoa toàn thư Triết học trên Internet (IEP). Khi một điều chưa thể xác định chắc chắn — như niên đại của các văn bản cổ — sách ghi một khoảng thời gian hoặc chữ "khoảng", thay vì một con số chính xác.
 
 ## Ai nên đọc cuốn sách này?
 
