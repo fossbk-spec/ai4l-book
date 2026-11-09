@@ -1,0 +1,43 @@
+# Cuộc sống và con người
+
+**Tác giả:** Hoang Quang Huy (Ben) — Giảng viên, Đại học Bách khoa Hà Nội, iBME Lab
+**Phiên bản:** 1.1.0 — bản hiệu đính theo tổng quan tài liệu ngày 9 tháng 11 năm 2026
+
+> "Một đời sống không được suy xét thì không đáng sống."
+> — Socrates
+
+## Cuốn sách này nói về điều gì?
+
+Ai trong chúng ta cũng từng dừng lại giữa một ngày bận rộn và tự hỏi: mình sống để làm gì? Mình là ai, nếu bỏ đi tên gọi, nghề nghiệp, ký ức và vai trò xã hội? Mình có thực sự tự do lựa chọn, hay mọi thứ đã được định sẵn bởi gen, quá khứ và hoàn cảnh? Cái chết làm cuộc sống trở nên vô nghĩa, hay chính sự hữu hạn mới khiến cuộc sống trở nên quý giá? Điều gì làm một hành động trở nên đúng hay sai? Ý thức là gì, và tình yêu là gì? Vì sao con người phải khổ đau, và có thể tìm thấy ý nghĩa trong khổ đau hay không?
+
+Cuốn sách này không đưa ra một đáp án duy nhất cho những câu hỏi ấy. Thay vào đó, nó trình bày một cách có hệ thống những gì các triết gia và các nhà nghiên cứu đã tranh luận suốt hơn hai nghìn năm, cùng với những gì khoa học thực nghiệm ngày nay nói được — và chưa nói được — về các câu hỏi đó. Mỗi chương vẽ một bản đồ các lập trường, đặt các lập luận mạnh nhất của mỗi bên cạnh nhau, rồi để người đọc tự suy xét.
+
+## Cách đọc
+
+Cuốn sách gồm bảy chương, mỗi chương là một nhóm câu hỏi:
+
+1. **[Ý nghĩa cuộc sống](chapters/01-y-nghia.qmd)** — Sống để làm gì? Ý nghĩa được tạo ra hay được tìm thấy?
+2. **[Bản chất con người](chapters/02-ban-chat-con-nguoi.qmd)** — Con người sinh ra đã thiện, đã ác, hay là một tờ giấy trắng?
+3. **[Tự do](chapters/03-tu-do.qmd)** — Chúng ta có thực sự lựa chọn tự do không, và nếu không, trách nhiệm còn lại ở đâu?
+4. **[Cái chết và thời gian](chapters/04-cai-chet-thoi-gian.qmd)** — Cái chết có làm cuộc sống vô nghĩa không? Thời gian là gì?
+5. **[Đạo đức](chapters/05-dao-duc.qmd)** — Điều gì làm một hành động trở nên đúng? Khi trí tuệ nhân tạo tham gia quyết định y khoa, ai chịu trách nhiệm?
+6. **[Ý thức, tâm trí và tình yêu](chapters/06-y-thuc-tinh-yeu.qmd)** — Vì sao chúng ta có trải nghiệm chủ quan? Tình yêu là cảm xúc, lựa chọn, hay thực hành?
+7. **[Khổ đau và sự vô thường](chapters/07-kho-dau-vo-thuong.qmd)** — Vì sao con người phải khổ đau? Chấp nhận, kháng cự, hay tìm ý nghĩa?
+
+Bạn có thể đọc theo thứ tự, hoặc nhảy thẳng tới câu hỏi đang khiến bạn trăn trở. Mỗi chương đều đứng độc lập. Trước khi đọc sâu, hãy xem **[bản đồ tư duy](mindmap.qmd)** để có cái nhìn toàn cảnh, và **[dòng thời gian](timeline.qmd)** để thấy các ý tưởng đã nối tiếp nhau ra sao trong 2.500 năm, từ khoảng năm 800 trước Công nguyên tới năm 2025.
+
+Mỗi chương có cùng một cấu trúc quen thuộc: bản đồ các lập trường, các tranh luận mở và đóng, một khung riêng về những gì nghiên cứu thực nghiệm nói, một phần đối thoại Đông – Tây, các câu hỏi mở, và danh mục đọc thêm. Cuối sách là bản đồ sáu liên kết chéo giữa các chương — bởi vì các câu hỏi này không tách rời nhau: bản chất con người gắn với tự do, tự do gắn với trách nhiệm đạo đức, cái chết gắn với ý nghĩa, và khổ đau gắn với tất cả.
+
+## Một cuốn sách sống
+
+Đây là một cuốn sách sống (living book): nó được cập nhật từng chương, khi có nghiên cứu mới hoặc khi phát hiện sai sót. Phiên bản 1.0 được xây dựng ngày 8 tháng 11 năm 2026. Phiên bản 1.1.0 chỉ hiệu đính theo tổng quan tài liệu: sửa 12 lỗi trích dẫn và niên đại, trong đó có trích dẫn gốc của lý thuyết quản lý nỗi sợ cái chết, lịch sử tên sách của Frankl, cách ghi niên đại của Aristotle, Lão Tử, Upanishad và Bhagavad Gita, cùng năm 2022 của Many Labs 4. Chi tiết xem [CHANGELOG.md](CHANGELOG.md). Không có luận điểm mới nào được thêm vào trong bản 1.1.0.
+
+Cuốn sách được viết bằng tiếng Việt, với tài liệu tham khảo đã được kiểm chứng và ghi trong `references.bib`. Các trích dẫn trong sách đều có thể truy về nguồn gốc: nhà xuất bản, số DOI, hoặc Bách khoa toàn thư Triết học Stanford (SEP) và Bách khoa toàn thư Triết học trên Internet (IEP). Những gì chưa kiểm chứng được đều được ghi rõ là chưa kiểm chứng, thay vì trình bày như đã chắc chắn.
+
+## Ai nên đọc cuốn sách này?
+
+Bất cứ ai từng tự hỏi những câu hỏi trên — sinh viên, bác sĩ, kỹ sư, nhà nghiên cứu, hay đơn giản là một người đang tìm cách sống một đời sống đáng sống. Bạn không cần nền tảng triết học. Các thuật ngữ chuyên môn đều được giải thích khi xuất hiện lần đầu, và mỗi chương đều có câu hỏi suy ngẫm để bạn tự đối thoại với chính mình.
+
+Socrates nói một đời sống không được suy xét thì không đáng sống. Cuốn sách này là một lời mời suy xét — chậm rãi, trung thực, và cùng với những người đã suy xét trước chúng ta suốt 2.500 năm.
+
+*Chúc bạn đọc vui, và đọc xong, sống khác đi một chút.*

@@ -1,0 +1,32 @@
+---
+title: "Cuộc sống và con người"
+author: "Hoang Quang Huy (Ben)"
+lang: vi
+bibliography: references.bib
+website:
+  title: "Cuộc sống và con người"
+  repo-url: https://github.com/fossbk-spec/ai4l-book
+  site-url: https://fossbk-spec.github.io/ai4l-book/
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    search: true
+    number-sections: true
+    code-copy: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+chapters:
+  - index.qmd
+  - mindmap.qmd
+  - timeline.qmd
+  - chapters/01-y-nghia.qmd
+  - chapters/02-ban-chat-con-nguoi.qmd
+  - chapters/03-tu-do.qmd
+  - chapters/04-cai-chet-thoi-gian.qmd
+  - chapters/05-dao-duc.qmd
+  - chapters/06-y-thuc-tinh-yeu.qmd
+  - chapters/07-kho-dau-vo-thuong.qmd

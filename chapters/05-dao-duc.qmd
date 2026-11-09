@@ -1,0 +1,86 @@
+# Chương 5. Đạo đức
+
+Điều gì làm một hành động trở nên đúng? Hậu quả tốt, ý định tốt, hay một nguyên tắc phổ quát? Kant hay thuyết vị lợi? Có chân lý đạo đức phổ quát, hay đúng–sai chỉ là văn hoá? Chúng ta có nghĩa vụ với người xa lạ không? Và khi trí tuệ nhân tạo quyết định trong y khoa, ai chịu trách nhiệm: nhà thiết kế, người dùng, hay hệ thống?
+
+Chương này trình bày ba gia đình lý thuyết đạo đức lớn, những gì tâm lý học đạo đức phát hiện về cách con người thực sự phán đoán, bốn nguyên tắc của đạo đức y sinh, và — gắn với công việc của tác giả — đạo đức của hệ hỗ trợ quyết định lâm sàng bằng AI.
+
+## 1. Bản đồ các lập trường
+
+| Gia đình | Đại diện | Luận điểm cốt lõi | Điểm mạnh | Điểm yếu |
+|---|---|---|---|---|
+| Đạo đức đức hạnh | Aristotle, MacIntyre | Người đức hạnh sẽ làm gì? Nhân cách, thói quen, *phronesis* | Chú ý tới động cơ, tình bạn, khôn ngoan thực tiễn | Hướng dẫn không rõ trong tình huống mới |
+| Đạo đức bổn phận | Kant | Hành động theo mệnh lệnh tuyệt đối; đối xử với nhân tính như mục đích, không bao giờ chỉ như phương tiện | Bảo vệ phẩm giá, không hy sinh cá nhân vì đa số | Cứng nhắc khi các bổn phận xung đột |
+| Đạo đức hậu quả / vị lợi | Bentham, Mill | Tối đa hoá hạnh phúc / phúc lợi; hậu quả quyết định đúng–sai | Coi trọng hậu quả một cách nghiêm túc; có thể tính toán | Có thể hy sinh thiểu số; đo hạnh phúc là khó |
+
+Aristotle, trong *Nicomachean Ethics* (khoảng 340–330 TCN, trích theo số Bekker), cho rằng *eudaimonia* là mục tiêu, và đức hạnh — can đảm, tiết độ, công bằng, *phronesis* — là trung đạo được rèn luyện thành thói quen [@aristotleNE]. Khổng Tử đặt đạo đức trong Nhân, Nghĩa, Lễ, Trí, Tín; Mạnh Tử nói về tính thiện bẩm sinh, Mặc Tử nói về *kiêm ái*, yêu thương phổ quát. Ấn Độ nói về *dharma*, *ahimsa* (bất bạo động), từ bi, nghiệp.
+
+Kant, trong *Groundwork* (1785), xây dựng đạo đức trên lý trí thuần tuý: hãy chỉ hành động theo châm ngôn mà bạn có thể đồng thời muốn nó trở thành định luật phổ quát; và hãy đối xử với nhân tính, trong mình hay trong người khác, luôn luôn như một mục đích, không bao giờ chỉ như một phương tiện [@kant1785]. Bentham, trong *An Introduction to the Principles of Morals and Legislation* (in 1780, xuất bản lần đầu 1789), và Mill, trong *Utilitarianism* (1861/1863 — đăng nhiều kỳ trên *Fraser's Magazine* tập 64 (1861), tr. 391–406, 525–534, 659–673; thành sách 1863), cho rằng đúng là tối đa hoá hạnh phúc [@bentham1789; @mill1861]. Hume, trong *Treatise* (1739–1740) và *Enquiry Concerning the Principles of Morals* (1751), nhắc nhở rằng lý trí là nô lệ của đam mê, và có một khoảng cách giữa "là" và "nên" — từ sự thật không suy ra được nghĩa vụ [@humeTreatise; @hume1751]. Aquinas, trong *Summa Theologiae* (1265–1274), xây dựng luật tự nhiên [@aquinas]. Nietzsche, trong *On the Genealogy of Morals* (1887), xem đạo đức như quyền lực và oán hận. G. E. Moore, trong *Principia Ethica* (1903), cảnh báo sai lầm tự nhiên hoá: "tốt" không thể định nghĩa bằng bất cứ đặc tính tự nhiên nào [@moore1903]. Rawls, trong *A Theory of Justice* (1971), hỏi xã hội công bằng sẽ được chọn như thế nào sau "bức màn vô tri" [@rawls1971]. Anscombe, trong "Modern Moral Philosophy" (1958), *Philosophy* 33(124): 1–19 (không có DOI được kiểm chứng), phê phán triết học đạo đức hiện đại và kêu gọi trở lại tâm lý học đạo đức; MacIntyre, trong *After Virtue* (1981), tiếp nối lời kêu gọi trở lại Aristotle [@anscombe1958; @macintyre1981].
+
+Các mục SEP nên bắt đầu là: Sinnott-Armstrong, "Consequentialism" (xuất bản lần đầu 20 tháng 5 năm 2003, sửa đổi 4 tháng 10 năm 2023) [@sepConsequentialism]; Alexander và Moore, "Deontological Ethics" (xuất bản lần đầu 21 tháng 11 năm 2007, sửa đổi 17 tháng 10 năm 2016) [@sepDeontology]; Hursthouse và Pettigrove, "Virtue Ethics" (xuất bản lần đầu 18 tháng 7 năm 2003, sửa đổi 8 tháng 12 năm 2016 và 2023) [@sepVirtueEthics].
+
+## 2. Tranh luận 5.1: Bài toán xe điện — trực giác của ta nói gì?
+
+Philippa Foot (1967), trong "The Problem of Abortion and the Doctrine of the Double Effect", *Oxford Review* 5: 5–15 (không tìm thấy DOI; phương tiện trong bài là xe điện, bài viết về phá thai và học thuyết hiệu ứng kép; Thomson là người đặt tên cho bài toán), đặt ra tình huống: một xe điện mất phanh lao tới năm người; bạn có thể chuyển đường ray để xe đâm vào một người khác — có nên làm không? [@foot1967]. Judith Jarvis Thomson (1976), *The Monist* 59(2): 204–217, và (1985), *Yale Law Journal* 94(6): 1395–1415, thêm biến thể cầu vượt: đẩy một người từ trên cầu xuống để chặn xe — cùng một phép tính (một đổi năm), nhưng hầu hết mọi người nói không [@thomson1976].
+
+**Ủng hộ (chuyển đường ray, không đẩy người):** Có một khác biệt đạo đức giữa giết và để chết, giữa dùng một người như phương tiện và gây ra cái chết như một tác dụng phụ. Trực giác của ta nắm bắt được khác biệt này, dù ta khó diễn đạt nó thành quy tắc.
+
+**Phản đối (trực giác không đáng tin):** Nếu phép tính là như nhau (một đổi năm), thì sự khác biệt trong trực giác có thể chỉ là phản ứng cảm xúc với sự tiếp xúc thân thể, không phải là một phân biệt đạo đức có căn cứ. Triết gia vị lợi sẽ nói: hãy chuyển đường ray *và* đẩy người — hoặc, nếu bạn không đẩy, hãy thừa nhận rằng bạn đang đặt cảm xúc lên trên năm mạng người.
+
+**Đánh giá:** Bài toán xe điện không cho ta đáp án, mà cho ta một công cụ chẩn đoán: nó tách ra trực giác và lý do, và buộc mỗi lý thuyết phải giải thích tại sao trực giác của ta lại phân biệt hai trường hợp. Với AI y khoa, bài toán này không còn là trò chơi tư tưởng: một hệ thống phân bổ nguồn lực khan hiếm, hay một xe tự lái, sẽ phải "quyết định" theo một quy tắc nào đó — và quy tắc đó phải được lựa chọn một cách có ý thức, không thể phó mặc cho trực giác.
+
+## 3. Tranh luận 5.2: Đạo đức là lý trí hay trực giác?
+
+Greene và cộng sự (2001), *Science* 293(5537): 2105–2108, DOI 10.1126/science.1062872, cho thấy các dilemma cá nhân (đẩy người) kích hoạt vùng cảm xúc mạnh hơn, trong khi các dilemma phi cá nhân (chuyển đường ray) kích hoạt vùng kiểm soát lý trí — lý thuyết xử lý kép [@greene2001]. Haidt, trong "The Emotional Dog and Its Rational Tail" (2001), *Psychological Review* 108(4): 814–834, DOI 10.1037/0033-295X.108.4.814, và *The Righteous Mind* (2012), cho rằng phán đoán đạo đức đến trước, lý luận đến sau để biện minh — con chó cảm xúc vẫy cái đuôi lý trí [@haidt2001; @haidt2012]. Lý thuyết nền tảng đạo đức của Haidt (chăm sóc, công bằng, trung thành, thẩm quyền, thiêng liêng, tự do) cho thấy các văn hoá khác nhau nhấn mạnh các nền tảng khác nhau.
+
+**Ủng hộ (trực giác là chính):** Các nghiên cứu cho thấy người ta đưa ra phán đoán đạo đức trong vài trăm mili giây, và khi được hỏi lý do, họ thường bịa ra lý do sau sự kiện. Lý trí là luật sư, không phải thẩm phán.
+
+**Phản đối (lý trí vẫn cần):** Ngay cả khi trực giác đến trước, lý trí có thể kiểm tra, sửa chữa, và đào tạo trực giác theo thời gian. Hơn nữa, "là" không suy ra "nên" (Hume): việc trực giác của ta được định hình bởi tiến hoá không có nghĩa là nó đúng — tiến hoá chọn lọc những gì giúp sinh tồn, không phải những gì là đúng.
+
+**Giới hạn cần nhớ:** Mẫu nghiên cứu chủ yếu là sinh viên WEIRD; các tình huống xe điện là nhân tạo; và thuyết xử lý kép ngày nay là mặc định, nhưng chi tiết của nó vẫn đang tranh cãi.
+
+## 4. Đạo đức y sinh: bốn nguyên tắc
+
+Beauchamp và Childress, trong *Principles of Biomedical Ethics* — ấn bản 1 in 1978, bản quyền 1979 (trích là 1979 với ghi chú này); ấn bản 8, 2019, Oxford University Press, 512 trang, ISBN 9780190640873 — đề xuất bốn nguyên tắc: **tự chủ** (*autonomy*), **không gây hại** (*non-maleficence*), **làm điều tốt** (*beneficence*), và **công bằng** (*justice*) [@beauchampChildress2019]. Bốn nguyên tắc không có thứ bậc cố định; chúng cần được *cụ thể hoá* (*specification*) và *cân bằng* (*balancing*) trong từng trường hợp. Đó vừa là điểm mạnh — linh hoạt, là ngôn ngữ chung của đạo đức y sinh toàn cầu — vừa là điểm yếu: khi các nguyên tắc xung đột mà không có thứ bậc, ai quyết định cuối cùng: bác sĩ, bệnh nhân, hay xã hội?
+
+## 5. AI hỗ trợ quyết định lâm sàng: khoảng trống trách nhiệm
+
+Đây là phần gắn trực tiếp nhất với công việc của tác giả, và là nơi triết học gặp kỹ thuật y sinh.
+
+Hệ AI-CDSS không phải là một chủ thể đạo đức: nó không có ý định, không thể xin lỗi, không thể chịu trách nhiệm. Nhưng khi nó gợi ý sai, trách nhiệm đi đâu? Matthias (2004), "The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Automata", *Ethics and Information Technology* 6(2): 175–183, DOI 10.1007/s10676-004-3422-1, mô tả **khoảng trống trách nhiệm**: nhà phát triển đổ lỗi cho dữ liệu, bệnh viện đổ lỗi cho quy trình, bác sĩ đổ lỗi cho thuật toán, và bệnh nhân gánh chịu hậu quả [@matthias2004]. Cần phân biệt trách nhiệm nhân quả, trách nhiệm pháp lý, và trách nhiệm đạo đức — chúng không trùng nhau, và một bên có thể có trách nhiệm nhân quả mà không có trách nhiệm đạo đức, hay ngược lại.
+
+Ba gia đình đạo đức nhìn AI-CDSS khác nhau. Thuyết vị lợi có thể ủng hộ AI để tối ưu hoá nguồn lực và giảm sai sót. Kant nhắc nhở: bệnh nhân không phải là một điểm dữ liệu, mà là một mục đích tự thân. Đạo đức đức hạnh nhấn mạnh *phronesis*: khi nào nên nghe máy, khi nào nên nghi ngờ nó — và đó là một đức tính cần được đào tạo, không phải một quy tắc có thể lập trình.
+
+Floridi và Cowls (2019), "A Unified Framework of Five Principles for AI in Society", *Harvard Data Science Review* 1(1), DOI 10.1162/99608f92.8cd550d1, đề xuất **tính có thể giải thích** (*explicability*) như một nguyên tắc thứ năm, bên cạnh lợi ích, không gây hại, tự chủ, và công bằng: một hệ AI phải có thể giải thích được quyết định của nó, để con người có thể chịu trách nhiệm về quyết định đó [@floridiCowls2019]. Jobin, Ienca và Vayena (2019), "The Global Landscape of AI Ethics Guidelines", *Nature Machine Intelligence* 1(9): 389–399, DOI 10.1038/s42256-019-0088-2, xem xét 84 tài liệu đạo đức AI và thấy chúng hội tụ về minh bạch, công bằng, không gây hại, trách nhiệm, và riêng tư — nhưng khác nhau về cách diễn giải; các nguyên tắc đơn thuần có nguy cơ trở thành "tẩy xanh đạo đức" (*ethics-washing*) nếu không có cụ thể hoá, trách nhiệm giải trình, và luật pháp [@jobin2019].
+
+Với hệ AI-CDSS ở mức giám sát L1–L2, nguyên tắc thực hành là rõ ràng: **bác sĩ lâm sàng vẫn là người quyết định cuối cùng và chịu trách nhiệm**; hệ thống không bao giờ được chẩn đoán tự trị hay tự động ghi vào hồ sơ bệnh án điện tử; và phải đề phòng **thiên kiến tự động hoá** (*automation bias*) — xu hướng tin máy hơn phán đoán của chính mình, đặc biệt khi mệt mỏi hay thiếu thời gian. Thiết kế giao diện — hiển thị độ tin cậy, nguồn dữ liệu, và lý do gợi ý, cùng một nút phủ quyết dễ thấy — chính là đạo đức được thể chế hoá. Xem thêm Müller, SEP "Ethics of Artificial Intelligence and Robotics" (xuất bản lần đầu 30 tháng 4 năm 2020, ấn bản Mùa thu 2026) [@sepAIEthics].
+
+Một lưu ý về bằng chứng: không có tổng quan hệ thống nào về đạo đức CDSS được kiểm chứng là đủ mạnh; tài liệu gần nhất là Koo và cộng sự (2024), *Malaysian Journal of Medical Sciences* 31(5): 135–142, DOI 10.21315/mjms2024.31.5.9 — **về AI trong chăm sóc sức khoẻ nói chung, không phải về CDSS cụ thể**; dùng với lưu ý đó [@koo2024].
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+Phán đoán đạo đức của con người không thuần lý trí: Haidt và Greene cho thấy trực giác và cảm xúc đến trước, lý trí đến sau. Thuyết xử lý kép ngày nay là mặc định. Trong y sinh, bốn nguyên tắc vẫn là ngôn ngữ chung. Trong đạo đức AI, Jobin và cộng sự (2019) cho thấy sự hội tụ về năm nguyên tắc — nhưng sự hội tụ về từ ngữ che giấu sự khác nhau về diễn giải. **Giới hạn:** "là" không suy ra "nên"; mẫu WEIRD; các tình huống xe điện là nhân tạo; và các nguyên tắc, nếu không được cụ thể hoá, sẽ chỉ là khẩu hiệu.
+:::
+
+## 6. Đối thoại Đông – Tây
+
+Phương Tây phân tích đạo đức thành ba gia đình lý thuyết; phương Đông thường bắt đầu từ quan hệ và tu dưỡng. Khổng Tử hỏi: người quân tử sẽ làm gì trong mối quan hệ này? Aristotle hỏi gần như cùng một câu: người đức hạnh sẽ làm gì? Mặc Tử nói về *kiêm ái*, yêu thương phổ quát — một ý tưởng mà thuyết vị lợi phương Tây sẽ nhận ra ngay. Phật giáo nói về từ bi và bất bạo động như một cách sống, không phải như một quy tắc trừu tượng. Sự khác biệt lớn nhất có lẽ là: phương Tây hỏi "hành động nào là đúng?", phương Đông hỏi "con người nào là tốt?" — và hai câu hỏi đó, như MacIntyre nhắc nhở, có thể không tách rời nhau.
+
+## 7. Câu hỏi mở
+
+- Có chân lý đạo đức khách quan, hay "đúng" chỉ là thoả thuận của cộng đồng?
+- Trực giác đạo đức là nguồn tin đáng tin cậy, hay là di sản tiến hoá cần được lý trí kiểm tra?
+- Nếu AI có thể mô phỏng lập luận đạo đức tốt hơn con người, nó có nên quyết định không?
+- Trong y khoa, khi bốn nguyên tắc xung đột mà không có thứ bậc, ai quyết định cuối cùng: bác sĩ, bệnh nhân, hay xã hội?
+- Ba lý thuyết — đức hạnh, bổn phận, hậu quả — có thể hoà giải được không, hay ta phải chọn một?
+
+## 8. Đọc thêm
+
+- Aristotle, *Nicomachean Ethics* (khoảng 340–330 TCN) [@aristotleNE]
+- Kant (1785), *Groundwork* [@kant1785]
+- Mill (1861/1863), *Utilitarianism* [@mill1861]
+- Beauchamp & Childress (1979/2019), *Principles of Biomedical Ethics* [@beauchampChildress2019]
+- Haidt (2012), *The Righteous Mind* [@haidt2012]
+- Floridi & Cowls (2019) [@floridiCowls2019]
+- Jobin và cộng sự (2019) [@jobin2019]
+- Hursthouse & Pettigrove, SEP "Virtue Ethics" [@sepVirtueEthics]

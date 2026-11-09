@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+  <title id="title">Bản đồ tư duy — Cuộc sống và con người</title>
+  <desc id="desc">Mindmap with seven branches: meaning of life, human nature, freedom, death and time, ethics, consciousness and love, suffering and impermanence.</desc>
+  <style>
+    .center { fill: #1f3a5f; }
+    .center-text { fill: #ffffff; font-family: sans-serif; font-size: 22px; font-weight: bold; text-anchor: middle; }
+    .center-sub { fill: #dbe7f3; font-family: sans-serif; font-size: 13px; font-style: italic; text-anchor: middle; }
+    .branch-text { fill: #ffffff; font-family: sans-serif; font-size: 16px; font-weight: bold; text-anchor: middle; }
+    .branch-sub { fill: #ffffff; font-family: sans-serif; font-size: 12px; text-anchor: middle; }
+    .link { stroke: #94a3b8; stroke-width: 1.5; stroke-dasharray: 5 4; fill: none; }
+    .edge { stroke-width: 4; fill: none; }
+  </style>
+  <rect width="1000" height="760" fill="#f8fafc"/>
+  <text x="500" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#1f3a5f">Cuộc sống và con người</text>
+  <text x="500" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#64748b">A life unexamined is not worth living — Socrates</text>
+
+  <!-- edges from centre to branches -->
+  <path class="edge" stroke="#b45309" d="M500 400 L 200 150"/>
+  <path class="edge" stroke="#0e7490" d="M500 400 L 500 130"/>
+  <path class="edge" stroke="#15803d" d="M500 400 L 800 150"/>
+  <path class="edge" stroke="#7c3aed" d="M500 400 L 880 400"/>
+  <path class="edge" stroke="#be185d" d="M500 400 L 800 650"/>
+  <path class="edge" stroke="#1d4ed8" d="M500 400 L 500 670"/>
+  <path class="edge" stroke="#b91c1c" d="M500 400 L 200 650"/>
+
+  <!-- centre -->
+  <circle class="center" cx="500" cy="400" r="95"/>
+  <text class="center-text" x="500" y="395">Cuộc sống</text>
+  <text class="center-text" x="500" y="422">và con người</text>
+  <text class="center-sub" x="500" y="448">7 chương • 2.500 năm</text>
+
+  <!-- branch 1 -->
+  <a xlink:href="chapters/01-y-nghia.qmd"><g>
+    <rect x="80" y="105" width="240" height="90" rx="12" fill="#b45309"/>
+    <text class="branch-text" x="200" y="140">1. Ý nghĩa cuộc sống</text>
+    <text class="branch-sub" x="200" y="164">Aristotle • Camus • Frankl</text>
+    <text class="branch-sub" x="200" y="182">Wolf • Metz</text>
+  </g></a>
+  <!-- branch 2 -->
+  <a xlink:href="chapters/02-ban-chat-con-nguoi.qmd"><g>
+    <rect x="380" y="85" width="240" height="90" rx="12" fill="#0e7490"/>
+    <text class="branch-text" x="500" y="120">2. Bản chất con người</text>
+    <text class="branch-sub" x="500" y="144">Mạnh Tử • Tuân Tử • Darwin</text>
+    <text class="branch-sub" x="500" y="162">Pinker • Tomasello • Henrich</text>
+  </g></a>
+  <!-- branch 3 -->
+  <a xlink:href="chapters/03-tu-do.qmd"><g>
+    <rect x="680" y="105" width="240" height="90" rx="12" fill="#15803d"/>
+    <text class="branch-text" x="800" y="140">3. Tự do</text>
+    <text class="branch-sub" x="800" y="164">Hume • Kant • Frankfurt</text>
+    <text class="branch-sub" x="800" y="182">Libet • Soon • Dennett</text>
+  </g></a>
+  <!-- branch 4 -->
+  <a xlink:href="chapters/04-cai-chet-thoi-gian.qmd"><g>
+    <rect x="760" y="355" width="240" height="90" rx="12" fill="#7c3aed"/>
+    <text class="branch-text" x="880" y="390">4. Cái chết và thời gian</text>
+    <text class="branch-sub" x="880" y="414">Epicurus • Nagel • Heidegger</text>
+    <text class="branch-sub" x="880" y="432">Williams • McTaggart</text>
+  </g></a>
+  <!-- branch 5 -->
+  <a xlink:href="chapters/05-dao-duc.qmd"><g>
+    <rect x="680" y="605" width="240" height="90" rx="12" fill="#be185d"/>
+    <text class="branch-text" x="800" y="640">5. Đạo đức</text>
+    <text class="branch-sub" x="800" y="664">Kant • Mill • Foot • Haidt</text>
+    <text class="branch-sub" x="800" y="682">Beauchamp &amp; Childress • AI</text>
+  </g></a>
+  <!-- branch 6 -->
+  <a xlink:href="chapters/06-y-thuc-tinh-yeu.qmd"><g>
+    <rect x="380" y="625" width="240" height="90" rx="12" fill="#1d4ed8"/>
+    <text class="branch-text" x="500" y="660">6. Ý thức và tình yêu</text>
+    <text class="branch-sub" x="500" y="684">Chalmers • Searle • Dennett</text>
+    <text class="branch-sub" x="500" y="702">Fromm • Bowlby • Sternberg</text>
+  </g></a>
+  <!-- branch 7 -->
+  <a xlink:href="chapters/07-kho-dau-vo-thuong.qmd"><g>
+    <rect x="80" y="605" width="240" height="90" rx="12" fill="#b91c1c"/>
+    <text class="branch-text" x="200" y="640">7. Khổ đau và vô thường</text>
+    <text class="branch-sub" x="200" y="664">Khắc kỷ • Phật giáo • Frankl</text>
+    <text class="branch-sub" x="200" y="682">Nietzsche • Camus • Cassell</text>
+  </g></a>
+
+  <!-- cross-links -->
+  <path class="link" d="M 320 150 Q 500 60 680 150"/>
+  <path class="link" d="M 920 445 Q 950 550 920 605"/>
+  <path class="link" d="M 680 650 Q 500 740 320 650"/>
+  <path class="link" d="M 80 605 Q 40 400 80 195"/>
+  <path class="link" d="M 320 605 Q 500 520 680 605"/>
+  <path class="link" d="M 200 195 Q 200 400 200 605"/>
+  <text x="500" y="745" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#64748b">Sáu liên kết chéo: tự do–trách nhiệm–đạo đức • ý nghĩa–cái chết–khổ đau • bản chất–ý thức–AI • thời gian–vô thường–đạo đức • trực giác–lý trí • chấp nhận–hành động</text>
+</svg>

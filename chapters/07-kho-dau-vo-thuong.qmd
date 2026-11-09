@@ -1,0 +1,86 @@
+# Chương 7. Khổ đau và sự vô thường
+
+Vì sao con người phải khổ đau? Khổ đau là thứ cần tránh, hay là một phần của trưởng thành? Phật giáo nói mọi thứ đều vô thường, khổ đau đến từ bám víu. Frankl nói về ý nghĩa trong khổ đau. Khi đối diện với bất công, bệnh tật, mất mát: chấp nhận, kháng cự, hay tìm ý nghĩa? Schopenhauer, Nietzsche, Camus, Frankl trả lời khác nhau — và tất cả đều đúng một phần.
+
+Chương này bắt đầu bằng một phân biệt quan trọng, đặc biệt với người đọc y sinh: **đau khác với khổ**.
+
+## 1. Đau khác với khổ
+
+Đau là một tín hiệu sinh học; khổ đau là trải nghiệm của một con người khi cơn đau đe doạ tính toàn vẹn, ý nghĩa và tương lai của mình. Cùng một mức đau, khổ đau khác nhau, vì bối cảnh, ý nghĩa và các mối quan hệ khác nhau. Eric Cassell, trong "The Nature of Suffering and the Goals of Medicine" (1982), *New England Journal of Medicine* 306(11): 639–645, DOI 10.1056/NEJM198203183061104, định nghĩa khổ đau là sự đau khổ nghiêm trọng khi cảm nhận có mối đe doạ đối với tính toàn vẹn của con người; sách của ông xuất bản 1991, ấn bản 2 năm 2004 [@cassell1982]. Stilwell và cộng sự (2022), *Journal of Pain* 23(5): 729–738, DOI 10.1016/j.jpain.2021.11.005, lập luận rằng khổ đau là chủ quan, mang giá trị âm, phá vỡ cảm giác về cái tôi — và mô hình của Cassell có thể loại trừ khổ đau tiền phản tư, khổ đau chưa được khái niệm hoá [@stilwell2022].
+
+Elaine Scarry, trong *The Body in Pain* (1985), Oxford University Press, ISBN 9780195036015, chỉ ra rằng cơn đau dữ dội phá huỷ ngôn ngữ: người đau không thể nói, người nghe không thể hiểu — vì vậy khổ đau trở nên vô hình trong y khoa và chính trị [@scarry1985]. Với người làm y sinh, điều này không trừu tượng: chữa đau mà không lắng nghe câu chuyện khổ đau của bệnh nhân là chữa trị chưa đầy đủ.
+
+Melzack và Wall, trong lý thuyết cổng kiểm soát cơn đau (1965), *Science* 150(3699): 971–979, DOI 10.1126/science.150.3699.971, PMID 5320816, cho thấy cảm xúc, chú ý và ý nghĩa điều chỉnh "cổng" đau: đau không phải là một tín hiệu truyền thẳng từ cơ thể lên não, mà là một trải nghiệm được điều chỉnh bởi toàn bộ con người [@melzackWall1965].
+
+## 2. Bản đồ các lập trường
+
+| Lập trường | Đại diện | Luận điểm cốt lõi | Điểm yếu lớn nhất |
+|---|---|---|---|
+| Khổ đau là vô nghĩa, hãy loại bỏ nó | Epicurus, y học hiện đại, một phần của thuyết vị lợi | Khổ đau không có giá trị tự thân; nhiệm vụ là giảm nó | Bỏ qua khả năng khổ đau có thể mang ý nghĩa, và nguy cơ xem mọi khổ đau đều là "vấn đề kỹ thuật" |
+| Khổ đau có thể có ý nghĩa | Frankl, một phần Phật giáo, Nietzsche | Thái độ đối với khổ đau, hay sự vượt lên chính mình qua khổ đau, có thể tạo ra ý nghĩa | Nguy cơ lãng mạn hoá khổ đau, hay đổ lỗi cho người khổ đau vì "không tìm thấy ý nghĩa" |
+| Chấp nhận và buông bỏ | Khắc kỷ, Lão–Trang, Phật giáo | Khổ đau đến từ phán đoán và bám víu; buông bỏ là con đường | Buông bỏ có thể trở thành cam chịu, thờ ơ với bất công |
+| Kháng cự và biến đổi | Khai sáng, y học, chính trị giải phóng | Khổ đau do hoàn cảnh gây ra phải được thay đổi, không phải chấp nhận | Không phải khổ đau nào cũng có thể thay đổi; kháng cự mù quáng cũng gây khổ |
+| Thần chính luận | Leibniz | Khổ đau là cái giá cho một toàn thể tốt hơn, hay hệ quả của tự do | Dostoevsky: liệu trật tự vũ trụ nào có thể biện minh cho khổ đau của một đứa trẻ vô tội? |
+
+Khắc kỷ — Epictetus, Seneca, Marcus Aurelius — cho rằng hầu hết khổ đau đến không phải từ sự kiện, mà từ phán đoán về sự kiện; hãy phân biệt điều trong tầm kiểm soát (phán đoán, thái độ, hành động) với điều ngoài tầm kiểm soát (cơ thể, danh tiếng, cái chết). *Enchiridion* của Epictetus, do Arrian biên soạn, đầu thế kỷ 2 (niên đại chính xác chưa kiểm chứng) [@epictetus]. *Meditations* của Marcus Aurelius, viết bằng tiếng Hy Lạp, khoảng 170–180, có lẽ khoảng 171–175 [@marcusAurelius]. Xem thêm SEP "Stoicism" (xuất bản lần đầu 1996, sửa đổi 2013) [@sepStoicism] và SEP "Epictetus" (ấn bản Mùa đông 2024).
+
+Epicurus đưa ra phương thuốc bốn phần (*tetrapharmakos* — thuật ngữ này xuất phát từ Epicurean Philodemus sau này, thế kỷ 1 TCN, không phải từ chính Epicurus): nỗi sợ thần linh và cái chết là vô căn cứ, khoái lạc đích thực là vắng mặt khổ đau (*ataraxia*) [@epicurus]. Lão Tử, trong *Đạo Đức Kinh* (tác phẩm hợp thành, khoảng thế kỷ 4–3 TCN), nói vô thường chính là Đạo, khổ đau đến từ kháng cự dòng chảy bằng tham vọng; *vô vi*, hành động mà không cưỡng ép [@laozi]. Trang Tử kể giấc mơ bướm và cái chết của vợ như sự biến hoá tự nhiên [@zhuangzi].
+
+Phật giáo trình bày Tứ Diệu Đế: khổ (*dukkha*), nguyên nhân là tham ái (*tanha*, bám víu), sự chấm dứt là có thể, và con đường là Bát Chánh Đạo; Ba Dấu Ấn: vô thường (*anicca*), khổ (*dukkha*), vô ngã (*anatta*) [@buddhaSEP]. Bám víu nhất định thất bại, vì điều ta bám víu luôn thay đổi. Lưu ý quan trọng: **không có mục SEP nào mang tên "Suffering"** — cuốn sách trích SEP "Buddha", "Pain", "Stoicism" và "Epictetus" thay vì một mục không tồn tại.
+
+Trận động đất Lisbon 1755 đã làm rung chuyển chủ nghĩa lạc quan của Leibniz. Leibniz, trong *Theodicy* (1710), cho rằng khổ đau là cái giá cho một toàn thể tốt hơn, hay hệ quả của tự do [@leibniz1710]. Voltaire, trong *Candide* (1759), châm biếm quan điểm đó [@voltaire1759]. Dostoevsky, trong *The Brothers Karamazov* (1879–80, sách 1880), đặt câu hỏi sắc bén nhất của thần chính luận: liệu trật tự vũ trụ nào có thể biện minh cho khổ đau của một đứa trẻ vô tội? [@dostoevsky1880].
+
+Schopenhauer, trong *The World as Will and Representation*, Tập 1 (tháng 12 năm 1818), Tập 2 (tháng 2 năm 1844), Leipzig: Brockhaus, cho rằng ý chí là mù quáng, luôn khao khát, không bao giờ thoả mãn — khổ đau là cấu trúc của đời sống [@schopenhauer1818]. Nietzsche, trong *Thus Spoke Zarathustra* (1883–1885) và các tác phẩm sau, trả lời bằng *amor fati*, yêu số phận của mình kể cả khổ đau, xem khổ đau như vật liệu cho sự tự vượt lên [@nietzsche1882]. Camus, trong *The Myth of Sisyphus* (1942), nói về phi lý và nổi loạn: sống, yêu, sáng tạo mà không cần hy vọng siêu hình [@camus1942]. Frankl (1946/1959) nói con người không phải lúc nào cũng chọn được hoàn cảnh, nhưng luôn giữ "tự do cuối cùng", lựa chọn thái độ — với lưu ý về lịch sử tên sách: tiếng Đức 1946, tiếng Anh 1959 là *From Death-Camp to Existentialism*, tên *Man's Search for Meaning* chỉ từ 1962 [@frankl1946].
+
+## 3. Tranh luận 7.1: Khổ đau có thể được biện minh không?
+
+**Ủng hộ (thần chính luận):** Leibniz nói khổ đau là cái giá cho một toàn thể tốt hơn, hay là hệ quả không thể tránh của tự do — một thế giới có tự do và có khổ đau tốt hơn một thế giới không có cả hai. Frankl và Nietzsche, theo cách khác nhau, nói khổ đau có thể được cứu chuộc bằng ý nghĩa hay sự tự vượt lên.
+
+**Phản đối (Dostoevsky, Camus):** Ivan Karamazov từ chối mọi "hoà giải" vũ trụ nếu nó đòi hỏi khổ đau của một đứa trẻ vô tội làm cái giá. Camus nói thế giới là phi lý, và nhiệm vụ không phải là giải thích khổ đau, mà là nổi loạn chống lại nó — sống, yêu, sáng tạo. Việc biện minh cho khổ đau, nếu làm không cẩn thận, sẽ xúc phạm người đang khổ đau.
+
+**Đánh giá:** Không lập trường nào đứng một mình là đủ. Khắc kỷ đúng rằng nhiều khổ đau đến từ phán đoán, sai nếu mọi khổ đau đều là phán đoán. Frankl đúng về thái độ như tự do cuối cùng, nhưng điều đó không xoá bỏ trách nhiệm thay đổi hoàn cảnh. Phật giáo đúng rằng bám víu sinh ra khổ đau, nhưng buông bỏ không phải là thờ ơ. Sau thế kỷ 20, có lẽ nhiệm vụ của triết học đã chuyển từ giải thích khổ đau sang lắng nghe và giảm bớt nó.
+
+## 4. Tranh luận 7.2: Tăng trưởng sau sang chấn là thật hay là ảo tưởng thích nghi?
+
+Tedeschi và Calhoun (1996), với Posttraumatic Growth Inventory (PTGI), *Journal of Traumatic Stress* 9(3): 455–471 (tr. 455–471, không phải 472), DOI 10.1002/jts.2490090305, mô tả năm lĩnh vực tăng trưởng sau sang chấn [@tedeschiCalhoun1996]. Jayawickreme và Blackie (2014), *European Journal of Personality* 28(4): 312–331, DOI 10.1002/per.1963, cảnh báo: tăng trưởng tự báo cáo là phổ biến (58–83% trong các nghiên cứu được trích dẫn), nhưng có thể không phản ánh thay đổi nhân cách thực sự [@jayawickreme2014].
+
+**Ủng hộ (tăng trưởng là thật):** Nhiều người sau sang chấn báo cáo rằng họ trân trọng cuộc sống hơn, quan hệ sâu sắc hơn, mạnh mẽ hơn — và những báo cáo này gắn với các thay đổi hành vi có thể quan sát được.
+
+**Phản đối (ảo tưởng thích nghi):** Tự báo cáo tăng trưởng có thể là một chiến lược ứng phó — một câu chuyện ta kể cho chính mình để chịu đựng được — chứ không phải là thay đổi thực sự. Tăng trưởng được đo bằng tự báo cáo không giống với tăng trưởng được đo bằng thay đổi nhân cách độc lập.
+
+**Đánh giá:** Cả hai đều có thể đúng cùng lúc: một người có thể kể một câu chuyện tăng trưởng giúp mình sống tiếp, mà không có thay đổi nhân cách đo được — và câu chuyện đó vẫn có giá trị, dù nó không phải là "tăng trưởng" theo nghĩa hẹp. Điều quan trọng là không biến tăng trưởng thành một yêu cầu: người sang chấn không "phải" tăng trưởng, và việc không tăng trưởng không phải là thất bại.
+
+## 5. Nghiên cứu thực nghiệm nói gì?
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+**Khả năng phục hồi.** Bonanno, "Loss, Trauma, and Human Resilience" (2004), *American Psychologist* 59(1): 20–28, DOI 10.1037/0003-066X.59.1.20 — quỹ đạo phổ biến nhất sau mất mát/sang chấn là phục hồi, không phải rối loạn mạn tính; khả năng phục hồi là một quá trình bình thường, phụ thuộc vào các mối quan hệ, niềm tin và nguồn lực [@bonanno2004]. Đừng nhầm với bản in lại 2008. Nhấn mạnh quá mức vào khả năng phục hồi có thể trở thành một yêu cầu "đứng lên một mình", bỏ qua hỗ trợ xã hội và bất bình đẳng.
+
+**Chánh niệm.** Kabat-Zinn mở phòng khám MBSR năm 1979; nghiên cứu đầu tiên năm 1982 về đau mạn tính là không có đối chứng, 51 người hoàn thành, chỉ là sơ bộ, không phải RCT — Kabat-Zinn (1982), *General Hospital Psychiatry* 4(1): 33–47, DOI 10.1016/0163-8343(82)90026-3 [@kabatZinn1982]. *Full Catastrophe Living* (1990), Delacorte, tên đầy đủ *Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*, ấn bản 2 sửa đổi 2013 [@kabatZinn1990]. Goyal và cộng sự (2014), *JAMA Internal Medicine* 174(3): 357–368, DOI 10.1001/jamainternmed.2013.13018 — 47 thử nghiệm, 3.515 người tham gia, bằng chứng vừa phải cho lo âu, trầm cảm, đau, hiệu ứng nhỏ tới vừa, không vượt trội so với điều trị chủ động [@goyal2014]. Hilton và cộng sự (2017), *Annals of Behavioral Medicine* 51(2): 199–213, DOI 10.1007/s12160-016-9844-2 — 38 RCT, bằng chứng chất lượng thấp về giảm đau nhỏ [@hilton2017]. Chánh niệm thay đổi mối quan hệ với cảm giác, không phải bản thân vô thường; cảnh báo về "McMindfulness" — kỹ thuật bị tách khỏi đạo đức và bối cảnh.
+
+**Tóm lại:** Chánh niệm là một phương pháp hỗ trợ, không phải thuốc chữa. Khả năng phục hồi là phổ biến, không phải ngoại lệ. Tăng trưởng sau sang chấn là có thể, nhưng tự báo cáo không bằng thay đổi đo được.
+:::
+
+## 6. Đối thoại Đông – Tây
+
+Phương Đông và phương Tây gặp nhau ở chẩn đoán — vô thường là chẩn đoán chung của Epicurean, Khắc kỷ, Schopenhauer và Phật giáo — nhưng khác nhau ở phương thuốc. Khắc kỷ nói: phân biệt điều trong tầm kiểm soát và điều ngoài tầm kiểm soát. Phật giáo nói: buông bỏ bám víu. Nietzsche nói: yêu số phận. Frankl nói: chọn thái độ. Y học hiện đại nói: giảm đau bằng mọi phương tiện có thể. Tất cả đều đúng một phần, và tất cả đều sai nếu đứng một mình. Một người bệnh mạn tính cần cả thuốc giảm đau *và* một câu chuyện ý nghĩa *và* sự chấp nhận *và* sự kháng cự — tuỳ lúc, tuỳ người.
+
+## 7. Câu hỏi mở
+
+- Khổ đau có cần thiết cho ý nghĩa không? Nếu có một thế giới không có khổ đau, liệu đời sống có nông cạn hơn, hay đó chỉ là một sự hiểu lầm lãng mạn?
+- Chấp nhận trở thành cam chịu ở đâu? Ranh giới giữa buông bỏ khôn ngoan và từ bỏ công bằng ở đâu, và ai được vẽ ranh giới đó cho người khác?
+- Tăng trưởng sau sang chấn là thật hay là một câu chuyện?
+- Chánh niệm thay đổi khổ đau hay chỉ thay đổi báo cáo về khổ đau?
+- Khổ đau có thể được biện minh mà không xúc phạm người đang khổ đau không?
+- Thần chính luận còn khả thi sau thế kỷ 20, hay nhiệm vụ của triết học đã chuyển từ giải thích khổ đau sang lắng nghe và giảm bớt nó?
+
+## 8. Đọc thêm
+
+- Frankl (1946/1959) — tiếng Đức 1946; tiếng Anh 1959 là *From Death-Camp to Existentialism* [@frankl1946]
+- Schopenhauer (1818/1844), *The World as Will and Representation* [@schopenhauer1818]
+- Scarry (1985), *The Body in Pain* [@scarry1985]
+- Kabat-Zinn (1990), *Full Catastrophe Living* [@kabatZinn1990]
+- Tedeschi & Calhoun (1996) [@tedeschiCalhoun1996]
+- Cassell (1982) [@cassell1982]
+- SEP "Buddha", ấn bản Mùa xuân 2019 [@buddhaSEP]

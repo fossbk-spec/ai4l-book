@@ -1,0 +1,51 @@
+# Bản đồ tư duy: Cuộc sống và con người
+
+Bản đồ dưới đây tóm tắt toàn bộ cuốn sách trong một hình. Bảy nhánh là bảy chương. Nhấn vào một nhánh để tới chương tương ứng. Các đường nối chéo cho thấy các chương liên hệ với nhau như thế nào.
+
+![Bản đồ tư duy của cuốn sách](assets/mindmap.svg)
+
+```{mermaid}
+%%| fig-cap: "Bản đồ tư duy — bảy chương và sáu liên kết chéo"
+flowchart TD
+    A["Cuộc sống và con người<br/>A life unexamined is not worth living — Socrates"] --> B["1. Ý nghĩa cuộc sống"]
+    A --> C["2. Bản chất con người"]
+    A --> D["3. Tự do"]
+    A --> E["4. Cái chết và thời gian"]
+    A --> F["5. Đạo đức"]
+    A --> G["6. Ý thức, tâm trí và tình yêu"]
+    A --> H["7. Khổ đau và sự vô thường"]
+    click B "chapters/01-y-nghia.qmd" "Chương 1 — Ý nghĩa cuộc sống"
+    click C "chapters/02-ban-chat-con-nguoi.qmd" "Chương 2 — Bản chất con người"
+    click D "chapters/03-tu-do.qmd" "Chương 3 — Tự do"
+    click E "chapters/04-cai-chet-thoi-gian.qmd" "Chương 4 — Cái chết và thời gian"
+    click F "chapters/05-dao-duc.qmd" "Chương 5 — Đạo đức"
+    click G "chapters/06-y-thuc-tinh-yeu.qmd" "Chương 6 — Ý thức, tâm trí và tình yêu"
+    click H "chapters/07-kho-dau-vo-thuong.qmd" "Chương 7 — Khổ đau và sự vô thường"
+```
+
+## Bảy nhánh, tóm tắt một dòng
+
+1. **Ý nghĩa cuộc sống** — Ý nghĩa là khách quan, chủ quan, hay lai ghép? Aristotle nói về *eudaimonia*, Camus nói về sự phi lý và nổi loạn, Frankl nói về ý chí hướng tới ý nghĩa, Wolf nói về sự viên mãn phù hợp, Metz nói về tính căn bản.
+2. **Bản chất con người** — Mạnh Tử nói tính thiện, Tuân Tử nói tính ác, Hobbes nói về chiến tranh của mọi người chống mọi người, Locke nói về tờ giấy trắng, Darwin nói về tiến hóa, Tomasello nói về ý định chung, Henrich nói về văn hóa và mẫu WEIRD.
+3. **Tự do** — Hume, Kant, Spinoza, Laplace, van Inwagen, Frankfurt, Kane, Dennett, Pereboom — và thí nghiệm Libet cùng Soon: não bộ có quyết định trước khi ta ý thức?
+4. **Cái chết và thời gian** — Epicurus nói cái chết không là gì với ta, Nagel nói cái chết tước đoạt, Heidegger nói về hiện hữu-hướng-tới-cái-chết, Williams hỏi liệu bất tử có đáng muốn, McTaggart hỏi thời gian có thực sự trôi không.
+5. **Đạo đức** — Aristotle về đức hạnh, Kant về bổn phận, Bentham và Mill về hậu quả, Foot và Thomson về bài toán xe điện, Greene và Haidt về trực giác đạo đức, Beauchamp và Childress về bốn nguyên tắc y sinh — và khi AI hỗ trợ quyết định lâm sàng, ai chịu trách nhiệm?
+6. **Ý thức, tâm trí và tình yêu** — Descartes, Chalmers và vấn đề khó, Nagel và "cảm giác như thế nào", Searle và Phòng Trung Hoa, Baars và Tononi — cùng Plato, Aristotle, Fromm, Bowlby, Ainsworth và Sternberg về tình yêu.
+7. **Khổ đau và sự vô thường** — Đau khác với khổ (Cassell). Khắc kỷ, Epicurus, Lão–Trang, Phật giáo, Leibniz, Dostoevsky, Schopenhauer, Nietzsche, Camus, Frankl — và bằng chứng về khả năng phục hồi, tăng trưởng sau sang chấn, chánh niệm.
+
+## Sáu liên kết chéo
+
+Các chương không đứng riêng lẻ. Sáu liên kết sau chạy xuyên suốt cuốn sách:
+
+1. **Tự do – trách nhiệm – đạo đức (Chương 2, 3, 5):** Nếu bản chất con người được định hình bởi gen, não bộ và văn hoá, và ý chí tự do còn đang tranh cãi, thì trách nhiệm đạo đức đặt ở đâu? Khi AI tham gia quyết định lâm sàng, ai là chủ thể chịu trách nhiệm, và thiết kế có thể bảo vệ hay xói mòn trách nhiệm đó?
+2. **Ý nghĩa – cái chết – khổ đau (Chương 1, 4, 7):** Ý nghĩa có cần sự vĩnh cửu, hay chính sự hữu hạn làm cuộc sống trở nên quý giá? Khổ đau phá huỷ ý nghĩa, hay khi được đặt trong một câu chuyện, nó tạo ra ý nghĩa? Frankl và Camus trả lời khác nhau.
+3. **Bản chất – ý thức – AI (Chương 2, 6):** Nếu ý thức là hiện tượng nổi lên hay là nền tảng, ranh giới giữa người và máy ở đâu? Nếu chúng ta có thể chỉnh sửa gen, can thiệp vào não, và xây AI bắt chước con người, thì "bản chất con người" là một ranh giới tự nhiên hay một trạng thái công nghệ tạm thời?
+4. **Thời gian – vô thường – đạo đức (Chương 4, 7, 1):** Nếu thời gian là một khối bốn chiều, nơi quá khứ, hiện tại và tương lai đều thực như nhau, thì hối tiếc, hy vọng và trách nhiệm có nghĩa gì? Nếu mọi thứ đều vô thường, thì điều gì, nếu có, đáng để bám víu và cam kết?
+5. **Trực giác và lý trí (Chương 3, 5, 6):** Trực giác đạo đức, trực giác về ý chí tự do, trực giác về ý thức, trực giác về cái chết đều có thể sai, vì chúng được định hình bởi văn hoá và tiến hoá. Khi nào nên tin trực giác, khi nào nên để lý trí và bằng chứng kiểm tra nó, và khi nào lý trí cần trực giác nhắc nhở những gì nó đã bỏ sót?
+6. **Chấp nhận và hành động (Chương 7, 4, 3, 5):** Khi nào chấp nhận là khôn ngoan, khi nào là cam chịu? Câu hỏi này chạy qua Khắc kỷ và Phật giáo, Epicurus và Nagel về cái chết, thuyết tương hợp và ý chí tự do, và đạo đức y sinh. Với người làm y sinh, nó không trừu tượng: khi nào chấp nhận giới hạn của bệnh nhân, khi nào can thiệp, khi nào để AI gợi ý, khi nào phủ quyết nó?
+
+## Cách dùng bản đồ này
+
+- Nếu bạn mới bắt đầu, hãy đọc bản đồ rồi chọn một nhánh gần với câu hỏi của mình nhất.
+- Nếu bạn đã đọc hết, hãy quay lại bản đồ và đi theo các liên kết chéo: đó là nơi cuốn sách thực sự bắt đầu đối thoại với chính nó.
+- Mỗi chương đều có thể được cập nhật độc lập; khi một chương thay đổi, bản đồ này cũng sẽ được xem lại.

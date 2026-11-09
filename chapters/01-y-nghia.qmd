@@ -1,0 +1,93 @@
+# Chương 1. Ý nghĩa cuộc sống
+
+Sống để làm gì? Câu hỏi nghe đơn giản, nhưng nó là một trong những câu hỏi khó nhất của triết học, bởi vì nó có thể là nhiều câu hỏi khác nhau khoác cùng một cái tên. Có phải ta đang hỏi về mục đích của vũ trụ, về mục đích của đời mình, hay về cảm giác rằng đời mình đáng sống? Có phải ý nghĩa là thứ ta tìm thấy, như một kho báu đã có sẵn, hay thứ ta tạo ra, như một tác phẩm? Và nếu mọi thứ rồi sẽ kết thúc, những gì ta làm hôm nay còn quan trọng không?
+
+Chương này đi qua năm lập trường lớn, ba khía cạnh tâm lý của ý nghĩa, và những gì nghiên cứu thực nghiệm thực sự cho thấy — cùng với giới hạn của nó.
+
+## 1. Bản đồ các lập trường
+
+| Lập trường | Đại diện | Luận điểm cốt lõi | Điểm yếu lớn nhất |
+|---|---|---|---|
+| Siêu nhiên / hữu thần | Augustine, Aquinas, Kierkegaard | Ý nghĩa đến từ Thiên Chúa, linh hồn bất tử, hoặc một trật tự vũ trụ vượt lên trên con người | Phụ thuộc vào niềm tin tôn giáo mà không phải ai cũng chia sẻ; khó kiểm chứng |
+| Tự nhiên khách quan | Aristotle, Wolf, Metz | Có những điều thực sự đáng giá — chân lý, thiện, mỹ — và đời sống có ý nghĩa khi hướng tới chúng | Ai quyết định điều gì là "thực sự đáng giá"? Nguy cơ áp đặt |
+| Hiện sinh / chủ quan | Sartre, Camus (phần nào) | Không có ý nghĩa cho sẵn; con người tự tạo ý nghĩa bằng lựa chọn của mình | Nếu ý nghĩa chỉ là lựa chọn, liệu đời sống của một kẻ độc tài cũng "có ý nghĩa"? |
+| Hư vô | (lập trường, không phải một tác giả duy nhất) | Không có ý nghĩa nào cả; mọi nỗ lực tìm ý nghĩa đều là tự lừa dối | Khó sống nhất quán với nó; chính việc phủ nhận cũng là một lập trường về ý nghĩa |
+| Phi lý | Camus | Thế giới im lặng trước khát vọng ý nghĩa của ta; đáp lại bằng nổi loạn, sống, yêu, sáng tạo | Nổi loạn có đủ làm nền tảng cho một đời sống, hay chỉ là một tư thế? |
+
+Aristotle là điểm khởi đầu của truyền thống tự nhiên khách quan. Trong *Nicomachean Ethics* (khoảng 340–330 TCN; tác phẩm không có năm xuất bản, trích dẫn theo số Bekker), ông phân biệt hạnh phúc nhất thời với *eudaimonia* — thường dịch là "hạnh phúc", nhưng chính xác hơn là sự hưng thịnh, sống tốt, thực hiện tốt chức năng của con người qua hoạt động đức hạnh suốt cả đời [@aristotleNE]. Một đời sống có ý nghĩa, theo Aristotle, không phải là một khoảnh khắc vui vẻ, mà là một toàn thể: giống như ta không thể gọi một ngày đẹp trời là một mùa hè, ta cũng không thể gọi một khoảnh khắc là một đời sống tốt. Đức hạnh — can đảm, tiết độ, công bằng, và đặc biệt là *phronesis*, sự khôn ngoan thực tiễn — không phải là quy tắc cứng nhắc, mà là thói quen được rèn luyện, là trung đạo giữa thái quá và bất cập, tuỳ hoàn cảnh.
+
+Truyền thống Đông Á đưa ra một bức tranh khác, nhưng không đối lập hoàn toàn. Khổng Tử (551–479 TCN) đặt ý nghĩa trong Nhân, Lễ, tu thân, gia đình và xã hội: một đời sống có ý nghĩa là đời sống thực hiện tốt các mối quan hệ của mình [@confucius]. Lão Tử, trong *Đạo Đức Kinh* (tác phẩm hợp thành, khoảng thế kỷ 4–3 TCN), dạy sống thuận theo Đạo và buông bỏ bám víu [@laozi]. Các Upanishad chính (khoảng 800–300 TCN, trong đó cổ nhất là *Bṛhadāraṇyaka* và *Chāndogya*, khoảng thế kỷ 7–6 TCN) và *Bhagavad Gita* (thường được xếp vào thế kỷ 2–1 TCN; khoảng nghiên cứu rộng hơn là thế kỷ 5–2 TCN, tác phẩm hợp thành, một phần của *Mahābhārata*) đều hướng tới giải thoát — *moksha*, thoát khỏi vòng luân hồi [@upanishads; @gita]. Phật giáo nói đời sống là *dukkha*, khổ, nguyên nhân là tham ái và vô minh, và con đường là Bát Chánh Đạo [@buddhaSEP]. Điểm chung của các truyền thống này: ý nghĩa không nằm trong việc tích luỹ cho riêng mình, mà trong việc hoà hợp với một trật tự lớn hơn — Đạo, Pháp, hay cộng đồng.
+
+Kierkegaard (1813–1855) đẩy câu hỏi sang một hướng khác. Trong *Either/Or* (tháng 2 năm 1843) và *Fear and Trembling* (tháng 10 năm 1843), ông mô tả ba giai đoạn đời sống — thẩm mỹ, đạo đức, tôn giáo — và cho rằng bước chuyển giữa chúng không phải là suy luận, mà là một "bước nhảy của đức tin" [@kierkegaard1843]. Tolstoy, trong *A Confession* (viết 1879–1880, in lần đầu 1882, bản Genève 1884), kể về khủng hoảng ý nghĩa của chính mình và sự trở lại với đức tin giản dị cùng lao động vì người khác [@tolstoy1882]. Nietzsche, trong *The Gay Science* (1882) và *Thus Spoke Zarathustra* (1883–1885), tuyên bố "Thượng đế đã chết" — và vì vậy con người phải tự tạo ra giá trị, trở thành *Übermensch*, người vượt lên trên chính mình [@nietzsche1882].
+
+## 2. Camus, Sartre và Frankl: ba câu trả lời hiện sinh
+
+Albert Camus, trong *Le Mythe de Sisyphe* (1942), đưa ra hình ảnh Sisyphus đẩy tảng đá lên núi, chỉ để nó lăn xuống, mãi mãi [@camus1942]. Đó là hình ảnh của phi lý: con người khao khát ý nghĩa, rõ ràng, vĩnh cửu; thế giới đáp lại bằng im lặng. Camus từ chối ba lối thoát: tự sát thể xác, tự sát triết học (nhảy vào đức tin), và hy vọng vào một ý nghĩa ẩn giấu. Thay vào đó, ông đề nghị nổi loạn: sống, yêu, sáng tạo mà không cần hy vọng siêu hình. "Người ta phải tưởng tượng Sisyphus hạnh phúc" — không phải vì tảng đá nhẹ đi, mà vì anh ta làm chủ số phận của mình trong khoảnh khắc đẩy đá.
+
+Jean-Paul Sartre đi xa hơn. Trong *Being and Nothingness* (1943) và *Existentialism Is a Humanism* (1946), ông khẳng định "hiện hữu đi trước bản chất": không có bản chất người cho sẵn, con người tự tạo ra mình bằng lựa chọn, và vì vậy "bị kết án phải tự do" [@sartre1943]. Ý nghĩa, theo Sartre, không được tìm thấy mà được tạo ra — và trách nhiệm đi kèm là tuyệt đối, vì mỗi lựa chọn của ta cũng là một tuyên bố về điều con người nên là.
+
+Viktor Frankl đưa ra câu trả lời thứ ba, sinh ra từ trải nghiệm trại tập trung. Tác phẩm của ông xuất bản lần đầu bằng tiếng Đức năm 1946, *Ein Psycholog erlebt das Konzentrationslager*; bản tiếng Anh năm 1959 có tên *From Death-Camp to Existentialism*; tên *Man's Search for Meaning* chỉ xuất hiện từ năm 1962 [@frankl1946]. Frankl cho rằng động lực căn bản của con người không phải là khoái lạc (Freud) hay quyền lực (Adler), mà là ý chí hướng tới ý nghĩa. Ý nghĩa có thể được tìm thấy qua ba con đường: sáng tạo một công việc hay một tác phẩm, trải nghiệm tình yêu hay cái đẹp, và thái độ đối với khổ đau không thể tránh khỏi. Ngay cả khi không thể thay đổi hoàn cảnh, con người vẫn giữ "tự do cuối cùng": lựa chọn thái độ của mình.
+
+Ba câu trả lời này không loại trừ nhau hoàn toàn, nhưng chúng căng thẳng với nhau. Camus nói đừng tìm ý nghĩa ở nơi không có; Sartre nói hãy tạo ra nó; Frankl nói hãy phát hiện ra nó trong hoàn cảnh cụ thể. Câu hỏi mở vẫn còn đó: thái độ có thể biến bất cứ hoàn cảnh nào thành có ý nghĩa, hay có những hoàn cảnh mà việc nói về "ý nghĩa" là một sự xúc phạm?
+
+## 3. Wolf và Metz: ý nghĩa lai ghép
+
+Hai triết gia đương đại đưa ra những lý thuyết có ảnh hưởng nhất về ý nghĩa trong triết học phân tích. Susan Wolf, trong *Meaning in Life and Why It Matters* (2010), đề xuất "sự viên mãn phù hợp" (*fitting fulfilment*): một đời sống có ý nghĩa khi có sự hấp dẫn chủ quan đối với một đối tượng thực sự đáng giá một cách khách quan [@wolf2010]. Chỉ có cảm giác thôi chưa đủ — một người có thể say mê đếm cỏ, nhưng đời sống đó khó gọi là có ý nghĩa. Chỉ có giá trị khách quan thôi cũng chưa đủ — một người làm việc tốt nhưng hoàn toàn thờ ơ, chán ghét, cũng khó gọi là sống có ý nghĩa. Cần cả hai: yêu điều đáng yêu.
+
+Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất lý thuyết tính căn bản (*fundamentality*): ý nghĩa đến từ việc hướng tới những điều căn bản — chân lý, thiện, mỹ — theo cách làm cho đời sống gắn với những thực tại sâu xa nhất [@metz2013]. Metz cũng là tác giả mục "The Meaning of Life" trong Bách khoa toàn thư Triết học Stanford, ấn bản Mùa thu 2026, xuất bản lần đầu ngày 15 tháng 5 năm 2007, sửa đổi lần cuối ngày 28 tháng 6 năm 2026 [@metzSEP]. Một tổng quan đương đại khác là của Seachris trong Bách khoa toàn thư Triết học trên Internet [@seachrisIEP], và cuộc tranh luận giữa Metz và Seachris được xuất bản thành sách năm 2024 [@metzSeachris2024].
+
+Điểm mạnh của Wolf và Metz là chúng tránh được hai cực đoan: chủ nghĩa chủ quan thuần tuý (bất cứ điều gì ta thích cũng có ý nghĩa) và chủ nghĩa khách quan cứng nhắc (ý nghĩa không liên quan gì tới cảm nhận của ta). Điểm yếu, như các nhà phê bình chỉ ra, là tiêu chuẩn "đáng giá một cách khách quan" vẫn còn mơ hồ: ai quyết định, và bằng cách nào? Và liệu một kẻ độc tài say mê quyền lực — một đối tượng mà ông ta thấy hấp dẫn chủ quan — có thể có một đời sống "có ý nghĩa" theo nghĩa nào đó không? Wolf trả lời là không, vì quyền lực thống trị không phải là đối tượng đáng giá; nhưng câu trả lời đó lại dựa vào một đánh giá giá trị mà chính nó cần được biện minh.
+
+## 4. Tranh luận 1.1: Ý nghĩa có cần Thượng đế hay đời sau không?
+
+**Ủng hộ (cần):** Nếu không có Thượng đế hay đời sau, mọi thứ rồi sẽ bị lãng quên; một đời sống hữu hạn, trong một vũ trụ vô nghĩa, thì cuối cùng cũng như chưa từng tồn tại. Chỉ có một nền tảng vĩnh cửu mới cho ý nghĩa một chỗ đứng vững chắc. Tolstoy, sau khủng hoảng, đã quay về đức tin chính vì lý do này.
+
+**Phản đối (không cần):** Chính sự hữu hạn làm cho cuộc sống trở nên quý giá. Một bữa ăn ngon không mất ý nghĩa vì nó kết thúc; một bản nhạc hay không vô nghĩa vì nốt cuối cùng vang lên. Hơn nữa, nếu ý nghĩa phụ thuộc vào phần thưởng đời sau, thì đó là ý nghĩa vay mượn, không phải ý nghĩa nội tại của đời sống này. Camus và nhiều nhà tự nhiên khách quan cho rằng ý nghĩa có thể được tìm thấy trong chính đời sống hữu hạn — trong chân lý, thiện, mỹ, tình yêu và sáng tạo.
+
+**Đánh giá:** Tranh luận này chưa ngã ngũ, và có lẽ không thể ngã ngũ bằng lập luận thuần tuý, vì nó phụ thuộc vào tiền đề về bản chất của thực tại. Nhưng nó làm rõ một điều: câu hỏi "ý nghĩa có cần vĩnh cửu không?" và câu hỏi "ý nghĩa có cần Thượng đế không?" là hai câu hỏi khác nhau, và không nên lẫn lộn.
+
+## 5. Tranh luận 1.2: Một kẻ độc tài có thể có đời sống ý nghĩa không?
+
+**Ủng hộ (có thể):** Nếu ý nghĩa là chủ quan — cảm thấy đời mình có mục đích, mạch lạc, quan trọng — thì một kẻ độc tài tận tuỵ với "sứ mệnh" của mình có thể cảm thấy đời mình đầy ý nghĩa. Tâm lý học đo cảm nhận ý nghĩa, không đo giá trị đạo đức của nó.
+
+**Phản đối (không thể):** Wolf và Metz đều phủ nhận. Một đời sống gây ra khổ đau lớn, phục vụ những mục tiêu không đáng giá, thì không thể có ý nghĩa theo nghĩa đầy đủ, dù người đó cảm thấy thế nào. Cảm thấy có ý nghĩa không giống với thực sự có ý nghĩa — giống như cảm thấy khoẻ không giống với thực sự khoẻ.
+
+**Đánh giá:** Tranh luận này tách ra hai khái niệm cần phân biệt: ý nghĩa như một trạng thái tâm lý (cảm nhận) và ý nghĩa như một đánh giá giá trị (đời sống đó có đáng sống không). Tâm lý học nghiên cứu cái thứ nhất; triết học tranh luận về cái thứ hai. Cả hai đều cần thiết, và nhầm lẫn chúng là nguồn gốc của nhiều tranh cãi vô ích.
+
+## 6. Nghiên cứu thực nghiệm nói gì?
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+Tâm lý học đương đại phân biệt ba khía cạnh của ý nghĩa: **tính mạch lạc** (đời sống có thể hiểu được), **mục đích** (có định hướng, mục tiêu), và **tính quan trọng** (đời sống có giá trị, đáng sống). Ba khía cạnh này được Martela và Steger (2016) hệ thống hoá [@martelaSteger2016] và được King và Hicks (2021) tổng quan trong *Annual Review of Psychology* [@kingHicks2021].
+
+Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của Steger và cộng sự (2006), phân biệt *sự hiện diện* của ý nghĩa và *sự tìm kiếm* ý nghĩa [@steger2006]. Baumeister và cộng sự (2013) cho thấy hạnh phúc và ý nghĩa khác nhau: hạnh phúc gắn với nhận lấy, tập trung vào hiện tại; ý nghĩa gắn với cho đi, tích hợp quá khứ–hiện tại–tương lai, và đôi khi chấp nhận khổ đau [@baumeister2013]. Baumeister (1991) đã trình bày sớm hơn bốn nhu cầu của ý nghĩa: mục đích, giá trị, hiệu lực, và lòng tự trọng [@baumeister1991]. Seligman đưa ý nghĩa vào mô hình PERMA về sự hưng thịnh, trong *Authentic Happiness* (2002) và *Flourish* (2011) [@seligman2002].
+
+Một meta-analysis của Cohen, Bavishi và Rozanski (2016) trên 10 nghiên cứu tiền cứu, tổng cộng 136.265 người, cho thấy mục đích sống cao hơn gắn với nguy cơ tử vong do mọi nguyên nhân thấp hơn khoảng 17% (tỷ số nguy cơ gộp 0,83) [@cohen2016].
+
+**Giới hạn cần nhớ:** Hầu hết các nghiên cứu này là tương quan, tự báo cáo, và có thiên lệch văn hoá. Cảm thấy có ý nghĩa không giống với thực sự có ý nghĩa. Bằng chứng về Frankl chủ yếu là giai thoại và quan sát lâm sàng, không phải thử nghiệm ngẫu nhiên có đối chứng; và việc nhấn mạnh thái độ có nguy cơ đổ lỗi cho nạn nhân — như thể người khổ đau chỉ cần "thay đổi thái độ" là đủ.
+:::
+
+## 7. Đối thoại Đông – Tây
+
+Phương Tây phân tích đặt câu hỏi "ý nghĩa là gì?" và tìm định nghĩa; phương Đông thường đặt câu hỏi "sống như thế nào?" và tìm con đường. Aristotle hỏi về *telos*, mục đích của con người; Khổng Tử hỏi về cách làm người trong các mối quan hệ; Lão Tử và Trang Tử hỏi về cách buông bỏ để thuận theo Đạo; Phật giáo hỏi về cách chấm dứt bám víu. Nhưng hai truyền thống gặp nhau ở một điểm: ý nghĩa không nằm trong việc tích luỹ cho riêng mình. Aristotle nói *eudaimonia* cần bạn bè và cộng đồng; Khổng Tử nói Nhân là yêu người; Frankl nói ý nghĩa được tìm thấy trong sáng tạo, tình yêu, và thái độ — cả ba đều hướng ra ngoài cái tôi.
+
+Sự khác biệt đáng chú ý là thái độ đối với khổ đau. Truyền thống phương Tây hiện đại thường xem khổ đau là thứ cần loại bỏ để có ý nghĩa; Phật giáo và Frankl xem khổ đau là nơi ý nghĩa có thể được tìm thấy — không phải vì khổ đau tự nó tốt, mà vì thái độ đối với nó tiết lộ con người ta là ai. Chương 7 sẽ trở lại điểm này.
+
+## 8. Câu hỏi mở
+
+- Ý nghĩa là một câu hỏi hay một chùm câu hỏi? "Ý nghĩa của cuộc sống" (mục đích của vũ trụ) và "ý nghĩa trong cuộc sống" (đời tôi có đáng sống không) có phải là cùng một câu hỏi?
+- Ý nghĩa có cần giá trị khách quan không, hay cảm nhận chủ quan là đủ?
+- Liệu AI và y sinh học có thay đổi ý nghĩa của lao động, chữa bệnh và chăm sóc — khi máy móc làm được nhiều việc mà trước đây chỉ con người làm được?
+- Cái chết làm gì với ý nghĩa? (Xem Chương 4.)
+- Khổ đau phá huỷ ý nghĩa, hay tạo ra ý nghĩa? (Xem Chương 7.)
+
+## 9. Đọc thêm
+
+- Frankl (1946/1959) — bản tiếng Đức 1946; bản tiếng Anh 1959 là *From Death-Camp to Existentialism* [@frankl1946]
+- Camus (1942), *Le Mythe de Sisyphe* [@camus1942]
+- Wolf (2010), *Meaning in Life and Why It Matters* [@wolf2010]
+- Metz (2013), *Meaning in Life: An Analytic Study* [@metz2013]
+- Baumeister (1991), *Meanings of Life* [@baumeister1991]
+- Metz, SEP "The Meaning of Life", ấn bản Mùa thu 2026 [@metzSEP]
+- King & Hicks (2021), "The Science of Meaning in Life" [@kingHicks2021]
