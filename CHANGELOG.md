@@ -2,6 +2,12 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.1.1] — Citation details
+
+- Ch. 6, timeline: Butlin et al. dated **2026**, as published in *Trends in Cognitive Sciences* 30(6): 488–501 (June 2026); it was listed as 2025.
+- Ch. 7: Stilwell et al. (2022) cited with its full title, *What Is Pain-Related Suffering? Conceptual Critiques, Key Attributes, and Outstanding Questions*.
+- Bibliography file: editorial instructions removed from `note` fields; bibliographic facts (editions, serialisation, sample sizes, URLs) kept.
+
 ## [1.1.0] — Literature-review corrections only
 
 This release applies the systematic literature review completed on 9 November 2026 to v1.0. It corrects citations and dates and replaces the bibliography with a verified, deduplicated `references.bib`. **No new arguments were added.**
