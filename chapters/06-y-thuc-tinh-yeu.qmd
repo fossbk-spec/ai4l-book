@@ -1,0 +1,86 @@
+# Chương 6. Ý thức, tâm trí và tình yêu
+
+Ý thức là gì? Vì sao chúng ta có trải nghiệm chủ quan — vì sao có "cảm giác như thế nào" khi nhìn màu đỏ, nghe một bản nhạc, hay yêu một người? Descartes nói "tôi tư duy, vậy tôi hiện hữu". Tình yêu là cảm xúc sinh học, lựa chọn, hay là nhận ra chính mình qua người khác? Chúng ta có thực sự hiểu người khác không? Và một cỗ máy có thể có ý thức, có thể cảm nhận, có thể là một ngôi vị không?
+
+Chương này có hai nửa gắn với nhau: ý thức và tình yêu. Cả hai đều là những hiện tượng mà ta biết rõ nhất từ bên trong — và khó giải thích nhất từ bên ngoài.
+
+## 1. Lịch sử ngắn: từ Plato tới Descartes
+
+Plato, trong *Republic* (khoảng 380 TCN) và *Phaedrus* (khoảng 370 TCN), xem *psyche* là phi vật chất, bất tử, có ba phần [@platoRepublic]. Aristotle, trong *De Anima* (khoảng 350 TCN, trích theo số Bekker 402a–435b), nói ngược lại: linh hồn là hình thức của một cơ thể sống, không phải một vật tách rời [@aristotleDeAnima]. Truyền thống Trung Hoa nói về *tâm*, tâm-trí, không tách khỏi cơ thể như Descartes tách ra. Trang Tử nói về tính tương đối của tri giác và sự hài hoà với Đạo. Ấn Độ nói về năm uẩn (*skandha*), trong đó thức (*vijñāna*) là một dòng chảy biến đổi, và *anatta*, vô ngã [@buddhaSEP].
+
+Descartes, trong *Meditations* (1641), *Meditationes de prima philosophia*, đưa ra điểm khởi đầu nổi tiếng: *cogito ergo sum* — tôi tư duy, vậy tôi hiện hữu; tâm trí là điều chắc chắn nhất, khác biệt với vật chất có quảng tính [@descartes1641]. Locke, trong *Essay* (1689; xuất hiện tháng 12 năm 1689, trang tựa ghi 1690), nói về tờ giấy trắng [@lockeEssay1689]. Hume, trong *A Treatise of Human Nature* (1739–1740) nói cái tôi là một bó các tri giác, không có một cái tôi cố định đứng sau chúng [@humeTreatise]. Kant, trong *Critique of Pure Reason* (1781, ấn bản A; 1787, ấn bản B), cho rằng tâm trí chủ động cấu trúc kinh nghiệm qua không gian, thời gian và nhân quả [@kant1781]. James, trong *Principles of Psychology* (1890), nói về dòng ý thức [@james1890]. Brentano, trong *Psychology from an Empirical Standpoint* (1874), đưa ra khái niệm tính ý hướng (*intentionality*): tâm trí luôn hướng về một cái gì đó [@brentano1874]. Husserl, trong *Logical Investigations* (1900–1901) và *Ideas* (1913), sáng lập hiện tượng học: trở về với chính các sự vật như chúng hiện ra [@husserl1901]. Merleau-Ponty, trong *Phenomenology of Perception* (1945), cho rằng tâm trí là nhập thân: ta nghĩ bằng cơ thể, trong thế giới, không phải bằng một tâm trí tách rời [@merleauPonty1945].
+
+## 2. Bản đồ các lập trường về tâm trí
+
+| Lập trường | Đại diện | Luận điểm cốt lõi | Vấn đề lớn nhất |
+|---|---|---|---|
+| Nhị nguyên thực thể | Descartes | Tâm trí và vật chất là hai thực thể khác nhau | Vấn đề tương tác: làm sao cái phi vật chất tác động lên vật chất? |
+| Nhị nguyên thuộc tính | Chalmers | Ý thức là thuộc tính nền tảng, không quy về vật lý | Tại sao thuộc tính này gắn với một số hệ vật lý mà không gắn với hệ khác? |
+| Lý thuyết đồng nhất | Smart, Place (1950s) | Trạng thái tâm trí đồng nhất với trạng thái não | Khó giải thích tính đa thực hiện: cùng một trạng thái tâm trí có thể có nhiều nền tảng vật lý khác nhau |
+| Chức năng luận | Putnam, Fodor (1960s) | Tâm trí là chức năng, có thể thực hiện trên nhiều nền tảng | Phòng Trung Hoa của Searle: mô phỏng chức năng có đủ không? |
+| Loại trừ luận | Churchland (1980s) | Các khái niệm tâm lý dân gian sẽ bị khoa học thần kinh thay thế | Loại bỏ cả chính trải nghiệm mà ta muốn giải thích? |
+| Phiếm tâm luận | (Goff và cộng sự) | Ý thức có mặt ở mọi cấp độ, dù rất nhỏ | Vấn đề kết hợp: các ý thức nhỏ kết hợp thành một ý thức lớn như thế nào? |
+
+David Chalmers, trong "Facing Up to the Problem of Consciousness" (1995), *Journal of Consciousness Studies*, và *The Conscious Mind* (1996), phân biệt **vấn đề dễ** và **vấn đề khó**: các vấn đề dễ là các chức năng — phân biệt, tích hợp, báo cáo, kiểm soát hành vi; vấn đề khó là tại sao quá trình xử lý lại đi kèm với cảm nhận — tại sao có "cảm giác như thế nào" [@chalmers1995; @chalmers1996]. Thomas Nagel, trong "What Is It Like to Be a Bat?" (1974), *Philosophical Review*, đưa ra dữ kiện mà mọi lý thuyết phải giải thích: một con dơi có một đời sống chủ quan, và ta không thể biết "cảm giác như thế nào" khi là một con dơi chỉ bằng cách biết về não bộ của nó [@nagel1974]. *Qualia* — chất lượng chủ quan của trải nghiệm — là trung tâm của vấn đề khó. Xem thêm Tye, SEP "Qualia" [@sepQualia], và Goff, Seager và Allen-Hermanson, SEP "Panpsychism" (xuất bản lần đầu 23 tháng 5 năm 2001, sửa đổi 13 tháng 5 năm 2022) [@sepPanpsychism].
+
+Daniel Dennett, trong *Consciousness Explained* (1991), trả lời ngược lại: vấn đề khó là một ảo giác; không có "nhà hát Descartes" nơi mọi thứ được trình diễn cho một khán giả bên trong; chỉ có nhiều bản nháp (*multiple drafts*) cạnh tranh nhau [@dennett1991]. John Searle, trong "Minds, Brains, and Programs" (1980), *Behavioral and Brain Sciences*, đưa ra Phòng Trung Hoa: một người trong phòng, làm theo quy tắc để trả lời các câu hỏi tiếng Trung mà không hiểu tiếng Trung, cho thấy cú pháp không phải là ngữ nghĩa — mô phỏng hiểu biết không phải là hiểu biết [@searle1980].
+
+## 3. Tranh luận 6.1: Phòng Trung Hoa — mô phỏng có đủ không?
+
+**Ủng hộ Searle (không đủ):** Một hệ thống chỉ thao tác ký hiệu theo quy tắc không hiểu gì cả, dù đầu ra của nó hoàn hảo. Hiểu biết cần nhân quả sinh học đúng — bộ não, không phải chương trình. Một AI có thể vượt qua bài kiểm tra Turing mà vẫn không có ý thức.
+
+**Phản đối (chức năng luận):** Phòng Trung Hoa xét sai cấp độ: người trong phòng không hiểu, nhưng *toàn bộ hệ thống* — người, quy tắc, giấy tờ — có thể hiểu. Hơn nữa, yêu cầu "nhân quả sinh học đúng" là tùy tiện: nếu một hệ thống silicon thực hiện đúng các chức năng, vì sao nó không thể có ý thức? Não bộ cũng chỉ là một cỗ máy sinh học thực hiện các chức năng.
+
+**Đánh giá:** Tranh luận này đã kéo dài hơn bốn mươi năm mà không ngã ngũ, vì nó phụ thuộc vào trực giác về "hiểu biết" và "ý thức" — những trực giác mà chính chúng đang bị xét hỏi. Nhưng nó đặt ra khung cho câu hỏi về AI: ta cần tiêu chí nào để nói một hệ AI có ý thức, và ai sẽ quyết định các tiêu chí đó?
+
+## 4. Khoa học thần kinh về ý thức: GWT và IIT
+
+Hai lý thuyết lớn chi phối nghiên cứu đương đại. **Lý thuyết không gian làm việc toàn cục** (*Global Workspace Theory*, GWT), do Baars đề xuất trong *A Cognitive Theory of Consciousness* (1988), và được Dehaene phát triển trong *Consciousness and the Brain* (2014), cho rằng ý thức xuất hiện khi thông tin được phát sóng rộng rãi trong não bộ, tới nhiều hệ thống khác nhau [@baars1988; @dehaene2014]. **Lý thuyết thông tin tích hợp** (*Integrated Information Theory*, IIT), do Tononi đề xuất trong "An Information Integration Theory of Consciousness" (2004), *BMC Neuroscience*, cho rằng ý thức là thông tin tích hợp, đo bằng Phi (Φ): một hệ thống càng tích hợp, càng có ý thức [@tononi2004].
+
+Cả hai lý thuyết đều không giải quyết vấn đề khó; IIT bị phê phán vì nó hàm ý rằng ngay cả các hệ thống đơn giản cũng có một chút ý thức. Liên minh Cogitate và cộng sự (2025), trong "Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness", *Nature*, kiểm định đối kháng GWT và IIT trên 256 người tham gia, với fMRI, MEG và ECoG: mỗi lý thuyết được xác nhận một phần và bị thách thức một phần, không lý thuyết nào được ủng hộ hoàn toàn [@cogitate2025].
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+Khoa học thần kinh theo dõi các tương quan thần kinh của ý thức (*neural correlates of consciousness*, NCC): thị giác mù (*blindsight*), gây mê, giấc ngủ, não tách đôi. Dehaene cho thấy ý thức gắn với sự phát sóng toàn cục; Tononi cho thấy nó gắn với tích hợp. Nhưng *qualia* không thể so sánh trực tiếp giữa hai người, và ý thức là đặc biệt vì đối tượng và chủ thể là cùng một thứ.
+
+Điểm khởi đầu nên là: Van Gulick (2004), SEP "Consciousness" (xuất bản lần đầu 18 tháng 6 năm 2004, sửa đổi 2014 và sau đó; ấn bản Mùa thu 2025, sửa đổi lần cuối 31 tháng 12 năm 2025) [@sepConsciousness]; Chalmers (1996) [@chalmers1996]; Dehaene (2014) [@dehaene2014].
+:::
+
+## 5. Tình yêu: eros, philia, agape — và khoa học về gắn bó
+
+Plato, trong *Symposium* (khoảng 385–370 TCN, trích theo số Stephanus 172a–223d), mô tả *eros* như khát vọng hướng tới cái đẹp, leo lên tới chính cái Đẹp [@platoSymposium]. Aristotle, trong *Nicomachean Ethics*, phân biệt ba loại tình bạn: vì lợi ích, vì khoái lạc, và vì đức hạnh; chỉ tình bạn vì đức hạnh mới bền vững [@aristotleNE]. Truyền thống Kitô giáo nói về *agape*, tình yêu hiến dâng; Kierkegaard, trong *Works of Love* (1847), nói về tình yêu như bổn phận từ đức tin. Sartre (1943) xem tình yêu như xung đột — muốn chiếm hữu tự do của người khác; Beauvoir trả lời bằng sự công nhận lẫn nhau và dự án chung [@sartre1943].
+
+Erich Fromm, trong *The Art of Loving* (1956), tên đầy đủ *The Art of Loving: An Inquiry into the Nature of Love*, cho rằng tình yêu là một nghệ thuật, một thực hành: chăm sóc, trách nhiệm, tôn trọng, hiểu biết [@fromm1956]. Harry Frankfurt, trong *The Reasons of Love* (2004), cho rằng tình yêu định hình cái tôi và cho ta lý do hành động [@frankfurt2004].
+
+Tâm lý học gắn bó đưa ra một bức tranh khác, bổ sung chứ không đối lập. John Bowlby, trong *Attachment and Loss, Vol. 1: Attachment* (1969), cho rằng gắn bó là cơ chế sinh tồn [@bowlby1969]. Mary Ainsworth và cộng sự (1978), trong *Patterns of Attachment: A Psychological Study of the Strange Situation*, phân biệt gắn bó an toàn, lo âu, và tránh né [@ainsworth1978]. Robert Sternberg (1986), trong "A Triangular Theory of Love", *Psychological Review*, đề xuất ba thành phần: thân mật, đam mê, và cam kết [@sternberg1986]. Khoa học thần kinh cho thấy tình yêu lãng mạn liên quan tới hệ thống khen thưởng dopaminergic, oxytocin, vasopressin — nhưng biết cơ chế không giải thích được ý nghĩa của tình yêu, giống như biết về sóng âm không giải thích được ý nghĩa của một bản nhạc.
+
+Helm (2005), SEP "Love" (xuất bản lần đầu 8 tháng 4 năm 2005, sửa đổi 2009, 2013, 2021), là điểm khởi đầu tốt cho triết học về tình yêu [@sepLove].
+
+## 6. Tranh luận 6.2: AI có thể có ý thức không?
+
+Butlin, Long, Bayne và cộng sự (2025), "Identifying Indicators of Consciousness in AI Systems", *Trends in Cognitive Sciences* (bản preprint 2023, arXiv:2308.08708), đề xuất 14 chỉ báo ý thức rút ra từ các lý thuyết: không có hệ AI hiện tại nào là ứng cử viên mạnh, nhưng không có rào cản kỹ thuật rõ ràng nào ngăn việc xây dựng một hệ như vậy [@butlin2025]. Chức năng luận nói: nếu AI thực hiện đúng các chức năng, không có lý do nguyên tắc nào để phủ nhận tâm trí. Searle nói: mô phỏng là chưa đủ, chỉ có nhân quả sinh học đúng mới cho ý thức. IIT hỏi: AI có Phi đủ cao và cấu trúc tích hợp đúng không? GWT hỏi: nó có một không gian làm việc toàn cục thực sự, hay chỉ là các mô-đun rời rạc?
+
+**Hệ quả đạo đức:** Nếu một AI có ý thức, dù tối thiểu, ta có thể nợ nó một số nghĩa vụ; nếu ta gán ý thức quá dễ dàng, ta lãng phí nguồn lực đạo đức và làm méo mó trách nhiệm con người. Quan điểm thận trọng: đừng khẳng định AI hiện tại có ý thức, đừng loại trừ AI tương lai, và hãy xây dựng tiêu chí đánh giá trước khi các hệ thống trở nên đủ phức tạp.
+
+## 7. Đối thoại Đông – Tây
+
+Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắng gắn chúng lại; phương Đông ít khi tách ra ngay từ đầu. *Tâm* trong tiếng Trung là tim-trí, không phải một "tâm trí" tách khỏi cơ thể. Trang Tử nói về tính tương đối của tri giác; Phật giáo nói về năm uẩn và vô ngã. Merleau-Ponty, với tâm trí nhập thân, là triết gia phương Tây gần với truyền thống này nhất. Về tình yêu, phương Tây nói về *eros* leo lên tới cái Đẹp; Khổng Tử nói về Nhân như yêu người trong các mối quan hệ cụ thể; Phật giáo nói về từ bi vô lượng. Cả hai đều đồng ý: tình yêu không chỉ là cảm xúc — nó là một cách nhìn, một thực hành, và một sự biến đổi của cái tôi.
+
+## 8. Câu hỏi mở
+
+- *Qualia* có thể được giải thích đầy đủ bằng vật lý, hay nó là nền tảng?
+- Ý thức nổi lên từ sự phức tạp, hay có mặt ở mọi cấp độ?
+- Có thể có ý thức mà không có ngôn ngữ, ký ức, hay cảm giác về cái tôi không?
+- Tình yêu là cảm xúc, phán đoán giá trị, thực hành, hay tất cả cùng lúc?
+- Nếu AI đáp ứng các tiêu chí, ai quyết định địa vị đạo đức của nó?
+
+## 9. Đọc thêm
+
+- Descartes (1641), *Meditations* [@descartes1641]
+- Chalmers (1996), *The Conscious Mind* [@chalmers1996]
+- Dennett (1991), *Consciousness Explained* [@dennett1991]
+- Dehaene (2014), *Consciousness and the Brain* [@dehaene2014]
+- Fromm (1956), *The Art of Loving* [@fromm1956]
+- Van Gulick, SEP "Consciousness" [@sepConsciousness]
+- Butlin và cộng sự (2025) [@butlin2025]

@@ -1,0 +1,90 @@
+# Chương 2. Bản chất con người
+
+Con người là gì? Một con vật có lý trí, một con vật có cảm xúc, một con vật kể chuyện? Bạn là ai nếu bỏ đi tên gọi, nghề nghiệp, ký ức và vai trò xã hội? Con người sinh ra đã thiện, đã ác, hay là một tờ giấy trắng? Và có một "bản chất" cố định nào không, hay chúng ta tự tạo ra mình?
+
+Chương này đi từ Mạnh Tử và Tuân Tử tới Darwin, Pinker, Sapolsky, Tomasello và Henrich — và kết luận rằng câu hỏi cũ "thiện hay ác?" là câu hỏi sai. Câu hỏi đúng là: cái gì là bẩm sinh, ở mức độ nào, và nó tương tác với văn hoá ra sao?
+
+## 1. Bản đồ các lập trường
+
+| Lập trường | Đại diện | Luận điểm cốt lõi | Điểm yếu lớn nhất |
+|---|---|---|---|
+| Thiện bẩm sinh | Mạnh Tử | Con người có bốn mầm thiện: trắc ẩn, hổ thẹn, cung kính, phân biệt phải–trái | Không giải thích được tội ác có hệ thống và sự tàn ác có tổ chức |
+| Ác bẩm sinh / ích kỷ | Tuân Tử, Hobbes | Bản tính là ham muốn, tranh giành; thiện đến từ lễ, giáo dục, pháp luật | Không giải thích được lòng vị tha tự phát, đặc biệt ở trẻ nhỏ |
+| Tờ giấy trắng | Locke | Tâm trí lúc sinh là *tabula rasa*; mọi thứ đến từ kinh nghiệm | Mâu thuẫn với bằng chứng di truyền, thần kinh và xuyên văn hoá |
+| Mô-đun tiến hoá | Pinker, Cosmides, Tooby | Não bộ gồm các mô-đun chuyên biệt do chọn lọc tự nhiên tạo ra | Nguy cơ kể chuyện thích ứng: mọi đặc điểm đều "được giải thích" sau sự kiện |
+| Bản chất cố định | Aristotle | Con người là *zoon politikon*, con vật chính trị, *zoon logon echon*, con vật có ngôn ngữ; đức hạnh do thói quen | "Cố định" quá mạnh so với bằng chứng về tính dẻo của não và văn hoá |
+| Tự tạo | Sartre | Hiện hữu đi trước bản chất; không có bản chất cho sẵn | Phóng đại tự do, xem nhẹ gen, não bộ, vô thức và cấu trúc xã hội |
+| Quyết định luận sinh học | (cực đoan) | Gen và não quyết định hành vi | Bỏ qua tính dẻo thần kinh, biểu sinh, và vai trò của môi trường |
+| Quyết định luận văn hoá / xã hội | Marx | Con người là tổng hoà các quan hệ xã hội | Bỏ qua những phổ quát xuyên văn hoá và nền tảng sinh học |
+
+Aristotle đặt nền móng phương Tây: con người là *zoon politikon*, sinh vật chính trị, sống trong cộng đồng, và *zoon logon echon*, sinh vật có ngôn ngữ và lý trí; đức hạnh hình thành do thói quen, không phải do bẩm sinh hay do dạy dỗ thuần tuý [@aristotleNE]. Plato, trong *Republic*, mô tả linh hồn có ba phần — lý trí, khí phách, dục vọng — và công bằng là sự hài hoà của chúng dưới sự dẫn dắt của lý trí [@platoRepublic].
+
+## 2. Mạnh Tử và Tuân Tử: cuộc tranh luận lâu đời nhất
+
+Tranh luận 2.1 này đã kéo dài hơn hai nghìn năm, và nó vẫn là khung tốt nhất để bắt đầu.
+
+Mạnh Tử (khoảng 372–289 TCN) cho rằng tính người là thiện (*xing shan*): con người sinh ra đã có bốn mầm — trắc ẩn khi thấy trẻ nhỏ sắp rơi xuống giếng, hổ thẹn khi làm điều sai, cung kính, và phân biệt phải–trái [@mencius]. Thiện không phải là thứ phải ép từ bên ngoài, mà là thứ cần được nuôi dưỡng, như hạt giống cần nước và đất. Nếu con người làm điều ác, đó là vì mầm thiện bị bỏ bê, bóp nghẹt, hay hoàn cảnh làm cho nó không nảy mầm được.
+
+Tuân Tử (khoảng 310 – sau 238 TCN) trả lời ngược lại, trong *Tính Ác*: bản tính con người là ác, vì con người sinh ra đã ham muốn, tranh giành, đố kỵ [@xunzi]. Thiện không phải là bản tính, mà là sản phẩm nhân tạo — của lễ (*li*), giáo dục, và pháp luật. Không có lễ và giáo dục, con người sẽ rơi vào hỗn loạn.
+
+**Ai đúng?** Bằng chứng hiện đại cho thấy cả hai đều đúng một phần — và cả hai đều sai nếu hiểu theo nghĩa tuyệt đối. Trẻ em 14–18 tháng tuổi giúp đỡ người lạ và phản ứng với sự bất công, như Tomasello ghi nhận — ủng hộ Mạnh Tử [@tomasello2019]. Nhưng con người cũng tranh giành địa vị, thiên vị nhóm của mình, và tàn ác khi được hệ thống cho phép — ủng hộ Tuân Tử. Câu hỏi không phải là "thiện hay ác", mà là: trong điều kiện nào thì mầm nào nảy mầm? Và ai thiết kế các điều kiện đó — gia đình, trường học, luật pháp, hay các hệ thống AI?
+
+## 3. Hobbes, Locke, Rousseau: ba bức tranh về con người tự nhiên
+
+Hobbes, trong *Leviathan* (1651), mô tả trạng thái tự nhiên là "chiến tranh của mọi người chống mọi người", và đời sống con người là "cô độc, nghèo nàn, bẩn thỉu, tàn bạo và ngắn ngủi" [@hobbes1651]. Con người cần một quyền lực tối cao để kiềm chế lẫn nhau. Locke, trong *Two Treatises* (1689 [trang tựa 1690]) và *Essay Concerning Human Understanding* (1689; xuất hiện lần đầu tháng 12 năm 1689, trang tựa ghi 1690), đưa ra bức tranh ngược lại: tâm trí là tờ giấy trắng, và con người có quyền tự nhiên về sống, tự do và tài sản [@lockeEssay1689; @lockeTwoTreatises1689]. Rousseau, trong *Discourse on Inequality* (1755), cho rằng con người tự nhiên là hiền hoà, có lòng thương hại (*pitié*) và yêu mình (*amour de soi*); chính *amour-propre* — yêu mình qua con mắt người khác — và tư hữu mới tạo ra bất bình đẳng [@rousseau1755].
+
+Ba bức tranh này không chỉ là triết học; chúng là những giả thuyết về con người mà các thể chế chính trị được xây dựng trên đó. Nếu Hobbes đúng, ta cần một nhà nước mạnh. Nếu Locke đúng, ta cần bảo vệ quyền cá nhân và giáo dục. Nếu Rousseau đúng, ta cần nghi ngờ chính các thể chế làm con người hư hỏng. Và bằng chứng hiện đại — từ nhân học, tâm lý học phát triển, và khoa học thần kinh — cho thấy mỗi bức tranh đều nắm được một phần sự thật, và bỏ sót phần còn lại.
+
+## 4. Darwin và sự kết thúc của thuyết bản chất cổ điển
+
+Darwin, trong *Origin of Species* (1859) và *Descent of Man* (1871), đã thay đổi câu hỏi về bản chất con người một cách căn bản [@darwin1871]. Trước Darwin, "bản chất" thường được hiểu như một bản chất cố định, bất biến, do Thượng đế hay lý trí đặt ra. Sau Darwin, con người là sản phẩm của tiến hoá: các đặc điểm của chúng ta tồn tại vì chúng đã giúp tổ tiên sinh tồn và sinh sản trong môi trường quá khứ — không phải vì chúng là "bản chất" vĩnh cửu. Chủ nghĩa bản chất cũ đã chết sau Darwin; tờ giấy trắng đã chết sau bằng chứng song sinh, nhận nuôi, và xuyên văn hoá.
+
+Marx, trong *Economic and Philosophic Manuscripts of 1844* (viết 1844, xuất bản lần đầu 1932, ghi là "1844/1932"), đưa ra một hướng khác: con người là tổng hoà các quan hệ xã hội [@marx1844]. Freud, trong *Civilization and Its Discontents* (viết 1929, xuất bản tiếng Đức 1930), cho rằng văn minh được dựng trên kìm nén — con người phải từ bỏ một phần bản năng để sống chung [@freud1930]. Sartre (1943) kết luận: hiện hữu đi trước bản chất [@sartre1943].
+
+## 5. Pinker, Sapolsky, Tomasello, Henrich: bức tranh hiện đại
+
+Steven Pinker, trong *The Blank Slate* (2002), tấn công tờ giấy trắng bằng bằng chứng từ di truyền học hành vi, tâm lý học tiến hoá, và khoa học thần kinh: con người có những khuynh hướng bẩm sinh — về ngôn ngữ, sợ hãi, địa vị, tình dục, và đạo đức — và việc phủ nhận chúng không làm cho xã hội công bằng hơn, mà làm cho chính sách kém hiệu quả hơn [@pinker2002]. Robert Sapolsky, trong *Behave* (2017), cho thấy cùng một hành vi có thể được giải thích ở nhiều thang thời gian khác nhau — từ mili giây trước hành vi (hoạt động thần kinh), tới giờ, ngày, tháng, năm, thế kỷ, và hàng triệu năm tiến hoá — và không có thang nào là "nguyên nhân thực sự" duy nhất [@sapolsky2017]. Tổn thương vùng vỏ não trước trán thay đổi phán đoán đạo đức; các biến thể dopamine và serotonin ảnh hưởng tới tính bốc đồng; nhưng tính dẻo thần kinh và biểu sinh cho thấy sinh học đáp lại môi trường.
+
+Michael Tomasello, trong *Becoming Human* (2019), cho rằng điểm đặc trưng của con người là *ý định chung* (*shared intentionality*): khả năng chia sẻ mục tiêu, chú ý, và tri thức với người khác, xuất hiện từ rất sớm ở trẻ em [@tomasello2019]. Trẻ 14–18 tháng tuổi giúp đỡ người lạ mà không cần phần thưởng, và phản ứng khi thấy sự phân chia không công bằng. Đây là nền tảng của hợp tác, ngôn ngữ, và văn hoá — và là điều phân biệt con người với các loài linh trưởng khác, dù chúng cũng có trí tuệ xã hội.
+
+Joseph Henrich, trong *The Secret of Our Success* (2016), đảo ngược quan hệ thông thường giữa gen và văn hoá: văn hoá thuần hoá gen (ví dụ: dung nạp lactose), và "bộ não tập thể" — khả năng học hỏi từ người khác qua nhiều thế hệ — giải thích thành công của con người, chứ không phải trí tuệ cá nhân [@henrich2016]. Cùng với Heine và Norenzayan, Henrich chỉ ra rằng các mẫu WEIRD — phương Tây, có học vấn, công nghiệp hoá, giàu có, dân chủ — là ngoại lệ, không phải đại diện cho loài người [@henrich2010]. Hầu hết những gì tâm lý học phương Tây gọi là "bản chất con người" có thể chỉ là bản chất của người WEIRD.
+
+::: {.callout-note}
+## Nghiên cứu thực nghiệm nói gì?
+
+Sự đồng thuận hiện đại là **tương tác luận**: gen, phát triển và văn hoá cùng xây dựng con người. Không có đặc điểm quan trọng nào là "100% bẩm sinh" hay "100% học được". Tâm lý học tiến hoá (Cosmides, Tooby) mô tả các mô-đun chuyên biệt; khoa học thần kinh cho thấy não bộ đáp lại kinh nghiệm; di truyền học hành vi cho thấy tính di truyền của nhiều đặc điểm, nhưng cũng cho thấy môi trường điều chỉnh cách gen biểu hiện.
+
+**Giới hạn cần nhớ:** Các nghiên cứu về "phổ quát" thường dựa trên mẫu WEIRD. Các giải thích tiến hoá dễ rơi vào kể chuyện thích ứng — gán cho mọi đặc điểm một chức năng sinh tồn sau sự kiện. Và "bẩm sinh" không có nghĩa là "không thể thay đổi": chiều cao là bẩm sinh cao, nhưng dinh dưỡng vẫn làm thay đổi nó đáng kể.
+:::
+
+## 6. Tranh luận 2.2: "Bản chất con người" ngày nay nên chỉ cái gì?
+
+**Quan điểm bản chất theo quy luật (Machery):** "Bản chất con người" nên chỉ những đặc điểm mà hầu hết con người có do tiến hoá — một khái niệm có thể định nghĩa chính xác, dù hẹp [@machery2008].
+
+**Quan điểm đa nguyên, hậu bản chất (Kronfeldner):** Không có một bản chất duy nhất; có nhiều khái niệm khác nhau, phục vụ nhiều mục đích khác nhau — sinh học, tâm lý, đạo đức — và chúng ta nên giữ sự đa nguyên đó [@kronfeldner2018; @kronfeldner2014].
+
+**Quan điểm hoài nghi (Sterelny, Dupré; Nathan 2024):** Nathan (2024) lập luận rằng không có ứng cử viên nào cho "bản chất con người" vượt qua được sự kiểm tra kỹ lưỡng — mọi định nghĩa đều hoặc quá hẹp, hoặc quá mơ hồ, hoặc mang tính quy phạm trá hình [@nathan2024].
+
+**Đánh giá:** Tranh luận này cho thấy câu hỏi "bản chất con người là gì?" có thể cần được thay bằng hai câu hỏi rõ hơn: (a) những đặc điểm nào là phổ quát, bẩm sinh ở mức độ nào, và do cơ chế nào? (b) chúng ta *nên* hiểu con người như thế nào để sống tốt và xây dựng thể chế tốt? Câu (a) là câu hỏi khoa học; câu (b) là câu hỏi triết học và chính trị — và việc lẫn lộn chúng là nguồn gốc của nhiều tranh cãi.
+
+## 7. Đối thoại Đông – Tây
+
+Phương Đông cổ đại đã hỏi câu hỏi về bản chất con người bằng ngôn ngữ của tu dưỡng, không phải của bản chất cố định. Mạnh Tử và Tuân Tử không tranh luận về gen; họ tranh luận về giáo dục: nếu tính thiện, hãy nuôi dưỡng; nếu tính ác, hãy dùng lễ để uốn nắn. Upanishad nói *atman* đồng nhất với *Brahman* — cái tôi sâu nhất đồng nhất với thực tại tối hậu [@upanishads]. Phật giáo nói *anatta*, vô ngã: không có cái tôi cố định, chỉ có năm uẩn biến đổi [@buddhaSEP]. Aristotle nói con người là con vật chính trị; Khổng Tử nói con người là tổng hoà các mối quan hệ. Cả hai đều cho rằng con người chỉ trở thành người trong cộng đồng — một điểm mà tâm lý học WEIRD, với mẫu cá nhân chủ nghĩa, thường bỏ sót.
+
+## 8. Câu hỏi mở
+
+- Một bản chất hay nhiều bản chất? Có một "bản chất con người" duy nhất, hay mỗi văn hoá, mỗi cá nhân, có một bản chất riêng?
+- Đạo đức là bẩm sinh hay học được? Và nếu là cả hai, phần nào là bẩm sinh?
+- Còn lại bao nhiêu ý chí tự do, khi gen, não bộ, vô thức và cấu trúc xã hội đều định hình ta? (Xem Chương 3.)
+- Bao nhiêu phần "bản chất con người" trong tâm lý học phương Tây chỉ là bản chất của người WEIRD?
+- Nếu chúng ta có thể lựa chọn bản chất của mình — chỉnh sửa gen, cấy chip não, xây AI bắt chước con người — thì nên chọn bản chất nào, và ai quyết định? Câu hỏi này gắn trực tiếp với công việc kỹ thuật y sinh.
+
+## 9. Đọc thêm
+
+- Pinker (2002), *The Blank Slate* [@pinker2002]
+- Sapolsky (2017), *Behave* [@sapolsky2017]
+- Henrich (2016), *The Secret of Our Success* [@henrich2016]
+- Tomasello (2019), *Becoming Human* [@tomasello2019]
+- Darwin (1871), *Descent of Man* [@darwin1871]
+- Roughley (2021), SEP "Human Nature" [@roughleySEP2021]
+- Nathan (2024), *The Quest for Human Nature* [@nathan2024]
