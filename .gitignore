@@ -24,3 +24,6 @@ Thumbs.db
 
 # Archives (never commit)
 *.tar.gz
+
+/.quarto/
+**/*.quarto_ipynb

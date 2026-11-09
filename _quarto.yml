@@ -1,32 +1,48 @@
----
-title: "Cuộc sống và con người"
-author: "Hoang Quang Huy (Ben)"
+project:
+  type: book
+  output-dir: _site
+
 lang: vi
 bibliography: references.bib
-website:
+
+book:
   title: "Cuộc sống và con người"
-  repo-url: https://github.com/fossbk-spec/ai4l-book
+  author: "Hoàng Quang Huy"
   site-url: https://fossbk-spec.github.io/ai4l-book/
+  repo-url: https://github.com/fossbk-spec/ai4l-book
+  repo-actions: [issue]
+  search: true
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - mindmap.qmd
+    - timeline.qmd
+    - part: "Bảy nhóm câu hỏi"
+      chapters:
+        - chapters/01-y-nghia.qmd
+        - chapters/02-ban-chat-con-nguoi.qmd
+        - chapters/03-tu-do.qmd
+        - chapters/04-cai-chet-thoi-gian.qmd
+        - chapters/05-dao-duc.qmd
+        - chapters/06-y-thuc-tinh-yeu.qmd
+        - chapters/07-kho-dau-vo-thuong.qmd
+    - references.qmd
+
+# Chapter and section titles are numbered by hand in the source
+# ("Chương 4.", "## 1."), so automatic numbering is off.
+number-sections: false
+
 format:
   html:
     theme: cosmo
     toc: true
     toc-depth: 3
-    search: true
-    number-sections: true
-    code-copy: true
-  pdf:
+  typst:
     toc: true
-    number-sections: true
-    colorlinks: true
-chapters:
-  - index.qmd
-  - mindmap.qmd
-  - timeline.qmd
-  - chapters/01-y-nghia.qmd
-  - chapters/02-ban-chat-con-nguoi.qmd
-  - chapters/03-tu-do.qmd
-  - chapters/04-cai-chet-thoi-gian.qmd
-  - chapters/05-dao-duc.qmd
-  - chapters/06-y-thuc-tinh-yeu.qmd
-  - chapters/07-kho-dau-vo-thuong.qmd
+    papersize: a4
+    mainfont: "Libertinus Serif"
+    citeproc: true
+    number-sections: false
+    include-before-body:
+      text: |
+        #set heading(numbering: none)
