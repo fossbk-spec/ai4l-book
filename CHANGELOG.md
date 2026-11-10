@@ -2,6 +2,13 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.4.0] — Chapter 4 deepened
+
+- **Stoics on death:** Epictetus (*Encheiridion* 5) and Seneca (Letter 24); a new row in the positions map.
+- **Debate 4.3, "When has a person died?":** the circulatory-respiratory, whole-brain and higher-brain standards, with the main objection to each.
+- **Time:** presentism, the growing block and eternalism are now sourced. The relativity of simultaneity is presented as a philosophical argument against presentism, not a result of physics alone. Bergson's *durée* is now sourced.
+- 6 new sources: SEP "Time", "The Definition of Death", "Epictetus", "Henri Bergson" and "Being and Becoming in Modern Physics"; Seneca, *Moral Letters*.
+
 ## [1.3.0] — Comparing traditions (Ch. 1–7)
 
 - The section "Đối thoại Đông – Tây" in Ch. 1–7 becomes **"Đối chiếu các truyền thống"**:
