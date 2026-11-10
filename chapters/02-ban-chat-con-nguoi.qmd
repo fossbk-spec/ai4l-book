@@ -67,9 +67,17 @@ Sự đồng thuận hiện đại là **tương tác luận**: gen, phát tri�
 
 **Đánh giá:** Tranh luận này cho thấy câu hỏi "bản chất con người là gì?" có thể cần được thay bằng hai câu hỏi rõ hơn: (a) những đặc điểm nào là phổ quát, bẩm sinh ở mức độ nào, và do cơ chế nào? (b) chúng ta *nên* hiểu con người như thế nào để sống tốt và xây dựng thể chế tốt? Câu (a) là câu hỏi khoa học; câu (b) là câu hỏi triết học và chính trị — và việc lẫn lộn chúng là nguồn gốc của nhiều tranh cãi.
 
-## 7. Đối thoại Đông – Tây
+## 7. Đối chiếu các truyền thống
 
-Phương Đông cổ đại đã hỏi câu hỏi về bản chất con người bằng ngôn ngữ của tu dưỡng, không phải của bản chất cố định. Mạnh Tử và Tuân Tử không tranh luận về gen; họ tranh luận về giáo dục: nếu tính thiện, hãy nuôi dưỡng; nếu tính ác, hãy dùng lễ để uốn nắn. Upanishad nói *atman* đồng nhất với *Brahman* — cái tôi sâu nhất đồng nhất với thực tại tối hậu [@upanishads]. Phật giáo nói *anatta*, vô ngã: không có cái tôi cố định, chỉ có năm uẩn biến đổi [@buddhaSEP]. Aristotle nói con người là con vật chính trị; Khổng Tử nói con người là tổng hoà các mối quan hệ. Cả hai đều cho rằng con người chỉ trở thành người trong cộng đồng — một điểm mà tâm lý học WEIRD, với mẫu cá nhân chủ nghĩa, thường bỏ sót.
+Ở chương này, những bất đồng lớn nhất nằm *bên trong* từng truyền thống, chứ không nằm giữa các truyền thống.
+
+**Trong Nho gia:** Mạnh Tử và Tuân Tử đều theo Khổng Tử, nhưng một người nói tính người thiện, người kia nói tính người ác (Tranh luận 2.1). Họ không tranh luận về gen; họ tranh luận về giáo dục. Nếu tính thiện, hãy nuôi dưỡng các mầm thiện [@mencius]; nếu tính ác, hãy dùng lễ và thầy giỏi để uốn nắn [@xunzi].
+
+**Trong các truyền thống Ấn Độ:** Upanishad cho rằng *ātman*, cái tôi sâu nhất, đồng nhất với *Brahman*, thực tại tối hậu [@upanishads]. Phật giáo bác bỏ chính ý tưởng đó bằng giáo lý *anattā*, vô ngã: không có một cái tôi cố định, chỉ có năm uẩn luôn biến đổi [@buddhaSEP].
+
+**Trong triết học chính trị châu Âu:** Hobbes thấy con người tự nhiên sống trong cảnh chiến tranh của mọi người chống lại mọi người [@hobbes1651]. Rousseau thấy con người tự nhiên tương đối hiền hoà, và cho rằng chính xã hội làm con người hư hỏng [@rousseau1755].
+
+Ở một điểm khác, có những nhà tư tưởng xa nhau lại gặp nhau. Aristotle gọi con người là sinh vật chính trị, sống trọn vẹn trong cộng đồng [@aristotleNE]; Khổng Tử đặt việc làm người vào các mối quan hệ [@confucius]. Henrich và cộng sự nhắc rằng phần lớn tâm lý học lấy mẫu từ các xã hội WEIRD (phương Tây, có học, công nghiệp hoá, giàu, dân chủ), những xã hội không đại diện cho loài người [@henrich2010]. Vì vậy, bức tranh "con người cá nhân" của tâm lý học không nên được coi là bức tranh chung của mọi con người.
 
 ## 8. Câu hỏi mở
 
@@ -92,7 +100,7 @@ Phương Đông cổ đại đã hỏi câu hỏi về bản chất con người
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho tương tác gen – môi trường (Caspi 2003; Risch 2009).
+- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

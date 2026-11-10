@@ -67,11 +67,13 @@ Một meta-analysis của Cohen, Bavishi và Rozanski (2016) trên 10 nghiên c�
 **Giới hạn cần nhớ:** Hầu hết các nghiên cứu này là tương quan, tự báo cáo, và có thiên lệch văn hoá. Cảm thấy có ý nghĩa không giống với thực sự có ý nghĩa. Bằng chứng về Frankl chủ yếu là giai thoại và quan sát lâm sàng, không phải thử nghiệm ngẫu nhiên có đối chứng; và việc nhấn mạnh thái độ có nguy cơ đổ lỗi cho nạn nhân — như thể người khổ đau chỉ cần "thay đổi thái độ" là đủ.
 :::
 
-## 7. Đối thoại Đông – Tây
+## 7. Đối chiếu các truyền thống
 
-Phương Tây phân tích đặt câu hỏi "ý nghĩa là gì?" và tìm định nghĩa; phương Đông thường đặt câu hỏi "sống như thế nào?" và tìm con đường. Aristotle hỏi về *telos*, mục đích của con người; Khổng Tử hỏi về cách làm người trong các mối quan hệ; Lão Tử và Trang Tử hỏi về cách buông bỏ để thuận theo Đạo; Phật giáo hỏi về cách chấm dứt bám víu. Nhưng hai truyền thống gặp nhau ở một điểm: ý nghĩa không nằm trong việc tích luỹ cho riêng mình. Aristotle nói *eudaimonia* cần bạn bè và cộng đồng; Khổng Tử nói Nhân là yêu người; Frankl nói ý nghĩa được tìm thấy trong sáng tạo, tình yêu, và thái độ — cả ba đều hướng ra ngoài cái tôi.
+Mục này không so sánh "phương Đông" với "phương Tây" như hai khối thống nhất. Trong mỗi truyền thống đều có những bất đồng sâu sắc, nên cuốn sách đặt cạnh nhau từng nhà tư tưởng và từng văn bản cụ thể, và chỉ ra chỗ họ bất đồng ngay trong truyền thống của mình.
 
-Sự khác biệt đáng chú ý là thái độ đối với khổ đau. Truyền thống phương Tây hiện đại thường xem khổ đau là thứ cần loại bỏ để có ý nghĩa; Phật giáo và Frankl xem khổ đau là nơi ý nghĩa có thể được tìm thấy — không phải vì khổ đau tự nó tốt, mà vì thái độ đối với nó tiết lộ con người ta là ai. Chương 7 sẽ trở lại điểm này.
+**Aristotle và Khổng Tử.** Cả hai đều đặt đời sống tốt vào các vai trò và mối quan hệ, và cả hai đều coi đức hạnh là thứ được rèn luyện bằng thói quen. Với Aristotle, *eudaimonia* là hoạt động theo đức hạnh, và người hạnh phúc cần bạn bè [@aristotleNE]. Với Khổng Tử, Nhân là yêu người, và được thực hành qua lễ trong gia đình và xã hội [@confucius]. Nhưng mỗi người đều có một đối thủ ngay trong truyền thống của mình. Trang Tử chế giễu lễ nghi và danh phận của Nho gia, coi việc thuận theo tự nhiên quan trọng hơn việc làm tròn vai trò [@zhuangzi]. Camus và Sartre phủ nhận rằng con người có một mục đích cho sẵn như *telos* của Aristotle [@camus1942; @sartre1943].
+
+**Frankl và Phật giáo.** Cả hai đều nhìn thẳng vào khổ đau, nhưng đi theo hai hướng khác nhau. Frankl cho rằng khi khổ đau không thể tránh, con người vẫn có thể tìm thấy ý nghĩa trong thái độ đối với nó [@frankl1946]. Giáo lý Tứ diệu đế lại nhắm tới sự chấm dứt khổ, bằng cách chấm dứt tham ái [@buddhaSEP]. Một bên tìm ý nghĩa *trong* khổ đau, một bên tìm con đường *ra khỏi* khổ đau. Chương 7 sẽ trở lại điểm này.
 
 ## 8. Câu hỏi mở
 
@@ -94,7 +96,7 @@ Sự khác biệt đáng chú ý là thái độ đối với khổ đau. Truy�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.1.2. Bỏ tiêu đề lặp trong khung "Nghiên cứu thực nghiệm".
+- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

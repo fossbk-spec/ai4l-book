@@ -2,6 +2,13 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.3.0] — Comparing traditions (Ch. 1–7)
+
+- The section "Đối thoại Đông – Tây" in Ch. 1–7 becomes **"Đối chiếu các truyền thống"**:
+  - it compares named thinkers and texts instead of generalising about "the East" and "the West";
+  - each section shows disagreements inside each tradition (Mencius vs Xunzi; the Upanishads vs Buddhism; Descartes vs Aristotle and Merleau-Ponty; Spinoza vs Heidegger on death; Mencius vs Mozi; Nietzsche vs Schopenhauer).
+- Unsourced comparative claims were removed or given an existing verified source. No new references.
+
 ## [1.2.0] — Chapter 8 on AI; thinkers index, glossary, methods
 
 - **New Chapter 8, "Trí tuệ nhân tạo trong cuộc sống và con người":**
