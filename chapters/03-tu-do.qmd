@@ -62,9 +62,21 @@ Câu hỏi về tự do không chỉ là trừu tượng. Luật hình sự gi�
 
 Sartre nói con người "bị kết án phải tự do" và *mauvaise foi*, đức tin xấu, là tự lừa dối mình rằng mình không có lựa chọn [@sartre1943]. Dù ta đứng ở lập trường nào về siêu hình học, *mauvaise foi* vẫn là một chẩn đoán đạo đức sắc bén: có bao nhiêu lần ta nói "tôi không có lựa chọn" trong khi thực ra ta có — chỉ là lựa chọn đó khó khăn, tốn kém, hay đáng sợ?
 
-## 7. Đối thoại Đông – Tây
+## 7. Đối chiếu các truyền thống
 
-Phương Tây hỏi "tôi có thể làm khác đi không?"; phương Đông thường hỏi "tôi có thể buông bỏ bám víu không?" Đạo gia dạy *vô vi*, hành động mà không cưỡng ép; Phật giáo dạy duyên khởi và giải thoát khỏi vòng luân hồi; Khổng Tử dạy tu thân trong *thiên mệnh*. Cả hai truyền thống đều đồng ý ở một điểm: tự do không phải là làm bất cứ điều gì mình muốn trong khoảnh khắc — đó là nô lệ cho dục vọng. Tự do là khả năng hành động theo điều mình, sau khi suy xét, cho là đúng. Hume và Khổng Tử, dù cách nhau nửa vòng trái đất và hai nghìn năm, đều sẽ đồng ý với câu này.
+Ở chương này, các truyền thống không chia đôi theo địa lý. Chúng chia theo một câu hỏi khác: tự do là *thoát khỏi* tất yếu, hay là *hiểu và thuận theo* tất yếu?
+
+**Hiểu và thuận theo tất yếu.** Ba truyền thống rất xa nhau lại đứng gần nhau ở đây:
+
+- Khắc kỷ: người khôn ngoan tự do vì đồng thuận với trật tự của tự nhiên, và chỉ bận tâm tới điều trong tầm kiểm soát của mình [@sepStoicism; @epictetus].
+- Spinoza: tự do chính là hiểu biết về tất yếu [@spinoza1677].
+- Trang Tử: an nhiên trước những biến hoá không thể cưỡng [@zhuangzi].
+
+**Bất đồng bên trong.** Mỗi phía đều có người phản đối:
+
+- Ở châu Âu, các nhà tự do ý chí như Kane cho rằng trách nhiệm thật sự đòi hỏi những lựa chọn không bị tất định [@kane1996], và Sartre nói con người "bị kết án phải tự do" [@sartre1943].
+- Trong Nho gia, Khổng Tử dạy tu thân trong *thiên mệnh* [@confucius]. Tuân Tử thì cho rằng trời vận hành theo quy luật của nó, không thưởng phạt ai, và con người nên nắm lấy quy luật đó mà dùng, thay vì chỉ ngưỡng vọng trời [@xunzi].
+- Đạo gia dạy *vô vi*, hành động mà không cưỡng ép [@laozi]. Phật giáo dạy duyên khởi và con đường giải thoát khỏi bám víu [@buddhaSEP]. Đây là hai cách hiểu khác nhau về điều gì trói buộc con người.
 
 ## 8. Câu hỏi mở
 
@@ -87,7 +99,7 @@ Phương Tây hỏi "tôi có thể làm khác đi không?"; phương Đông th�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.1.2. Bỏ tiêu đề lặp trong khung "Nghiên cứu thực nghiệm".
+- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

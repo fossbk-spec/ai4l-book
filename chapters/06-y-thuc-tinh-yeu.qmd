@@ -63,9 +63,16 @@ Butlin, Long, Bayne và cộng sự (2026), "Identifying Indicators of Conscious
 
 **Hệ quả đạo đức:** Nếu một AI có ý thức, dù tối thiểu, ta có thể nợ nó một số nghĩa vụ; nếu ta gán ý thức quá dễ dàng, ta lãng phí nguồn lực đạo đức và làm méo mó trách nhiệm con người. Quan điểm thận trọng: đừng khẳng định AI hiện tại có ý thức, đừng loại trừ AI tương lai, và hãy xây dựng tiêu chí đánh giá trước khi các hệ thống trở nên đủ phức tạp.
 
-## 7. Đối thoại Đông – Tây
+## 7. Đối chiếu các truyền thống
 
-Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắng gắn chúng lại; phương Đông ít khi tách ra ngay từ đầu. *Tâm* trong tiếng Trung là tim-trí, không phải một "tâm trí" tách khỏi cơ thể. Trang Tử nói về tính tương đối của tri giác; Phật giáo nói về năm uẩn và vô ngã. Merleau-Ponty, với tâm trí nhập thân, là triết gia phương Tây gần với truyền thống này nhất. Về tình yêu, phương Tây nói về *eros* leo lên tới cái Đẹp; Khổng Tử nói về Nhân như yêu người trong các mối quan hệ cụ thể; Phật giáo nói về từ bi vô lượng. Cả hai đều đồng ý: tình yêu không chỉ là cảm xúc — nó là một cách nhìn, một thực hành, và một sự biến đổi của cái tôi.
+**Tâm trí và cơ thể.** Descartes tách tâm trí, một thực thể tư duy, khỏi cơ thể [@descartes1641]. Nhưng ông không đại diện cho cả truyền thống châu Âu:
+
+- Aristotle trước đó đã coi linh hồn là *hình thức* của cơ thể sống, không phải một vật tách rời [@aristotleDeAnima].
+- Merleau-Ponty về sau cho rằng tâm trí luôn là tâm trí nhập thân [@merleauPonty1945].
+- Ở Trung Hoa, trong sách *Mạnh Tử*, *tâm* vừa là nơi suy nghĩ vừa là nơi chứa các mầm cảm xúc như lòng trắc ẩn, tức là một "tim-trí" chứ không phải một tâm trí thuần lý [@mencius].
+- Phật giáo đi xa hơn cả hai phía: không có một chủ thể bền vững nào đứng sau năm uẩn [@buddhaSEP].
+
+**Tình yêu.** Trong *Symposium*, *eros* leo lên từ vẻ đẹp của một thân thể tới chính cái Đẹp [@platoSymposium]; Aristotle lại đặt *philia*, tình bạn giữa những người tốt, vào trung tâm đời sống tốt [@aristotleNE]. Khổng Tử nói Nhân là yêu người, bắt đầu từ cha mẹ, anh em, rồi lan ra [@confucius]. Như đã thấy ở Chương 5, Mạnh Tử bảo vệ tình thương có thứ bậc này trước *kiêm ái* của Mặc Tử [@mencius]. Ba cách nhìn này trả lời những câu hỏi khác nhau: tình yêu dẫn ta tới đâu (Plato), tình bạn tốt gồm những gì (Aristotle), và tình thương nên mở rộng ra sao (Khổng Tử, Mạnh Tử và Mặc Tử).
 
 ## 8. Câu hỏi mở
 
@@ -88,7 +95,7 @@ Phương Tây tách tâm trí khỏi cơ thể (Descartes) rồi lại cố gắ
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho khoa học thần kinh về tình yêu; nhắc tới xử lý dự đoán.
+- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

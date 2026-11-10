@@ -67,9 +67,15 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 **Chết não.** Ủy ban Harvard (1968), "A definition of irreversible coma", *JAMA* [@harvard1968]. Theo hướng dẫn đồng thuận năm 2023, chết não (chết theo tiêu chuẩn thần kinh) đòi hỏi mất vĩnh viễn chức năng của toàn bộ não, gồm cả thân não; việc xác định này dẫn tới tuyên bố tử vong về mặt pháp lý trong bối cảnh Hoa Kỳ [@greer2023brainDeath]. Trạng thái thực vật, hay hội chứng thức tỉnh không đáp ứng, là rối loạn ý thức ở một người còn sống, không phải chết não [@giacino2018consciousness]. ECMO và bảo quản lạnh tiếp tục đặt ra câu hỏi về ranh giới của cái chết. Xem thêm Luper (chủ biên) (2014), *The Cambridge Companion to Life and Death* [@luper2014], và các mục SEP "Death" [@luperSEPdeath], "Time", "Personal Identity" [@olsonSEPidentity], và "The Definition of Death".
 :::
 
-## 8. Đối thoại Đông – Tây
+## 8. Đối chiếu các truyền thống
 
-Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường hỏi "làm sao sống với cái chết?". Trang Tử xem sinh tử như sự biến hoá của Đạo; Phật giáo xem cái chết như một phần của vô thường, và sự bám víu vào một cái tôi vĩnh cửu là nguồn gốc của khổ đau. Heidegger nói về tính chân thực qua việc đón nhận cái chết; Phật giáo nói về chánh niệm về cái chết (*maraṇasati*) như một thực hành. Cả hai đều cho rằng chạy trốn khỏi cái chết làm cho đời sống trở nên nông cạn — nhưng Heidegger đi tới quyết đoán cá nhân, còn Phật giáo đi tới buông bỏ cái tôi. Đó là hai con đường khác nhau từ cùng một điểm khởi hành.
+Ở đây, câu hỏi "có nên nghĩ về cái chết không?" chia rẽ các nhà tư tưởng *bên trong* cùng một truyền thống, chứ không chia họ theo địa lý.
+
+**Nghĩ về cái chết để bớt sợ nó.** Epicurus nói cái chết không là gì với ta, vì khi ta còn thì cái chết chưa tới, và khi nó tới thì ta không còn [@epicurus]. Trang Tử, khi vợ mất, lúc đầu cũng đau buồn; rồi ông suy ngẫm rằng sinh tử là sự biến hoá của tự nhiên, như bốn mùa nối tiếp nhau, và gõ chậu mà hát [@zhuangzi]. Hai lý lẽ rất khác nhau (một bên dựa vào nguyên tử luận, một bên dựa vào sự biến hoá), nhưng cả hai đều thay đổi cách ta nhìn cái chết, và qua đó thay đổi nỗi sợ và nỗi đau trước nó.
+
+**Bất đồng ở châu Âu.** Spinoza viết rằng người tự do nghĩ về cái chết ít hơn hết thảy, và sự khôn ngoan của người ấy là suy niệm về sự sống chứ không phải về cái chết [@spinoza1677]. Heidegger thì ngược lại: chỉ khi đối diện với cái chết như khả thể riêng nhất của mình, con người mới sống chân thực [@heidegger1927]. Nagel phản bác cả Epicurus: cái chết có thể xấu với ta vì nó tước đi những điều tốt mà lẽ ra ta còn có [@nagel1970death].
+
+**Bất đồng ở châu Á.** Trang Tử chấp nhận sự biến hoá như nó là. Phật giáo thì xem cái chết là một biểu hiện của vô thường, và bám víu vào một cái tôi bền vững là gốc của khổ đau; mục tiêu là thoát khỏi vòng tái sinh, không chỉ an nhiên trong nó [@buddhaSEP]. Như vậy, cùng xuất phát từ sự đổi thay, có hai con đường khác nhau: thuận theo sự biến hoá, và chấm dứt khổ cùng vòng tái sinh.
 
 ## 9. Câu hỏi mở
 
@@ -93,7 +99,7 @@ Phương Tây hỏi "cái chết có xấu không?"; phương Đông thường h
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm bản đồ các lập trường; trước đó (1.1.3) tách chết não khỏi trạng thái thực vật.
+- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
