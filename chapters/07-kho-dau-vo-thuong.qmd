@@ -19,6 +19,7 @@ Melzack và Wall, trong lý thuyết cổng kiểm soát cơn đau (1965), *Scie
 | Khổ đau là vô nghĩa, hãy loại bỏ nó | Epicurus, y học hiện đại, một phần của thuyết vị lợi | Khổ đau không có giá trị tự thân; nhiệm vụ là giảm nó | Bỏ qua khả năng khổ đau có thể mang ý nghĩa, và nguy cơ xem mọi khổ đau đều là "vấn đề kỹ thuật" |
 | Khổ đau có thể có ý nghĩa | Frankl, một phần Phật giáo, Nietzsche | Thái độ đối với khổ đau, hay sự vượt lên chính mình qua khổ đau, có thể tạo ra ý nghĩa | Nguy cơ lãng mạn hoá khổ đau, hay đổ lỗi cho người khổ đau vì "không tìm thấy ý nghĩa" |
 | Chấp nhận và buông bỏ | Khắc kỷ, Lão–Trang, Phật giáo | Khổ đau đến từ phán đoán và bám víu; buông bỏ là con đường | Buông bỏ có thể trở thành cam chịu, thờ ơ với bất công |
+| Vui đạo giữa đời (nhập thế) | Trần Nhân Tông, Thích Nhất Hạnh | Không cần rời bỏ đời để vượt qua khổ: tâm không bám víu, cùng với hành động làm vơi khổ, có thể có ngay giữa đời thường | Dễ bị lý tưởng hoá; các câu chuyện về dòng truyền thừa cũng cần được đọc một cách phê phán |
 | Kháng cự và biến đổi | Khai sáng, y học, chính trị giải phóng | Khổ đau do hoàn cảnh gây ra phải được thay đổi, không phải chấp nhận | Không phải khổ đau nào cũng có thể thay đổi; kháng cự mù quáng cũng gây khổ |
 | Thần chính luận | Leibniz | Khổ đau là cái giá cho một toàn thể tốt hơn, hay hệ quả của tự do | Dostoevsky: liệu trật tự vũ trụ nào có thể biện minh cho khổ đau của một đứa trẻ vô tội? |
 
@@ -61,7 +62,38 @@ Tedeschi và Calhoun (1996), với Posttraumatic Growth Inventory (PTGI), *Journ
 **Tóm lại:** Chánh niệm là một phương pháp hỗ trợ, không phải thuốc chữa. Khả năng phục hồi là phổ biến, không phải ngoại lệ. Tăng trưởng sau sang chấn là có thể, nhưng tự báo cáo không bằng thay đổi đo được.
 :::
 
-## 6. Đối chiếu các truyền thống
+## 6. Một mạch Việt Nam: vui đạo giữa cõi đời
+
+Phật giáo Việt Nam có một câu trả lời riêng cho một câu hỏi của chương này: muốn vượt qua khổ đau, có nhất thiết phải rời bỏ cõi đời không?
+
+**Trần Nhân Tông và Thiền Trúc Lâm.** Trần Nhân Tông (1258–1308) được tôn là sơ tổ của Thiền phái Trúc Lâm [@dang2022]. Năm 1293, ông nhường ngôi cho con và lên làm Thái thượng hoàng; đến năm 1298, ông mới chính thức xuất gia và lên tu ở núi Yên Tử [@nguyenTaiThu2009].
+
+Có người cho rằng ông đã vứt bỏ ngôi vua "như vứt bỏ chiếc giày rách". Nguyễn Tài Thư không đồng ý: dù đi tu, ông vẫn mang ý thức trách nhiệm với xã hội, và dòng thiền ông xây dựng vừa chú trọng thiền định, vừa quan tâm đến những vấn đề trần thế. Nguyễn Tài Thư gọi đó là xu hướng *nhập thế* trong tư tưởng của Trần Nhân Tông, khác với tư tưởng *xuất thế* vốn có của Phật giáo [@nguyenTaiThu2009].
+
+Bài kệ khép lại *Cư trần lạc đạo phú* (Phú ở cõi trần vui đạo) tóm tắt tinh thần ấy [@nguyenHuuSon2019]:
+
+> Cư trần lạc đạo thả tùy duyên,
+> Cơ tắc xan hề khốn tắc miên.
+> Gia trung hữu bảo hưu tầm mịch,
+> Đối cảnh vô tâm mạc vấn Thiền.
+>
+> *Cõi trần vui đạo hãy tùy duyên,*
+> *Đói cứ ăn no mệt ngủ yên.*
+> *Báu sẵn trong nhà thôi khỏi kiếm,*
+> *Vô tâm trước cảnh hỏi chi Thiền.*
+> (Huệ Chi dịch)
+
+Đặt cạnh câu hỏi về khổ đau, bài kệ gợi ý rằng điều cần không phải là trốn khỏi đời, mà là một tâm không bám víu (*vô tâm*) ngay giữa những việc bình thường nhất: ăn khi đói, ngủ khi mệt.
+
+**Một tiếng nói thận trọng.** Cuong Tu Nguyen, trong nghiên cứu về *Thiền uyển tập anh* (1997), thách thức cách đọc quen thuộc coi các dòng truyền thừa trong văn bản ấy là lịch sử thể chế. Theo ông, Thiền ở Việt Nam thời trung đại giống một "cộng đồng tưởng tượng", một tập hợp thái độ và phong cách lan toả, hơn là một tổ chức có thể chế [@nguyenCuong1997; @phan1998]. Điều đó không phủ nhận việc tu Thiền đã thực sự diễn ra. Nó chỉ nhắc ta đọc câu chuyện về các dòng thiền như một truyền thống được kể lại, chứ không chỉ như biên niên.
+
+**Thích Nhất Hạnh và Phật giáo dấn thân.** Thích Nhất Hạnh (1926–2022) sinh ở miền Trung Việt Nam. Trong chiến tranh Việt Nam, ông khởi xướng phong trào Phật giáo dấn thân và đặt ra thuật ngữ này trong sách *Vietnam: Lotus in a Sea of Fire*; về sau ông lập Làng Mai [@plumVillage]. Về khổ đau, ông cho rằng bí quyết của hạnh phúc là nhận diện và chuyển hoá khổ đau, chứ không chạy trốn nó. Ông viết rằng khổ và vui "không phải hai thứ tách rời", và phản đối ý cho rằng sống khôn ngoan là phải "vượt lên" cả khổ lẫn vui: "không có bùn thì không có sen" [@nhatHanh2014].
+
+Theo Sallie King, các nhà Phật giáo dấn thân cho rằng vì gốc rễ của khổ nằm ở tâm chứ không ở thế giới, việc tìm giác ngộ không đòi hỏi quay lưng với thế giới; làm vơi khổ cho con người, các loài và hành tinh là một phần của chính sự tu tập [@king2009].
+
+Một câu hỏi để ngỏ: McMahan mô tả "Phật giáo hiện đại" (*Buddhist modernism*) như một hình thức lai mới, hình thành trong khoảng 150 năm qua qua sự giao thoa với tư tưởng và thực hành phương Tây [@mcmahan2009]. Vậy bao nhiêu phần của tinh thần "đạo giữa đời" hôm nay là tiếp nối Trúc Lâm, và bao nhiêu phần là sản phẩm của thời hiện đại? Cuốn sách để câu hỏi này cho người đọc.
+
+## 7. Đối chiếu các truyền thống
 
 Các nhà tư tưởng dưới đây chẩn đoán nguồn gốc của khổ đau khác nhau, và đề ra những phương thuốc khác nhau. Sự khác nhau ấy chạy xuyên qua từng truyền thống, chứ không chia theo Đông và Tây:
 
@@ -74,7 +106,7 @@ Các nhà tư tưởng dưới đây chẩn đoán nguồn gốc của khổ đa
 
 Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ khi đứng một mình. Một người bệnh mạn tính có thể cần cả thuốc giảm đau, *và* một câu chuyện có ý nghĩa, *và* sự chấp nhận, *và* sự kháng cự, tuỳ lúc và tuỳ người.
 
-## 7. Câu hỏi mở
+## 8. Câu hỏi mở
 
 - Khổ đau có cần thiết cho ý nghĩa không? Nếu có một thế giới không có khổ đau, liệu đời sống có nông cạn hơn, hay đó chỉ là một sự hiểu lầm lãng mạn?
 - Chấp nhận trở thành cam chịu ở đâu? Ranh giới giữa buông bỏ khôn ngoan và từ bỏ công bằng ở đâu, và ai được vẽ ranh giới đó cho người khác?
@@ -83,7 +115,7 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 - Khổ đau có thể được biện minh mà không xúc phạm người đang khổ đau không?
 - Thần chính luận còn khả thi sau thế kỷ 20, hay nhiệm vụ của triết học đã chuyển từ giải thích khổ đau sang lắng nghe và giảm bớt nó?
 
-## 8. Đọc thêm
+## 9. Đọc thêm
 
 - Frankl (1946/1959) — tiếng Đức 1946; tiếng Anh 1959 là *From Death-Camp to Existentialism* [@frankl1946]
 - Schopenhauer (1818/1844), *The World as Will and Representation* [@schopenhauer1818]
@@ -92,11 +124,15 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 - Tedeschi & Calhoun (1996) [@tedeschiCalhoun1996]
 - Cassell (1982) [@cassell1982]
 - SEP "Buddha", ấn bản Mùa xuân 2019 [@buddhaSEP]
+- Nguyễn Tài Thư (2009), "Xu hướng nhập thế trong tư tưởng Phật giáo Trần Nhân Tông" [@nguyenTaiThu2009]
+- Cuong Tu Nguyen (1997), *Zen in Medieval Vietnam* [@nguyenCuong1997]
+- Thích Nhất Hạnh (2014), *No Mud, No Lotus* [@nhatHanh2014]
+- King (2009), *Socially Engaged Buddhism* [@king2009]
 
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
+- **Cập nhật gần nhất:** phiên bản 1.6.0. Thêm mục "Một mạch Việt Nam": Trần Nhân Tông và Thiền Trúc Lâm, *Cư trần lạc đạo phú*, Thích Nhất Hạnh và Phật giáo dấn thân, cùng một tiếng nói thận trọng (Cuong Tu Nguyen).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

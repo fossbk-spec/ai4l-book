@@ -2,6 +2,17 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.6.0] — Chapter 7: a Vietnamese thread
+
+- **New section "Một mạch Việt Nam: vui đạo giữa cõi đời":**
+  - Trần Nhân Tông and Trúc Lâm Zen: abdication in 1293, ordination on Yên Tử in 1298, and the *nhập thế* reading (Nguyễn Tài Thư 2009);
+  - the closing verse of *Cư trần lạc đạo phú*, in Huệ Chi's translation;
+  - a cautionary voice: Cuong Tu Nguyen (1997) on the lineages of the *Thiền uyển tập anh*;
+  - Thích Nhất Hạnh and engaged Buddhism ("không có bùn thì không có sen"), with Sallie King (2009);
+  - an open question drawing on McMahan's account of Buddhist modernism.
+- A new row in the positions map.
+- 9 new sources; every quote checked against the source page.
+
 ## [1.5.0] — Chapter 2: debate 2.2 deepened
 
 - **Debate 2.2, "what should 'human nature' mean today?":**
