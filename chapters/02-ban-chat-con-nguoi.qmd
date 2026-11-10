@@ -43,7 +43,7 @@ Marx, trong *Economic and Philosophic Manuscripts of 1844* (viết 1844, xuất 
 
 ## 5. Pinker, Sapolsky, Tomasello, Henrich: bức tranh hiện đại
 
-Steven Pinker, trong *The Blank Slate* (2002), tấn công tờ giấy trắng bằng bằng chứng từ di truyền học hành vi, tâm lý học tiến hoá, và khoa học thần kinh: con người có những khuynh hướng bẩm sinh — về ngôn ngữ, sợ hãi, địa vị, tình dục, và đạo đức — và việc phủ nhận chúng không làm cho xã hội công bằng hơn, mà làm cho chính sách kém hiệu quả hơn [@pinker2002]. Robert Sapolsky, trong *Behave* (2017), cho thấy cùng một hành vi có thể được giải thích ở nhiều thang thời gian khác nhau — từ mili giây trước hành vi (hoạt động thần kinh), tới giờ, ngày, tháng, năm, thế kỷ, và hàng triệu năm tiến hoá — và không có thang nào là "nguyên nhân thực sự" duy nhất [@sapolsky2017]. Tổn thương vùng vỏ não trước trán thay đổi phán đoán đạo đức; các biến thể dopamine và serotonin ảnh hưởng tới tính bốc đồng; nhưng tính dẻo thần kinh và biểu sinh cho thấy sinh học đáp lại môi trường.
+Steven Pinker, trong *The Blank Slate* (2002), tấn công tờ giấy trắng bằng bằng chứng từ di truyền học hành vi, tâm lý học tiến hoá, và khoa học thần kinh: con người có những khuynh hướng bẩm sinh — về ngôn ngữ, sợ hãi, địa vị, tình dục, và đạo đức — và việc phủ nhận chúng không làm cho xã hội công bằng hơn, mà làm cho chính sách kém hiệu quả hơn [@pinker2002]. Robert Sapolsky, trong *Behave* (2017), cho thấy cùng một hành vi có thể được giải thích ở nhiều thang thời gian khác nhau — từ mili giây trước hành vi (hoạt động thần kinh), tới giờ, ngày, tháng, năm, thế kỷ, và hàng triệu năm tiến hoá — và không có thang nào là "nguyên nhân thực sự" duy nhất [@sapolsky2017]. Tổn thương vùng vỏ não trước trán thay đổi phán đoán đạo đức; các biến thể dopamine và serotonin ảnh hưởng tới tính bốc đồng; nhưng tính dẻo thần kinh và biểu sinh cho thấy sinh học đáp lại môi trường. Tương tác gen – môi trường cũng là nơi bằng chứng dễ bị thổi phồng: Caspi và cộng sự (2003) báo cáo rằng một biến thể của gen vận chuyển serotonin làm thay đổi tác động của các biến cố căng thẳng lên nguy cơ trầm cảm [@caspi2003], nhưng một phân tích gộp sau đó không tìm thấy bằng chứng cho tương tác này [@risch2009].
 
 Michael Tomasello, trong *Becoming Human* (2019), cho rằng điểm đặc trưng của con người là *ý định chung* (*shared intentionality*): khả năng chia sẻ mục tiêu, chú ý, và tri thức với người khác, xuất hiện từ rất sớm ở trẻ em [@tomasello2019]. Trẻ 14–18 tháng tuổi giúp đỡ người lạ mà không cần phần thưởng, và phản ứng khi thấy sự phân chia không công bằng. Đây là nền tảng của hợp tác, ngôn ngữ, và văn hoá — và là điều phân biệt con người với các loài linh trưởng khác, dù chúng cũng có trí tuệ xã hội.
 
@@ -88,3 +88,13 @@ Phương Đông cổ đại đã hỏi câu hỏi về bản chất con người
 - Darwin (1871), *Descent of Man* [@darwin1871]
 - Roughley (2021), SEP "Human Nature" [@roughleySEP2021]
 - Nathan (2024), *The Quest for Human Nature* [@nathan2024]
+
+::: {.callout-tip appearance="simple" collapse="true"}
+## Trạng thái chương
+
+- **Cập nhật gần nhất:** phiên bản 1.2.0. Thêm nguồn cho tương tác gen – môi trường (Caspi 2003; Risch 2009).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Trạng thái:** Ổn định.
+- **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
+- **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
+:::

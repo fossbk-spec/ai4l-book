@@ -1,0 +1,34 @@
+# Thuật ngữ {.unnumbered}
+
+Định nghĩa ngắn cho các thuật ngữ chuyên môn trong sách, theo cách sách dùng chúng. Mỗi thuật ngữ dẫn về chương bàn tới nó kỹ nhất.
+
+| Thuật ngữ | Nghĩa ngắn | Chương |
+|---|---|---|
+| *Amor fati* | "Yêu số phận": Nietzsche khuyên chấp nhận và yêu cả những gì xảy đến, kể cả khổ đau, như chất liệu để vượt lên chính mình. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| *Anatta* (vô ngã) | Giáo lý Phật giáo: không có một cái tôi cố định, thường hằng; cái ta gọi là "tôi" là dòng chảy của các yếu tố thay đổi. | [2](chapters/02-ban-chat-con-nguoi.qmd), [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| *Anicca* (vô thường) | Mọi sự đều thay đổi, không có gì tồn tại mãi trong một trạng thái. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| *Ataraxia* | Sự an tĩnh của tâm hồn, không bị xáo trộn; với Epicurus, đó là hạnh phúc thật sự. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| Bất tương hợp cứng (*hard incompatibilism*) | Quan điểm cho rằng không có loại tự do nào, dù thế giới tất định hay không, đủ để con người chịu trách nhiệm đạo đức theo nghĩa mạnh. | [3](chapters/03-tu-do.qmd) |
+| Cảm thụ đau (*nociception*) | Quá trình thần kinh phát hiện và dẫn truyền kích thích có hại; khác với trải nghiệm đau. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| Chết não (chết theo tiêu chuẩn thần kinh) | Mất vĩnh viễn chức năng của toàn bộ não, gồm cả thân não; khác với trạng thái thực vật, vốn là rối loạn ý thức ở người còn sống. | [4](chapters/04-cai-chet-thoi-gian.qmd) |
+| Dãy A / dãy B | Hai cách sắp xếp thời gian của McTaggart: dãy A theo quá khứ, hiện tại, tương lai (có sự trôi qua); dãy B theo trước và sau (không có sự trôi qua). | [4](chapters/04-cai-chet-thoi-gian.qmd) |
+| *Dukkha* (khổ) | Tính chất bất toại nguyện của đời sống; chân lý đầu tiên trong Tứ Diệu Đế. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| *Eudaimonia* | Đời sống hưng thịnh, sống tốt theo Aristotle: hoạt động theo đức tính suốt một đời, không phải cảm giác vui nhất thời. | [1](chapters/01-y-nghia.qmd) |
+| Điện thế sẵn sàng (*readiness potential*) | Hoạt động điện não tăng dần trước một cử động tự phát; trung tâm của tranh luận về thí nghiệm Libet. | [3](chapters/03-tu-do.qmd) |
+| Khoảng trống trách nhiệm | Tình huống khi một hệ thống tự học gây hại mà không bên nào (người thiết kế, người dùng, cơ sở triển khai) có thể chịu trách nhiệm một cách thoả đáng. | [5](chapters/05-dao-duc.qmd), [8](chapters/08-ai-cuoc-song-con-nguoi.qmd) |
+| Lý thuyết không gian làm việc toàn cục (GWT) | Ý thức xuất hiện khi thông tin được "phát sóng" rộng rãi tới nhiều hệ thống trong não. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |
+| Lý thuyết quản lý nỗi sợ cái chết (TMT) | Giả thuyết cho rằng văn hoá và lòng tự trọng giúp con người đối phó với nỗi sợ cái chết; hiệu ứng "nổi bật về tử vong" (*mortality salience*) của nó không tái tạo được trong Many Labs 4. | [4](chapters/04-cai-chet-thoi-gian.qmd) |
+| Lý thuyết thông tin tích hợp (IIT) | Ý thức tương ứng với mức độ thông tin được tích hợp trong một hệ thống, theo một cấu trúc nhân quả nhất định; đo bằng đại lượng Phi. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |
+| *Mauvaise foi* (ngụy tín) | Theo Sartre: tự lừa dối mình rằng mình không tự do, để trốn tránh trách nhiệm lựa chọn. | [3](chapters/03-tu-do.qmd) |
+| *Phronesis* (khôn ngoan thực hành) | Khả năng phán đoán đúng việc nên làm trong một hoàn cảnh cụ thể; đức tính trung tâm trong đạo đức của Aristotle. | [5](chapters/05-dao-duc.qmd) |
+| *Qualia* | Chất lượng chủ quan của trải nghiệm, "cảm giác như thế nào" khi thấy màu đỏ hay nếm vị ngọt. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |
+| Tăng trưởng sau sang chấn (PTG) | Những thay đổi tích cực mà người ta báo cáo sau một biến cố đau thương; còn tranh luận là thay đổi thật hay ảo tưởng thích nghi. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| Thái độ phản ứng (*reactive attitudes*) | Theo P. F. Strawson: những cảm xúc như oán giận, biết ơn, phẫn nộ mà ta dành cho nhau, nền tảng thực tế của trách nhiệm. | [3](chapters/03-tu-do.qmd) |
+| Thiên kiến tự động hoá (*automation bias*) | Xu hướng dựa vào gợi ý của máy một cách không thích đáng, ví dụ bỏ qua những dấu hiệu trái ngược mà chính mình nhận thấy. | [5](chapters/05-dao-duc.qmd) |
+| Thuyết hiện tại / thuyết vĩnh cửu (*presentism* / *eternalism*) | Chỉ hiện tại là thực / quá khứ, hiện tại và tương lai đều thực như nhau ("vũ trụ khối"). | [4](chapters/04-cai-chet-thoi-gian.qmd) |
+| Thuyết tương hợp (*compatibilism*) | Quan điểm cho rằng tự do và trách nhiệm có thể tồn tại ngay cả khi thế giới là tất định. | [3](chapters/03-tu-do.qmd) |
+| Tính có thể giải thích (*explicability*) | Nguyên tắc rằng một hệ AI phải giải thích được quyết định của nó, để con người có thể chịu trách nhiệm. | [5](chapters/05-dao-duc.qmd), [8](chapters/08-ai-cuoc-song-con-nguoi.qmd) |
+| Trò chơi bắt chước (phép thử Turing) | Đề xuất của Turing: thay câu hỏi mơ hồ "máy có suy nghĩ không?" bằng một phép thử cụ thể, trong đó người hỏi trao đổi bằng chữ và cố phân biệt máy với người. | [8](chapters/08-ai-cuoc-song-con-nguoi.qmd) |
+| *Vô vi* (*wu wei*) | Hành động thuận tự nhiên, không cưỡng ép, trong Đạo gia. | [3](chapters/03-tu-do.qmd), [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| WEIRD | Viết tắt các mẫu nghiên cứu phương Tây, có học vấn, công nghiệp hoá, giàu có, dân chủ; thường là ngoại lệ chứ không đại diện cho loài người. | [2](chapters/02-ban-chat-con-nguoi.qmd) |
+| Xử lý dự đoán (*predictive processing*) | Quan niệm não liên tục dự đoán tín hiệu cảm giác và điều chỉnh theo sai số dự đoán. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |

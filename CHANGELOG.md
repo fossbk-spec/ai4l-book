@@ -2,6 +2,28 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.2.0] — Chapter 8 on AI; thinkers index, glossary, methods
+
+- **New Chapter 8, "Trí tuệ nhân tạo trong cuộc sống và con người":**
+  - Turing, ELIZA, Searle;
+  - whether machines understand (debate 8.1);
+  - AI and work, relationships and care, medicine (algorithmic bias), autonomous weapons;
+  - moral status of machines (debate 8.2);
+  - comparison of traditions via Vallor.
+  - 25 new verified sources: every DOI checked on Crossref; UNESCO 2021 checked on unesco.org.
+- **Mindmap and cross-links:** an 8th branch; cross-links go from 6 to 8 (individual and community; living from today).
+- **Timeline:** AI milestones (Turing 1950, ELIZA 1966, Vallor 2016, Obermeyer et al. 2019, Bender et al. 2021, UNESCO 2021).
+- **Ch. 2:** gene–environment interaction now sourced and qualified (Caspi et al. 2003; Risch et al. 2009 meta-analysis).
+- **Ch. 4:** positions map added; sections renumbered.
+- **Ch. 6:**
+  - neuroscience of romantic love now cited (Bartels & Zeki 2000; Fisher et al. 2005), and the unsourced oxytocin/vasopressin mention removed;
+  - predictive processing mentioned (Clark 2013).
+- **New end pages:**
+  - "Bảng tra 14 nhà tư tưởng chính" (dates checked against SEP; Frankl against the Viktor Frankl Institut);
+  - "Thuật ngữ";
+  - "Phương pháp".
+- **Chapter status box** at the end of every chapter.
+
 ## [1.1.4] — Citation detail
 
 - Ch. 6: Cogitate Consortium et al. (2025) now cited with volume and pages, *Nature* 642(8066): 133–142.

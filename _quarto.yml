@@ -19,7 +19,7 @@ book:
     - index.qmd
     - mindmap.qmd
     - timeline.qmd
-    - part: "Bảy nhóm câu hỏi"
+    - part: "Tám nhóm câu hỏi"
       chapters:
         - chapters/01-y-nghia.qmd
         - chapters/02-ban-chat-con-nguoi.qmd
@@ -28,6 +28,10 @@ book:
         - chapters/05-dao-duc.qmd
         - chapters/06-y-thuc-tinh-yeu.qmd
         - chapters/07-kho-dau-vo-thuong.qmd
+        - chapters/08-ai-cuoc-song-con-nguoi.qmd
+    - nha-tu-tuong.qmd
+    - thuat-ngu.qmd
+    - phuong-phap.qmd
     - references.qmd
 
 # Chapter and section titles are numbered by hand in the source

@@ -22,12 +22,13 @@
   <path class="edge" stroke="#be185d" d="M500 400 L 800 650"/>
   <path class="edge" stroke="#1d4ed8" d="M500 400 L 500 670"/>
   <path class="edge" stroke="#b91c1c" d="M500 400 L 200 650"/>
+  <path class="edge" stroke="#475569" d="M500 400 L 130 400"/>
 
   <!-- centre -->
   <circle class="center" cx="500" cy="400" r="95"/>
   <text class="center-text" x="500" y="395">Cuộc sống</text>
   <text class="center-text" x="500" y="422">và con người</text>
-  <text class="center-sub" x="500" y="448">7 chương • 2.500 năm</text>
+  <text class="center-sub" x="500" y="448">8 chương • 2.500 năm</text>
 
   <!-- branch 1 -->
   <g class="mm-link" role="link" tabindex="0" data-href="chapters/01-y-nghia.html" aria-label="Chương 1 — Ý nghĩa cuộc sống"><g>
@@ -79,12 +80,19 @@
     <text class="branch-sub" x="200" y="682">Nietzsche • Camus • Cassell</text>
   </g></g>
 
+  <g class="mm-link" role="link" tabindex="0" data-href="chapters/08-ai-cuoc-song-con-nguoi.html" aria-label="Chương 8 — Trí tuệ nhân tạo trong cuộc sống và con người"><g>
+    <rect x="10" y="355" width="240" height="90" rx="12" fill="#475569"/>
+    <text class="branch-text" x="130" y="390">8. AI và con người</text>
+    <text class="branch-sub" x="130" y="414">Turing • Searle • Vallor</text>
+    <text class="branch-sub" x="130" y="432">Bender • Obermeyer • Sparrow</text>
+  </g></g>
+
   <!-- cross-links -->
   <path class="link" d="M 320 150 Q 500 60 680 150"/>
   <path class="link" d="M 920 445 Q 950 550 920 605"/>
   <path class="link" d="M 680 650 Q 500 740 320 650"/>
-  <path class="link" d="M 80 605 Q 40 400 80 195"/>
+  <path class="link" d="M 250 605 Q 330 400 250 195"/>
   <path class="link" d="M 320 605 Q 500 520 680 605"/>
-  <path class="link" d="M 200 195 Q 200 400 200 605"/>
-  <text x="500" y="745" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#64748b">Sáu liên kết chéo: tự do–trách nhiệm–đạo đức • ý nghĩa–cái chết–khổ đau • bản chất–ý thức–AI • thời gian–vô thường–đạo đức • trực giác–lý trí • chấp nhận–hành động</text>
+  <path class="link" d="M 290 195 Q 380 400 290 605"/>
+  <text x="500" y="745" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#64748b">Tám liên kết chéo — xem danh sách bên dưới bản đồ</text>
 </svg>
