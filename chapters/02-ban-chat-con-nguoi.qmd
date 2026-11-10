@@ -63,11 +63,16 @@ Sự đồng thuận hiện đại là **tương tác luận**: gen, phát tri�
 
 **Quan điểm hoài nghi (Hull):** Hull (1986) lập luận rằng nếu mọi loài đều biến dị, thì *Homo sapiens* cũng biến dị; sinh học tiến hoá không ủng hộ ý tưởng về một bản chất chung mà mọi con người đều có [@hull1986]. Theo cách các nhà sinh học tiến hoá hiểu, loài là những thực thể lịch sử, những dòng tổ tiên – hậu duệ, chứ không phải những "loại" được định nghĩa bằng một tập đặc tính cố định [@roughleySEP2021].
 
-**Quan điểm bản chất theo quy luật (Machery):** Machery đáp rằng ta vẫn có thể giữ khái niệm này, nếu hiểu nó hẹp hơn. "Bản chất con người" là tập hợp những đặc điểm phổ biến ở con người mà có thể giải thích hoàn toàn bằng tiến hoá [@machery2008; @roughleySEP2021]. Ông tiếp tục bảo vệ quan điểm này năm 2018 [@hannonLewens2018]. Một khó khăn là ở loài người, rất khó tách phần do tiến hoá khỏi phần do học hỏi xã hội [@roughleySEP2021].
+**Quan điểm bản chất theo quy luật (Machery):** Machery đáp rằng ta vẫn có thể giữ khái niệm này, nếu hiểu nó hẹp hơn. "Bản chất con người" là tập hợp những đặc điểm mà con người có xu hướng mang do kết quả của sự tiến hoá của loài: những đặc điểm điển hình về mặt thống kê, không nhất thiết có ở mọi người [@machery2008; @roughleySEP2021]. Năm 2018, ông đáp lại các phê phán và hoàn thiện quan điểm này [@hannonLewens2018]. Một khó khăn là ở loài người, rất khó tách phần do tiến hoá khỏi phần do học hỏi xã hội [@roughleySEP2021].
 
 **Quan điểm đa nguyên (Kronfeldner):** Không có một bản chất duy nhất. Có nhiều khái niệm khác nhau về bản chất con người, phục vụ những mục đích khác nhau (sinh học, tâm lý, đạo đức), và ta nên giữ sự đa nguyên đó [@kronfeldner2018; @kronfeldner2014].
 
-**Quan điểm hoài nghi đương đại (Sterelny, Dupré, Nathan):** Trong tuyển tập *Why We Disagree About Human Nature* (2018), Sterelny viết những "suy ngẫm hoài nghi" về khái niệm này, còn Dupré nhìn con người như một quá trình chứ không như một bản chất cố định [@hannonLewens2018]. Nathan (2024) lập luận rằng không ứng viên nào cho "bản chất con người" vượt qua được sự kiểm tra kỹ lưỡng: mọi định nghĩa đều hoặc quá hẹp, hoặc quá mơ hồ, hoặc là một quan điểm quy phạm trá hình [@nathan2024].
+**Các phản hồi đương đại (Sterelny, Dupré, Nathan):** Trong tuyển tập *Why We Disagree About Human Nature* (2018) có hai phản hồi đáng chú ý [@hannonLewens2018]:
+
+- **Sterelny** thừa nhận rằng một số cách dựng lại khái niệm "bản chất con người" cho phù hợp với tiến hoá có thể thành công. Nhưng ông cho rằng cái giá phải trả là khái niệm ấy mất đi sức giải thích.
+- **Dupré** đề nghị nhìn con người như một quá trình, một vòng đời, hơn là một thực thể cố định. Theo ông, nếu có bản chất con người, thì đó là một khả năng đặc biệt tinh tế cho những hành vi mới và khó đoán.
+
+Nathan (2024) đi theo một hướng khác. Ông cho rằng khoa học và triết học chưa đưa ra được một lý thuyết đầy đủ về bản chất con người, nhưng gạt bỏ khái niệm này như một huyền thoại là sai lầm, vì nhiều tranh luận lớn hiện nay (chủng tộc, giới, khuyết tật, tăng cường sinh học) đều giả định nó. Ông kết luận rằng bản chất con người là một "chỉ báo nhận thức" (*epistemological indicator*): một khái niệm đặt ra chương trình cho nhiều tranh luận xã hội, chính trị và đạo đức, nhưng khoa học không thể nắm trọn nó mà không làm nó tan biến [@nathan2024].
 
 **Vì sao người ta bất đồng?** Hannon và Lewens lưu ý rằng ranh giới của bất đồng không trùng với ranh giới giữa khoa học tự nhiên và khoa học xã hội. Các tác giả trong tuyển tập của họ đến từ tâm lý học, triết học khoa học, nhân học, lý thuyết tiến hoá và nghiên cứu nhận thức động vật. Có người nhiệt thành với khái niệm "bản chất con người", có người hoài nghi, và có người cho rằng đó là một khái niệm có nhiều gương mặt [@hannonLewens2018].
 
@@ -76,7 +81,7 @@ Sự đồng thuận hiện đại là **tương tác luận**: gen, phát tri�
 - (a) Những đặc điểm nào là phổ biến, bẩm sinh ở mức độ nào, và do cơ chế nào? Đây là câu hỏi khoa học.
 - (b) Ta *nên* hiểu con người như thế nào để sống tốt và xây dựng thể chế tốt? Đây là câu hỏi triết học và chính trị.
 
-Không có bước chuyển tự động từ câu trả lời cho câu (a) sang câu trả lời cho câu (b) [@roughleySEP2021], và việc lẫn lộn hai câu hỏi là nguồn gốc của nhiều tranh cãi.
+Không có bước chuyển tự động từ câu trả lời cho câu (a) sang câu trả lời cho câu (b) [@roughleySEP2021], và việc lẫn lộn hai câu hỏi có thể góp phần tạo ra nhiều tranh cãi.
 
 ## 7. Đối chiếu các truyền thống
 
@@ -114,7 +119,7 @@ Không có bước chuyển tự động từ câu trả lời cho câu (a) sang
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.5.0. Mở rộng tranh luận 2.2: thêm lập luận hoài nghi của Hull, câu trả lời của Machery, và lý do vì sao các nhà nghiên cứu bất đồng (Downes và Machery 2013; Hannon và Lewens 2018).
+- **Cập nhật gần nhất:** phiên bản 1.5.0. Mở rộng tranh luận 2.2: thêm lập luận hoài nghi của Hull, câu trả lời của Machery, các phản hồi đương đại, trình bày lại đúng kết luận của Nathan (2024), và lý do vì sao các nhà nghiên cứu bất đồng (Downes và Machery 2013; Hannon và Lewens 2018).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

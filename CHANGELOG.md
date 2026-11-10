@@ -7,7 +7,8 @@ All notable changes to *Cuộc sống và con người* are documented here. The
 - **Debate 2.2, "what should 'human nature' mean today?":**
   - Hull's sceptical argument (1986): species are variable historical entities, so there is no essence shared by all humans;
   - Machery's narrower "nomological" reply, with its main difficulty (separating evolution from social learning);
-  - contemporary sceptics (Sterelny, Dupré, Nathan);
+  - contemporary responses: Sterelny (reconstructions succeed at the cost of explanatory salience), Dupré (a process view);
+  - **correction:** Nathan (2024) was previously described as rejecting every candidate; he in fact argues that discarding human nature as a myth is misguided and calls it an "epistemological indicator";
   - why researchers disagree (the split does not follow disciplinary lines).
 - The assessment now notes there is no automatic move from explanatory claims to normative ones (Roughley, SEP).
 - 4 new sources: Hull 1986; Downes & Machery 2013; Hannon & Lewens 2018; Mameli 2024 (further reading).
