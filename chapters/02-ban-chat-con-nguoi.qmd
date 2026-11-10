@@ -17,7 +17,7 @@ Chương này đi từ Mạnh Tử và Tuân Tử tới Darwin, Pinker, Sapolsky
 | Quyết định luận sinh học | (cực đoan) | Gen và não quyết định hành vi | Bỏ qua tính dẻo thần kinh, biểu sinh, và vai trò của môi trường |
 | Quyết định luận văn hoá / xã hội | Marx | Con người là tổng hoà các quan hệ xã hội | Bỏ qua những phổ quát xuyên văn hoá và nền tảng sinh học |
 
-Aristotle đặt nền móng phương Tây: con người là *zoon politikon*, sinh vật chính trị, sống trong cộng đồng, và *zoon logon echon*, sinh vật có ngôn ngữ và lý trí; đức hạnh hình thành do thói quen, không phải do bẩm sinh hay do dạy dỗ thuần tuý [@aristotleNE]. Plato, trong *Republic*, mô tả linh hồn có ba phần — lý trí, khí phách, dục vọng — và công bằng là sự hài hoà của chúng dưới sự dẫn dắt của lý trí [@platoRepublic].
+Aristotle cho rằng con người là *zoon politikon*, sinh vật chính trị, sống trong cộng đồng, và *zoon logon echon*, sinh vật có ngôn ngữ và lý trí; đức hạnh hình thành do thói quen, không phải do bẩm sinh hay do dạy dỗ thuần tuý [@aristotleNE]. Plato, trong *Republic*, mô tả linh hồn có ba phần — lý trí, khí phách, dục vọng — và công bằng là sự hài hoà của chúng dưới sự dẫn dắt của lý trí [@platoRepublic].
 
 ## 2. Tranh luận 2.1: Mạnh Tử và Tuân Tử — bản tính thiện hay ác?
 
@@ -47,7 +47,7 @@ Steven Pinker, trong *The Blank Slate* (2002), tấn công tờ giấy trắng b
 
 Michael Tomasello, trong *Becoming Human* (2019), cho rằng điểm đặc trưng của con người là *ý định chung* (*shared intentionality*): khả năng chia sẻ mục tiêu, chú ý, và tri thức với người khác, xuất hiện từ rất sớm ở trẻ em [@tomasello2019]. Trẻ 14–18 tháng tuổi giúp đỡ người lạ mà không cần phần thưởng, và phản ứng khi thấy sự phân chia không công bằng. Đây là nền tảng của hợp tác, ngôn ngữ, và văn hoá — và là điều phân biệt con người với các loài linh trưởng khác, dù chúng cũng có trí tuệ xã hội.
 
-Joseph Henrich, trong *The Secret of Our Success* (2016), đảo ngược quan hệ thông thường giữa gen và văn hoá: văn hoá thuần hoá gen (ví dụ: dung nạp lactose), và "bộ não tập thể" — khả năng học hỏi từ người khác qua nhiều thế hệ — giải thích thành công của con người, chứ không phải trí tuệ cá nhân [@henrich2016]. Cùng với Heine và Norenzayan, Henrich chỉ ra rằng các mẫu WEIRD — phương Tây, có học vấn, công nghiệp hoá, giàu có, dân chủ — là ngoại lệ, không phải đại diện cho loài người [@henrich2010]. Hầu hết những gì tâm lý học phương Tây gọi là "bản chất con người" có thể chỉ là bản chất của người WEIRD.
+Joseph Henrich, trong *The Secret of Our Success* (2016), đảo ngược quan hệ thông thường giữa gen và văn hoá: văn hoá thuần hoá gen (ví dụ: dung nạp lactose), và "bộ não tập thể" — khả năng học hỏi từ người khác qua nhiều thế hệ — giải thích thành công của con người, chứ không phải trí tuệ cá nhân [@henrich2016]. Cùng với Heine và Norenzayan, Henrich chỉ ra rằng các mẫu WEIRD — phương Tây, có học vấn, công nghiệp hoá, giàu có, dân chủ — là ngoại lệ, không phải đại diện cho loài người [@henrich2010]. Vì vậy, nhiều kết luận về "bản chất con người" rút ra từ các mẫu này có thể chỉ đúng với người WEIRD.
 
 ::: {.callout-note}
 ## Nghiên cứu thực nghiệm nói gì?
@@ -77,14 +77,14 @@ Sự đồng thuận hiện đại là **tương tác luận**: gen, phát tri�
 
 **Trong triết học chính trị châu Âu:** Hobbes thấy con người tự nhiên sống trong cảnh chiến tranh của mọi người chống lại mọi người [@hobbes1651]. Rousseau thấy con người tự nhiên tương đối hiền hoà, và cho rằng chính xã hội làm con người hư hỏng [@rousseau1755].
 
-Ở một điểm khác, có những nhà tư tưởng xa nhau lại gặp nhau. Aristotle gọi con người là sinh vật chính trị, sống trọn vẹn trong cộng đồng [@aristotleNE]; Khổng Tử đặt việc làm người vào các mối quan hệ [@confucius]. Henrich và cộng sự nhắc rằng phần lớn tâm lý học lấy mẫu từ các xã hội WEIRD (phương Tây, có học, công nghiệp hoá, giàu, dân chủ), những xã hội không đại diện cho loài người [@henrich2010]. Vì vậy, bức tranh "con người cá nhân" của tâm lý học không nên được coi là bức tranh chung của mọi con người.
+Ở một điểm khác, có những nhà tư tưởng xa nhau lại gặp nhau. Aristotle cho rằng không ai muốn sống một mình, dù có mọi điều tốt khác, và người hạnh phúc cần bạn bè [@aristotleNE]; Khổng Tử đặt việc làm người vào các mối quan hệ [@confucius]. Henrich và cộng sự nhắc rằng phần lớn tâm lý học lấy mẫu từ các xã hội WEIRD (phương Tây, có học, công nghiệp hoá, giàu, dân chủ), những xã hội không đại diện cho loài người [@henrich2010]. Vì vậy, những kết luận rút ra từ các mẫu ấy không nên được coi là bức tranh chung của mọi con người.
 
 ## 8. Câu hỏi mở
 
 - Một bản chất hay nhiều bản chất? Có một "bản chất con người" duy nhất, hay mỗi văn hoá, mỗi cá nhân, có một bản chất riêng?
 - Đạo đức là bẩm sinh hay học được? Và nếu là cả hai, phần nào là bẩm sinh?
 - Còn lại bao nhiêu ý chí tự do, khi gen, não bộ, vô thức và cấu trúc xã hội đều định hình ta? (Xem Chương 3.)
-- Bao nhiêu phần "bản chất con người" trong tâm lý học phương Tây chỉ là bản chất của người WEIRD?
+- Bao nhiêu phần "bản chất con người" trong các nghiên cứu tâm lý học chỉ là bản chất của người WEIRD?
 - Nếu chúng ta có thể lựa chọn bản chất của mình — chỉnh sửa gen, cấy chip não, xây AI bắt chước con người — thì nên chọn bản chất nào, và ai quyết định? Câu hỏi này gắn trực tiếp với công việc kỹ thuật y sinh.
 
 ## 9. Đọc thêm

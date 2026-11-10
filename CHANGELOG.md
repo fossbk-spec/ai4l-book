@@ -7,7 +7,8 @@ All notable changes to *Cuộc sống và con người* are documented here. The
 - The section "Đối thoại Đông – Tây" in Ch. 1–7 becomes **"Đối chiếu các truyền thống"**:
   - it compares named thinkers and texts instead of generalising about "the East" and "the West";
   - each section shows disagreements inside each tradition (Mencius vs Xunzi; the Upanishads vs Buddhism; Descartes vs Aristotle and Merleau-Ponty; Spinoza vs Heidegger on death; Mencius vs Mozi; Nietzsche vs Schopenhauer).
-- Unsourced comparative claims were removed or given an existing verified source. No new references.
+- Unsourced comparative claims were removed or given a verified source. One new reference: Smart & Williams, *Utilitarianism: For and Against* (1973), for Williams's integrity objection (DOI checked on Crossref).
+- Ch. 1, 2 and 7: remaining broad "East/West" generalisations outside this section were narrowed (for example, WEIRD samples are now described as a sampling problem).
 
 ## [1.2.0] — Chapter 8 on AI; thinkers index, glossary, methods
 

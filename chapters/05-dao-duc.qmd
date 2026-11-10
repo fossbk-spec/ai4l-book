@@ -62,11 +62,9 @@ Phán đoán đạo đức của con người không thuần lý trí: Haidt và
 
 ## 6. Đối chiếu các truyền thống
 
-**Đạo đức của con người, không chỉ của hành động.** Khổng Tử hỏi người quân tử sẽ làm gì trong mối quan hệ này [@confucius]; Aristotle hỏi người có đức hạnh và có *phronesis* sẽ làm gì [@aristotleNE]. Đây không phải câu hỏi riêng của một vùng. Ở châu Âu, Anscombe năm 1958 kêu gọi quay lại đạo đức học đức hạnh [@anscombe1958], và MacIntyre cho rằng các lý thuyết về quy tắc đã đánh mất bối cảnh của truyền thống và thực hành [@macintyre1981]. Ngược lại, Kant và Mill là ví dụ cho thấy truyền thống châu Âu cũng xây dựng những lý thuyết về hành động đúng, không lấy con người tốt làm trung tâm [@kant1785; @mill1861].
+**Đạo đức của con người, không chỉ của hành động.** Khổng Tử hỏi người quân tử sẽ làm gì trong mối quan hệ này [@confucius]; Aristotle hỏi người có đức hạnh và có *phronesis* sẽ làm gì [@aristotleNE]. Đây không phải câu hỏi riêng của một vùng. Ở châu Âu, bài luận năm 1958 của Anscombe, phê phán các khái niệm "bổn phận" đạo đức hiện đại, đã góp phần làm sống lại đạo đức học đức hạnh [@anscombe1958], và MacIntyre cho rằng các lý thuyết về quy tắc đã đánh mất bối cảnh của truyền thống và thực hành [@macintyre1981]. Ngược lại, Kant và Mill là ví dụ cho thấy truyền thống châu Âu cũng xây dựng những lý thuyết về hành động đúng, không lấy con người tốt làm trung tâm [@kant1785; @mill1861].
 
-**Tình thương phổ quát hay tình thương có thứ bậc.** Đây là một bất đồng có ở cả hai phía. Mặc Tử chủ trương *kiêm ái*, thương mọi người như nhau. Mạnh Tử phê phán rằng thương mọi người như nhau là không nhận ra bổn phận đặc biệt với cha mình [@mencius]. Ở châu Âu, thuyết vị lợi đòi hỏi tính hạnh phúc của mỗi người ngang nhau [@mill1861]. Williams phản bác rằng đòi hỏi đó bỏ qua những dự định và gắn bó làm nên sự toàn vẹn của một con người [@williams1973].
-
-Phật giáo đặt từ bi và bất bạo động vào trung tâm, như một cách sống được tu tập, chứ không chỉ là một quy tắc [@buddhaSEP].
+**Tình thương phổ quát hay tình thương có thứ bậc.** Đây là một bất đồng có ở cả hai phía. Mặc Tử chủ trương *kiêm ái*, tình thương không phân biệt. Mạnh Tử hiểu đó là thương mọi người như nhau, và phê phán rằng như vậy là không nhận ra bổn phận đặc biệt với cha mình [@mencius]. Ở châu Âu, thuyết vị lợi đòi hỏi tính hạnh phúc của mỗi người ngang nhau [@mill1861]. Williams phản bác thuyết vị lợi hành vi rằng đòi hỏi đó bỏ qua những dự định và gắn bó làm nên sự toàn vẹn của một con người [@smartWilliams1973].
 
 ## 7. Câu hỏi mở
 
