@@ -2,13 +2,14 @@
 
 Cái chết làm cuộc sống trở nên vô nghĩa, hay chính sự hữu hạn mới khiến cuộc sống trở nên quý giá? Làm sao để sống khi biết mình sẽ chết? Thời gian là gì — quá khứ đã qua, tương lai chưa tới, chỉ còn hiện tại? Linh hồn có tồn tại sau cái chết không, và nếu không, điều gì còn lại?
 
-Chương này đi từ Plato và Epicurus tới Nagel, Heidegger, Williams, McTaggart, và các nghiên cứu cận tử đương đại — cùng với một lời cảnh báo về lý thuyết quản lý nỗi sợ cái chết, một giả thuyết từng được trình bày như sự thật đã được xác lập.
+Chương này đi từ Plato, Epicurus và các nhà Khắc kỷ tới Nagel, Heidegger, Williams, McTaggart, và các nghiên cứu cận tử đương đại — cùng với một lời cảnh báo về lý thuyết quản lý nỗi sợ cái chết, một giả thuyết từng được trình bày như sự thật đã được xác lập.
 
 ## 1. Bản đồ các lập trường
 
 | Lập trường | Ý chính | Đại diện | Một phản biện |
 |---|---|---|---|
 | Cái chết không là gì với ta | Khi ta tồn tại, cái chết vắng mặt; khi cái chết có mặt, ta không còn. Ta không sợ khoảng vĩnh hằng trước khi sinh, vậy cũng không nên sợ khoảng sau khi chết | Epicurus, Lucretius | Khó giải thích trực giác rất phổ biến rằng chết sớm là một mất mát |
+| Nỗi sợ đến từ phán đoán | Cái chết tự nó không đáng sợ; điều làm ta xáo trộn là ý niệm rằng nó đáng sợ | Epictetus, Seneca | Sửa phán đoán có thể làm dịu nỗi sợ, nhưng chưa trả lời câu hỏi cái chết có tước đi điều gì của ta không |
 | Thuyết tước đoạt | Cái chết xấu vì nó lấy đi những điều tốt đẹp lẽ ra ta đã có | Nagel, Kagan | Khó chỉ ra ai chịu thiệt, khi người ấy không còn để trải nghiệm |
 | Hữu hạn làm nên đời sống chân thực | Đối diện cái chết như khả năng chắc chắn nhất giúp ta sống thật với lựa chọn của mình | Heidegger | Dễ xem nhẹ nỗi mất mát thật sự mà cái chết gây ra |
 | Bất tử: tẻ nhạt hay đáng muốn | Williams cho rằng bất tử sẽ tẻ nhạt; Fischer cho rằng nó có thể đáng muốn | Williams, Fischer | Câu trả lời phụ thuộc vào câu hỏi "cái tôi nào sống mãi?" (Parfit) |
@@ -19,6 +20,8 @@ Chương này đi từ Plato và Epicurus tới Nagel, Heidegger, Williams, McTa
 Plato, trong *Phaedo* (khoảng 360 TCN), mô tả Socrates trong ngày cuối cùng: linh hồn là bất tử, và triết học là sự chuẩn bị cho cái chết [@platoPhaedo]. Simmias và Cebes phản đối: linh hồn có thể chỉ là sự hài hoà của cơ thể, tan biến khi cơ thể tan rã — như âm thanh của cây đàn biến mất khi đàn vỡ.
 
 Epicurus, trong *Thư gửi Menoeceus* (khoảng 300 TCN, §§124–125), trả lời ngược lại: linh hồn là nguyên tử, và khi cơ thể tan rã, linh hồn cũng tan rã; "khi ta tồn tại, cái chết không hiện diện; khi cái chết hiện diện, ta không tồn tại" — vì vậy cái chết không là gì với ta [@epicurus]. Lucretius, trong *De Rerum Natura* (giữa thế kỷ 1 TCN), Quyển III, đưa ra lập luận đối xứng: ta không sợ khoảng vĩnh hằng trước khi sinh ra, vậy tại sao sợ khoảng vĩnh hằng sau khi chết? [@lucretius].
+
+Các nhà Khắc kỷ cũng muốn gỡ bỏ nỗi sợ, nhưng bằng một con đường khác: sửa phán đoán. Epictetus, trong *Sổ tay* (*Encheiridion*), chương 5, viết rằng con người bị xáo trộn không phải bởi sự việc, mà bởi ý niệm của mình về sự việc. Cái chết không đáng sợ, nếu không thì Socrates đã thấy nó đáng sợ; điều đáng sợ là ý niệm rằng cái chết đáng sợ [@epictetus]. Theo cách đọc của Graver, với Epictetus, cảm xúc phụ thuộc vào các phán đoán giá trị, nên khi sửa phán đoán thì cảm xúc cũng được sửa [@sepEpictetus]. Seneca, trong Thư 24 gửi Lucilius, nhắc rằng cái chết không chỉ đến vào cuối đời: "ta chết mỗi ngày", vì mỗi ngày một phần đời sống bị lấy đi [@seneca].
 
 Thomas Nagel, trong "Death" (*Noûs*, 1970; in lại trong *Mortal Questions*, 1979), đưa ra câu trả lời có ảnh hưởng nhất trong triết học đương đại: cái chết gây hại bằng cách **tước đoạt** — nó lấy đi những điều tốt đẹp trong tương lai mà ta lẽ ra đã có [@nagel1970death]. Cái chết có thể xấu cho người đã chết, ngay cả khi người đó không bao giờ trải nghiệm nó — giống như một sự phản bội mà ta không bao giờ biết tới vẫn là xấu cho ta. Lập luận tước đoạt của Nagel, được Kagan (2012) và McMahan tinh chỉnh, vẫn là câu trả lời chủ đạo cho Epicurus [@kagan2012].
 
@@ -42,9 +45,15 @@ Sartre (1943) và Camus (1942) đưa ra những biến thể khác nhau của c�
 
 Augustine, trong *Confessions* (khoảng 397–400), Quyển XI, hỏi: thời gian là gì? Quá khứ đã qua, tương lai chưa tới, hiện tại chỉ là một khoảnh khắc không có độ dài — vậy thời gian ở đâu? Câu trả lời của ông: thời gian ở trong tâm hồn — *distentio animi*, sự căng ra của tâm hồn: hiện tại của quá khứ là ký ức, hiện tại của hiện tại là chú ý, hiện tại của tương lai là mong đợi [@augustine].
 
-McTaggart, trong "The Unreality of Time" (1908), *Mind*, phân biệt dãy A (quá khứ / hiện tại / tương lai, với sự trôi qua) và dãy B (trước / sau, không có sự trôi qua) — và lập luận rằng dãy A là mâu thuẫn, vì vậy thời gian, theo nghĩa trôi qua, là không thực [@mctaggart1908]. Tranh luận này vẫn khung cho cuộc tranh luận đương đại giữa thuyết hiện tại (*presentism*), thuyết khối đang lớn (*growing block*), và thuyết vĩnh cửu / vũ trụ khối (*eternalism / block universe*), trong đó quá khứ, hiện tại và tương lai đều thực như nhau.
+McTaggart, trong "The Unreality of Time" (1908), *Mind*, phân biệt dãy A (quá khứ / hiện tại / tương lai, với sự trôi qua) và dãy B (trước / sau, không có sự trôi qua) — và lập luận rằng dãy A là mâu thuẫn, vì vậy thời gian, theo nghĩa trôi qua, là không thực [@mctaggart1908]. Sự phân biệt này vẫn là khung cho tranh luận đương đại về những gì tồn tại [@sepTime]:
 
-Thuyết tương đối của Einstein (1905, 1915) làm cho vấn đề trở nên sắc hơn: tính đồng thời là tương đối, không có một hiện tại vũ trụ duy nhất. Bergson, trong *Time and Free Will* (1889), phân biệt thời gian đồng hồ (*temps*) — thời gian được đo, chia nhỏ, không gian hoá — với *durée*, thời gian sống, thời gian như ta trải nghiệm nó: liên tục, không thể đảo ngược, đầy ắp ký ức và mong đợi.
+- **Thuyết hiện tại** (*presentism*): chỉ những gì hiện tại mới tồn tại.
+- **Thuyết khối đang lớn** (*growing block*): quá khứ và hiện tại tồn tại, tương lai thì chưa.
+- **Thuyết vĩnh cửu** (*eternalism*): quá khứ, hiện tại và tương lai đều tồn tại như nhau.
+
+Thuyết tương đối hẹp của Einstein (1905) làm vấn đề sắc hơn: hai sự kiện đồng thời hay không là tuỳ hệ quy chiếu. Nhiều triết gia dùng điểm này để phản bác thuyết hiện tại, vì vật lý không chỉ ra một "hiện tại" duy nhất cho mọi người quan sát. Nhưng đây là một lập luận triết học dựa trên vật lý, không phải một kết quả của riêng vật lý, và những người bảo vệ thuyết hiện tại có những cách đáp lại [@sepBeingBecoming].
+
+Bergson, trong *Essai sur les données immédiates de la conscience* (1889; bản tiếng Anh *Time and Free Will*), phân biệt hai loại thời gian [@sepBergson]. Thời gian của đồng hồ là thời gian đồng nhất, đếm được. *Durée*, thời lượng, là thời gian như ta sống nó: mang tính chất, liên tục, các khoảnh khắc thấm vào nhau chứ không xếp cạnh nhau.
 
 **Câu hỏi mở:** Thời gian có thực sự trôi, hay sự trôi qua chỉ là cách não bộ tổ chức ký ức? Mũi tên thời gian đến từ đâu — từ nhiệt động lực học, từ vũ trụ học, hay từ chính cấu trúc của ý thức?
 
@@ -67,7 +76,17 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 **Chết não.** Ủy ban Harvard (1968), "A definition of irreversible coma", *JAMA* [@harvard1968]. Theo hướng dẫn đồng thuận năm 2023, chết não (chết theo tiêu chuẩn thần kinh) đòi hỏi mất vĩnh viễn chức năng của toàn bộ não, gồm cả thân não; việc xác định này dẫn tới tuyên bố tử vong về mặt pháp lý trong bối cảnh Hoa Kỳ [@greer2023brainDeath]. Trạng thái thực vật, hay hội chứng thức tỉnh không đáp ứng, là rối loạn ý thức ở một người còn sống, không phải chết não [@giacino2018consciousness]. ECMO và bảo quản lạnh tiếp tục đặt ra câu hỏi về ranh giới của cái chết. Xem thêm Luper (chủ biên) (2014), *The Cambridge Companion to Life and Death* [@luper2014], và các mục SEP "Death" [@luperSEPdeath], "Time", "Personal Identity" [@olsonSEPidentity], và "The Definition of Death".
 :::
 
-## 8. Đối chiếu các truyền thống
+## 8. Tranh luận 4.3: Khi nào một người đã chết?
+
+Câu hỏi này nghe như của y học, nhưng nó có một phần triết học. Cần phân biệt ba tầng: định nghĩa ("chết" nghĩa là gì), tiêu chuẩn (điều gì phải xảy ra trong cơ thể), và xét nghiệm lâm sàng (làm sao biết điều đó đã xảy ra) [@sepDeathDefinition]. Dưới đây là ba cách tiếp cận đang được tranh luận.
+
+- **Tiêu chuẩn tuần hoàn – hô hấp:** chết là khi tuần hoàn và hô hấp ngừng không thể đảo ngược. *Phản biện:* chưa có đồng thuận về việc khi nào sự ngừng ấy được coi là không thể đảo ngược. Hiểu theo nghĩa chặt nhất, tiêu chuẩn này sẽ gây khó cho việc hiến tạng sau ngừng tuần hoàn. Vì vậy, nhiều chính sách dùng chữ "vĩnh viễn" (tuần hoàn không tự phục hồi và sẽ không được hồi sức) thay cho "không thể đảo ngược".
+- **Tiêu chuẩn toàn não:** theo câu chữ của luật mẫu Hoa Kỳ, chết là khi mọi chức năng của toàn bộ não, gồm cả thân não, ngừng không thể đảo ngược. Hướng dẫn đồng thuận năm 2023 hiểu câu đó là mất vĩnh viễn chức năng của não *như một tổng thể*, biểu hiện bằng hôn mê, mất các phản xạ thân não và ngừng thở [@greer2023brainDeath]. Lý do được nêu là não giữ cho cơ thể vận hành như một thể thống nhất. *Phản biện:* một số chức năng hợp nhất của cơ thể vẫn có thể tiếp tục sau chết toàn não. Ngoài ra, các xét nghiệm lâm sàng chỉ kiểm tra khả năng có ý thức, các phản xạ thân não và khả năng tự thở, chứ không phải mọi chức năng của não.
+- **Tiêu chuẩn não bậc cao:** chết là khi mất vĩnh viễn khả năng có ý thức. *Phản biện:* theo quan điểm này, một số người vẫn tự thở sẽ bị coi là đã chết. Theo SEP (bản cập nhật 2026), chưa nơi nào trên thế giới công nhận tiêu chuẩn này về mặt pháp lý, và chưa có xét nghiệm được kiểm chứng để xác định nó.
+
+Đạo luật mẫu của Hoa Kỳ về xác định tử vong (UDDA), mà các bang có thể ban hành, chấp nhận cả tiêu chuẩn tuần hoàn – hô hấp lẫn tiêu chuẩn toàn não, tuỳ điều nào được đáp ứng trước [@sepDeathDefinition]. Tranh luận này cho thấy định nghĩa cái chết phụ thuộc cả vào khoa học lẫn vào một câu hỏi triết học: con người, trước hết, là một cơ thể sống, hay một chủ thể có ý thức?
+
+## 9. Đối chiếu các truyền thống
 
 Ở đây, câu hỏi "có nên nghĩ về cái chết không?" chia rẽ các nhà tư tưởng *bên trong* cùng một truyền thống, chứ không chia họ theo địa lý.
 
@@ -77,7 +96,7 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 
 **Bất đồng ở châu Á.** Trang Tử chấp nhận sự biến hoá như nó là. Phật giáo thì xem cái chết là một biểu hiện của vô thường, và bám víu vào một cái tôi bền vững là gốc của khổ đau; mục tiêu là thoát khỏi vòng tái sinh, không chỉ an nhiên trong nó [@buddhaSEP]. Như vậy, cùng xuất phát từ sự đổi thay, có hai con đường khác nhau: thuận theo sự biến hoá, và chấm dứt khổ cùng vòng tái sinh.
 
-## 9. Câu hỏi mở
+## 10. Câu hỏi mở
 
 - Cái chết có thể xấu cho người đã chết, nếu không còn ai để chịu đựng nó?
 - Bất tử có đáng muốn không, và cái "tôi" nào sẽ sống mãi?
@@ -86,7 +105,7 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 - Não bộ tạo ra ý thức hay chỉ tiếp nhận nó?
 - Khi nào một người chết, và ai quyết định?
 
-## 10. Đọc thêm
+## 11. Đọc thêm
 
 - Heidegger (1927), *Being and Time* [@heidegger1927]
 - Nagel (1979), *Mortal Questions* — bài "Death" (1970) [@nagel1970death]
@@ -95,11 +114,13 @@ Ernest Becker, trong *The Denial of Death* (1973, giải Pulitzer 1974), cho r�
 - McTaggart (1908), "The Unreality of Time" [@mctaggart1908]
 - Fischer (2019; bìa mềm 2020) [@fischer2019]
 - Luper (chủ biên) (2014), *The Cambridge Companion to Life and Death* [@luper2014]
+- Emery, Markosian và Sullivan, "Time", *Stanford Encyclopedia of Philosophy* [@sepTime]
+- Omelianchuk và DeGrazia, "The Definition of Death", *Stanford Encyclopedia of Philosophy* [@sepDeathDefinition]
 
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
+- **Cập nhật gần nhất:** phiên bản 1.4.0. Thêm quan điểm Khắc kỷ về cái chết (Epictetus, Seneca), tranh luận 4.3 về định nghĩa cái chết, và nguồn cho phần thời gian (thuyết hiện tại, thuyết vĩnh cửu, thuyết tương đối, Bergson).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
