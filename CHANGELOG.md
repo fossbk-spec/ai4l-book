@@ -2,6 +2,17 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.6.1] — Chapter 7: fixes after independent review
+
+- The 1298 date for ordination is attributed to Nguyễn Tài Thư, with a note that sources differ.
+- "Founded and coined 'engaged Buddhism'" is attributed to the Plum Village biography.
+- Nguyễn Tài Thư's rebuttal is quoted in full ("với sự thống trị của dòng họ Trần").
+- A sentence based on the publisher's blurb now follows the book excerpt.
+- Cuong Tu Nguyen's thesis is limited to the pre-Trúc Lâm lineages of the *Thiền uyển tập anh*.
+- *Buddhist modernism* is rendered "chủ nghĩa hiện đại Phật giáo", with McMahan's own gloss.
+- "Một câu trả lời riêng" softened; the scholarly edition of the verse (*Thơ văn Lý – Trần*, 1988) named as cited by Nguyễn Hữu Sơn.
+- Bibliography metadata fixes (religious name, issue date, access date, excerpt URL).
+
 ## [1.6.0] — Chapter 7: a Vietnamese thread
 
 - **New section "Một mạch Việt Nam: vui đạo giữa cõi đời":**
