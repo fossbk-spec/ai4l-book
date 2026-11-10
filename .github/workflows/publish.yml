@@ -3,6 +3,8 @@ name: Publish book
 on:
   pull_request:
     branches: [main]
+    # "edited" covers a base-branch change, e.g. when a stacked PR is retargeted to main.
+    types: [opened, synchronize, reopened, edited]
   push:
     branches: [main]
   workflow_dispatch:
