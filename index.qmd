@@ -1,7 +1,7 @@
 # Cuộc sống và con người
 
 **Tác giả:** Hoàng Quang Huy — Đại học Bách khoa Hà Nội
-**Phiên bản:** 1.6.1 (tháng 11 năm 2026)
+**Phiên bản:** 1.8.0 (tháng 11 năm 2026)
 
 > "Một đời sống không được suy xét thì không đáng sống."
 > — Socrates
