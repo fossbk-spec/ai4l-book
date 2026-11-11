@@ -49,7 +49,7 @@ Khoa học thần kinh theo dõi các tương quan thần kinh của ý thức (
 
 ## 5. Tình yêu: eros, philia, agape — và khoa học về gắn bó
 
-Plato, trong *Symposium* (khoảng 385–370 TCN, trích theo số Stephanus 172a–223d), mô tả *eros* như khát vọng hướng tới cái đẹp, leo lên tới chính cái Đẹp [@platoSymposium]. Aristotle, trong *Nicomachean Ethics*, phân biệt ba loại tình bạn: vì lợi ích, vì khoái lạc, và vì đức hạnh; chỉ tình bạn vì đức hạnh mới bền vững [@aristotleNE]. Truyền thống Kitô giáo nói về *agape*, tình yêu hiến dâng; Kierkegaard, trong *Works of Love* (1847), nói về tình yêu như bổn phận từ đức tin. Sartre (1943) xem tình yêu như xung đột: muốn chiếm hữu tự do của người khác [@sartre1943].
+Plato, trong *Symposium* (khoảng 385–370 TCN, trích theo số Stephanus 172a–223d), mô tả *eros* như khát vọng hướng tới cái đẹp, leo lên tới chính cái Đẹp [@platoSymposium]. Aristotle, trong *Nicomachean Ethics*, phân biệt ba loại tình bạn: vì lợi ích, vì khoái lạc, và vì đức hạnh; chỉ tình bạn vì đức hạnh mới bền vững [@aristotleNE]. Truyền thống Kitô giáo nói về *agape*, tình yêu hiến dâng; Kierkegaard, trong *Works of Love* (1847), nói về tình yêu như bổn phận từ đức tin. Sartre (1943) xem tình yêu như xung đột: muốn chiếm hữu tự do của người khác [@sartre1943]. Beauvoir, trong *Le Deuxième Sexe* (1949), trả lời rằng tình yêu đích thực phải dựa trên sự công nhận lẫn nhau của hai tự do: không ai từ bỏ sự siêu việt của mình, và cùng nhau họ khám phá các giá trị và mục đích trong thế giới. Theo cách đọc của Cleary, với Beauvoir, chỉ khi phụ nữ thoát khỏi áp bức và lệ thuộc thì những quan hệ yêu đương đích thực mới có thể có [@beauvoir1949; @clearyBeauvoirLove]. Bergoffen và Burke lưu ý rằng ví dụ tích cực của bà về sự công nhận lẫn nhau là cuộc gặp gỡ ái ân dị tính [@sepBeauvoir].
 
 Erich Fromm, trong *The Art of Loving* (1956), tên đầy đủ *The Art of Loving: An Inquiry into the Nature of Love*, cho rằng tình yêu là một nghệ thuật, một thực hành: chăm sóc, trách nhiệm, tôn trọng, hiểu biết [@fromm1956]. Harry Frankfurt, trong *The Reasons of Love* (2004), cho rằng tình yêu định hình cái tôi và cho ta lý do hành động [@frankfurt2004].
 
@@ -85,6 +85,7 @@ Butlin, Long, Bayne và cộng sự (2026), "Identifying Indicators of Conscious
 ## 9. Đọc thêm
 
 - Descartes (1641), *Meditations* [@descartes1641]
+- Beauvoir (1949), *Le Deuxième Sexe* (*The Second Sex*) [@beauvoir1949]
 - Chalmers (1996), *The Conscious Mind* [@chalmers1996]
 - Dennett (1991), *Consciousness Explained* [@dennett1991]
 - Dehaene (2014), *Consciousness and the Brain* [@dehaene2014]
@@ -95,7 +96,7 @@ Butlin, Long, Bayne và cộng sự (2026), "Identifying Indicators of Conscious
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: sửa cách dẫn *cogito*, kết luận của nhóm Butlin, kết quả của liên minh Cogitate, ngày sửa đổi mục SEP; bỏ các khái quát theo vùng và câu về Beauvoir chưa có nguồn; thêm liên kết sang Chương 8.
+- **Cập nhật gần nhất:** phiên bản 1.9.0. Thêm quan niệm của Beauvoir về tình yêu đích thực như sự công nhận lẫn nhau của hai tự do.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
