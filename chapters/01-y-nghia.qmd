@@ -9,7 +9,7 @@ Chương này đi qua năm lập trường lớn, ba khía cạnh tâm lý của
 | Lập trường | Đại diện | Luận điểm cốt lõi | Điểm yếu lớn nhất |
 |---|---|---|---|
 | Siêu nhiên / hữu thần | Augustine, Aquinas, Kierkegaard | Ý nghĩa đến từ Thiên Chúa, linh hồn bất tử, hoặc một trật tự vũ trụ vượt lên trên con người | Phụ thuộc vào niềm tin tôn giáo mà không phải ai cũng chia sẻ; khó kiểm chứng |
-| Tự nhiên khách quan | Aristotle, Wolf, Metz | Có những điều thực sự đáng giá — chân lý, thiện, mỹ — và đời sống có ý nghĩa khi hướng tới chúng | Ai quyết định điều gì là "thực sự đáng giá"? Nguy cơ áp đặt |
+| Tự nhiên khách quan | Aristotle, Metz; Wolf (lai ghép) | Có những điều thực sự đáng giá — chân lý, thiện, mỹ — và đời sống có ý nghĩa khi hướng tới chúng | Ai quyết định điều gì là "thực sự đáng giá"? Nguy cơ áp đặt |
 | Hiện sinh / chủ quan | Sartre, Camus (phần nào) | Không có ý nghĩa cho sẵn; con người tự tạo ý nghĩa bằng lựa chọn của mình | Nếu ý nghĩa chỉ là lựa chọn, liệu đời sống của một kẻ độc tài cũng "có ý nghĩa"? |
 | Hư vô | (lập trường, không phải một tác giả duy nhất) | Không có ý nghĩa nào cả; mọi nỗ lực tìm ý nghĩa đều là tự lừa dối | Khó sống nhất quán với nó; chính việc phủ nhận cũng là một lập trường về ý nghĩa |
 | Phi lý | Camus | Thế giới im lặng trước khát vọng ý nghĩa của ta; đáp lại bằng nổi loạn, sống, yêu, sáng tạo | Nổi loạn có đủ làm nền tảng cho một đời sống, hay chỉ là một tư thế? |
@@ -34,7 +34,7 @@ Ba câu trả lời này không loại trừ nhau hoàn toàn, nhưng chúng că
 
 Hai triết gia đương đại đưa ra những lý thuyết có ảnh hưởng nhất về ý nghĩa trong triết học phân tích. Susan Wolf, trong *Meaning in Life and Why It Matters* (2010), đề xuất "sự viên mãn phù hợp" (*fitting fulfilment*): một đời sống có ý nghĩa khi có sự hấp dẫn chủ quan đối với một đối tượng thực sự đáng giá một cách khách quan [@wolf2010]. Chỉ có cảm giác thôi chưa đủ — một người có thể say mê đếm cỏ, nhưng đời sống đó khó gọi là có ý nghĩa. Chỉ có giá trị khách quan thôi cũng chưa đủ — một người làm việc tốt nhưng hoàn toàn thờ ơ, chán ghét, cũng khó gọi là sống có ý nghĩa. Cần cả hai: yêu điều đáng yêu.
 
-Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất lý thuyết tính căn bản (*fundamentality*): ý nghĩa đến từ việc hướng tới những điều căn bản — chân lý, thiện, mỹ — theo cách làm cho đời sống gắn với những thực tại sâu xa nhất [@metz2013]. Metz cũng là tác giả mục "The Meaning of Life" trong Bách khoa toàn thư Triết học Stanford, ấn bản Mùa thu 2026, xuất bản lần đầu ngày 15 tháng 5 năm 2007, sửa đổi lần cuối ngày 28 tháng 6 năm 2026 [@metzSEP]. Một tổng quan đương đại khác là của Seachris trong Bách khoa toàn thư Triết học trên Internet [@seachrisIEP], và cuộc tranh luận giữa Metz và Seachris được xuất bản thành sách năm 2024 [@metzSeachris2024].
+Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất lý thuyết tính căn bản (*fundamentality*): ý nghĩa đến từ việc hướng tới những điều căn bản — chân lý, thiện, mỹ — theo cách làm cho đời sống gắn với những thực tại sâu xa nhất [@metz2013]. Metz cũng là tác giả mục "The Meaning of Life" trong Bách khoa toàn thư Triết học Stanford, ấn bản Mùa thu 2026, xuất bản lần đầu ngày 15 tháng 5 năm 2007, sửa đổi lớn ngày 26 tháng 6 năm 2026 [@metzSEP]. Một tổng quan đương đại khác là của Seachris trong Bách khoa toàn thư Triết học trên Internet [@seachrisIEP], và cuộc tranh luận giữa Metz và Seachris được xuất bản thành sách năm 2024 [@metzSeachris2024].
 
 Điểm mạnh của Wolf và Metz là chúng tránh được hai cực đoan: chủ nghĩa chủ quan thuần tuý (bất cứ điều gì ta thích cũng có ý nghĩa) và chủ nghĩa khách quan cứng nhắc (ý nghĩa không liên quan gì tới cảm nhận của ta). Điểm yếu, như các nhà phê bình chỉ ra, là tiêu chuẩn "đáng giá một cách khách quan" vẫn còn mơ hồ: ai quyết định, và bằng cách nào? Và liệu một kẻ độc tài say mê quyền lực — một đối tượng mà ông ta thấy hấp dẫn chủ quan — có thể có một đời sống "có ý nghĩa" theo nghĩa nào đó không? Wolf trả lời là không, vì quyền lực thống trị không phải là đối tượng đáng giá; nhưng câu trả lời đó lại dựa vào một đánh giá giá trị mà chính nó cần được biện minh.
 
@@ -60,7 +60,7 @@ Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất l
 
 Tâm lý học đương đại phân biệt ba khía cạnh của ý nghĩa: **tính mạch lạc** (đời sống có thể hiểu được), **mục đích** (có định hướng, mục tiêu), và **tính quan trọng** (đời sống có giá trị, đáng sống). Ba khía cạnh này được Martela và Steger (2016) hệ thống hoá [@martelaSteger2016] và được King và Hicks (2021) tổng quan trong *Annual Review of Psychology* [@kingHicks2021].
 
-Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của Steger và cộng sự (2006), phân biệt *sự hiện diện* của ý nghĩa và *sự tìm kiếm* ý nghĩa [@steger2006]. Baumeister và cộng sự (2013) cho thấy hạnh phúc và ý nghĩa khác nhau: hạnh phúc gắn với nhận lấy, tập trung vào hiện tại; ý nghĩa gắn với cho đi, tích hợp quá khứ–hiện tại–tương lai, và đôi khi chấp nhận khổ đau [@baumeister2013]. Baumeister (1991) đã trình bày sớm hơn bốn nhu cầu của ý nghĩa: mục đích, giá trị, hiệu lực, và lòng tự trọng [@baumeister1991]. Seligman đưa ý nghĩa vào mô hình PERMA về sự hưng thịnh, trong *Authentic Happiness* (2002) và *Flourish* (2011) [@seligman2002].
+Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của Steger và cộng sự (2006), phân biệt *sự hiện diện* của ý nghĩa và *sự tìm kiếm* ý nghĩa [@steger2006]. Baumeister và cộng sự (2013) cho thấy hạnh phúc và ý nghĩa khác nhau: hạnh phúc gắn với nhận lấy, tập trung vào hiện tại; ý nghĩa gắn với cho đi, tích hợp quá khứ–hiện tại–tương lai, và đôi khi chấp nhận khổ đau [@baumeister2013]. Baumeister (1991) đã trình bày sớm hơn bốn nhu cầu của ý nghĩa: mục đích, giá trị, hiệu lực, và lòng tự trọng [@baumeister1991]. Seligman, trong *Authentic Happiness* (2002), coi đời sống có ý nghĩa là một trong những dạng của đời sống tốt [@seligman2002].
 
 Một meta-analysis của Cohen, Bavishi và Rozanski (2016) trên 10 nghiên cứu tiền cứu, tổng cộng 136.265 người, cho thấy mục đích sống cao hơn gắn với nguy cơ tử vong do mọi nguyên nhân thấp hơn khoảng 17% (tỷ số nguy cơ gộp 0,83) [@cohen2016].
 
@@ -79,7 +79,7 @@ Mục này không so sánh "phương Đông" với "phương Tây" như hai kh�
 
 - Ý nghĩa là một câu hỏi hay một chùm câu hỏi? "Ý nghĩa của cuộc sống" (mục đích của vũ trụ) và "ý nghĩa trong cuộc sống" (đời tôi có đáng sống không) có phải là cùng một câu hỏi?
 - Ý nghĩa có cần giá trị khách quan không, hay cảm nhận chủ quan là đủ?
-- Liệu AI và y sinh học có thay đổi ý nghĩa của lao động, chữa bệnh và chăm sóc — khi máy móc làm được nhiều việc mà trước đây chỉ con người làm được?
+- Liệu AI và y sinh học có thay đổi ý nghĩa của lao động, chữa bệnh và chăm sóc — khi máy móc làm được nhiều việc mà trước đây chỉ con người làm được? (Xem Chương 8, mục 4.)
 - Cái chết làm gì với ý nghĩa? (Xem Chương 4.)
 - Khổ đau phá huỷ ý nghĩa, hay tạo ra ý nghĩa? (Xem Chương 7.)
 
@@ -96,7 +96,7 @@ Mục này không so sánh "phương Đông" với "phương Tây" như hai kh�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.3.0. Viết lại mục so sánh thành "Đối chiếu các truyền thống": so sánh các nhà tư tưởng cụ thể và nêu bất đồng bên trong mỗi truyền thống.
+- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: sửa cách dẫn Seligman, ngày sửa đổi của mục SEP, và thêm liên kết sang Chương 8.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

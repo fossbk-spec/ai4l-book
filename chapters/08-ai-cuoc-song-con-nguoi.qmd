@@ -27,15 +27,15 @@ Searle, với Phòng Trung Hoa (Chương 6), lập luận rằng thao tác ký h
 
 **Một phía:** Bender và cộng sự (2021) cảnh báo rằng mô hình ngôn ngữ lớn học các mẫu hình thức của văn bản từ khối dữ liệu khổng lồ, nhưng văn bản nó tạo ra không gắn với ý định giao tiếp hay với thế giới. Theo họ, người đọc mới là bên gán ý nghĩa vào đó. Các tác giả cũng chỉ ra những cái giá ít được nói tới: chi phí môi trường và tài chính, và những thiên lệch nằm trong dữ liệu huấn luyện quá lớn để kiểm soát [@bender2021parrots]. Shanahan (2024) khuyên thận trọng khi dùng những từ như "biết", "tin", "nghĩ" cho mô hình ngôn ngữ, vì cách nói ấy dễ làm mờ khoảng cách giữa một hệ dự đoán văn bản và một con người [@shanahan2024llm]. Cần phân biệt hai câu hỏi: mô hình có *năng lực ngôn ngữ* hay không, điều có thể đo được, và nó có *hiểu* theo nghĩa của con người hay không, điều vẫn còn tranh cãi.
 
-**Phía kia:** Turing nhắc rằng ta cũng chỉ suy ra tâm trí của người khác từ hành vi của họ [@turing1950]. Nếu một hệ thống trả lời đúng, linh hoạt, trong những tình huống chưa từng gặp, thì đòi hỏi thêm một thứ "hiểu thật sự" ở bên trong có phải là một tiêu chuẩn kép không?
+**Phía kia:** Turing nhắc rằng ta cũng chỉ suy ra tâm trí của người khác từ hành vi của họ [@turing1950]. Mitchell và Krakauer (2023) mô tả đây là một cuộc tranh luận thực sự trong giới nghiên cứu AI, và đề xuất rằng có thể có những kiểu "hiểu" khác với kiểu của con người [@mitchellKrakauer2023]. Nếu một hệ thống trả lời đúng, linh hoạt, trong những tình huống chưa từng gặp, thì đòi hỏi thêm một thứ "hiểu thật sự" ở bên trong có phải là một tiêu chuẩn kép không?
 
 **Đánh giá:** Tranh luận này lặp lại tranh luận về ý thức ở Chương 6, nhưng với tiền cược thực tế hơn. Butlin và cộng sự xây dựng một bộ chỉ báo rút ra từ các lý thuyết khoa học về ý thức. Khi áp dụng cho các hệ AI họ xem xét, bản thảo năm 2023 của nhóm kết luận chưa hệ nào là ứng viên mạnh cho ý thức, dù cũng không thấy rào cản kỹ thuật hiển nhiên nào ngăn việc xây dựng một hệ như vậy; bản công bố năm 2026 phát triển tiếp bộ chỉ báo này [@butlin2026]. Đó là một đánh giá theo khung lý thuyết, không phải bằng chứng rằng máy chắc chắn không có ý thức. Với người dùng bình thường, hệ quả thực hành rõ ràng hơn kết luận triết học: hãy đối xử với câu trả lời của máy như một bản nháp cần kiểm tra, không như lời của một người hiểu mình.
 
 ## 4. AI trong công việc: việc làm, ý nghĩa và phẩm giá
 
-Chương 1 cho thấy ý nghĩa cuộc sống của nhiều người gắn với công việc: làm ra một điều có giá trị, được người khác cần tới. AI chạm thẳng vào chỗ đó.
+Chương 1 nhắc tới con đường đầu tiên của Frankl tới ý nghĩa: sáng tạo một công việc hay một tác phẩm, làm ra một điều có giá trị. AI chạm thẳng vào chỗ đó.
 
-Bằng chứng kinh tế cho tới nay còn phân tán. Acemoglu và Restrepo (2020), nghiên cứu robot công nghiệp ở các thị trường lao động địa phương tại Mỹ giai đoạn 1990–2007, cho thấy các vùng tiếp nhận nhiều robot hơn có tỷ lệ việc làm và tiền lương giảm [@acemoglu2020robots]. Với mô hình ngôn ngữ, Eloundou và cộng sự (2024) ước tính phần lớn người lao động ở Mỹ có ít nhất một phần nhiệm vụ "phơi nhiễm" với công cụ này [@eloundou2024gpts]. Nhưng phơi nhiễm không có nghĩa là bị thay thế: một nhiệm vụ có thể được làm nhanh hơn, làm khác đi, hoặc biến mất.
+Bằng chứng kinh tế cho tới nay còn phân tán. Acemoglu và Restrepo (2020), nghiên cứu robot công nghiệp ở các thị trường lao động địa phương tại Mỹ giai đoạn 1990–2007, cho thấy các vùng tiếp nhận nhiều robot hơn có tỷ lệ việc làm và tiền lương giảm [@acemoglu2020robots]. Với mô hình ngôn ngữ, Eloundou và cộng sự (2024) ước tính phần lớn người lao động ở Mỹ có ít nhất một phần nhiệm vụ "phơi nhiễm" với công cụ này [@eloundou2024gpts]. Nhưng phơi nhiễm không có nghĩa là bị thay thế: một nhiệm vụ có thể được làm nhanh hơn, làm khác đi, hoặc biến mất. Một nghiên cứu trên 5.172 nhân viên chăm sóc khách hàng cho thấy trợ lý AI làm tăng năng suất trung bình 15%, nhiều nhất ở người ít kinh nghiệm; với những người giỏi và nhiều kinh nghiệm nhất, tốc độ chỉ tăng chút ít và chất lượng còn giảm nhẹ [@brynjolfsson2025].
 
 Câu hỏi triết học nằm phía sau con số. Nếu máy làm tốt hơn phần lớn những việc ta từng tự hào, thì giá trị của một đời người đến từ đâu? Aristotle sẽ nói: từ hoạt động có đức tính, chứ không phải từ sản lượng [@aristotleNE]. Frankl sẽ nói: từ việc ta sáng tạo, yêu thương, và thái độ ta chọn trước điều không thể thay đổi [@frankl1946].
 
@@ -75,13 +75,13 @@ Mittelstadt và cộng sự (2016) gom các mối lo về thuật toán thành m
 
 Chương 3 hỏi ta có tự do không, và nếu không thì trách nhiệm ở đâu. Sparrow (2007) đặt câu hỏi ấy cho vũ khí tự động: khi một hệ thống tự chọn mục tiêu và gây ra cái chết sai trái, ta không thể quy trách nhiệm một cách thoả đáng cho người lập trình, cho chỉ huy, hay cho chính cỗ máy. Vì vậy, theo ông, triển khai những vũ khí như thế là phi đạo đức [@sparrow2007].
 
-Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quyết định quan trọng được giao cho một hệ thống mà không ai thực sự hiểu và không ai thực sự chịu trách nhiệm, ta đang thu hẹp không gian của tự do và trách nhiệm con người. Chính vì thế, khả năng giải thích được Floridi và Cowls (2019) đề xuất thành một nguyên tắc riêng [@floridiCowls2019]. Các văn bản quốc tế như Khuyến nghị về Đạo đức Trí tuệ Nhân tạo của UNESCO, được 193 quốc gia thành viên thông qua năm 2021 [@unesco2021], và tổng quan 84 bộ nguyên tắc đạo đức AI của Jobin và cộng sự (2019) [@jobin2019] cho thấy sự đồng thuận về nguyên tắc. Khoảng cách nằm ở việc thực thi.
+Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quyết định quan trọng được giao cho một hệ thống mà không ai thực sự hiểu và không ai thực sự chịu trách nhiệm, ta đang thu hẹp không gian của tự do và trách nhiệm con người. Chính vì thế, khả năng giải thích được Floridi và Cowls (2019) đề xuất thành một nguyên tắc riêng [@floridiCowls2019]. Các văn bản quốc tế như Khuyến nghị về Đạo đức Trí tuệ Nhân tạo của UNESCO, được 193 quốc gia thành viên thông qua năm 2021 [@unesco2021], và tổng quan 84 bộ nguyên tắc đạo đức AI của Jobin và cộng sự (2019) [@jobin2019] cho thấy sự đồng thuận về nguyên tắc. Khoảng cách nằm ở việc thực thi. Liên minh châu Âu đã chuyển nguyên tắc thành luật: Đạo luật AI (Quy định (EU) 2024/1689) có hiệu lực từ ngày 1/8/2024 và áp dụng chung từ ngày 2/8/2026, với một số quy định áp dụng sớm hoặc muộn hơn [@euAIAct].
 
 ::: {.callout-note}
 ## Nghiên cứu thực nghiệm nói gì?
 
 - **Thiên lệch là có thật và đo được:** thuật toán y tế dùng chi phí thay cho nhu cầu đã đánh giá thấp nhu cầu của bệnh nhân da đen; đổi biến mục tiêu làm giảm thiên lệch [@obermeyer2019bias].
-- **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, mới đo được mức "phơi nhiễm" của nhiệm vụ, chưa phải mức thay thế [@eloundou2024gpts].
+- **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, đã có bằng chứng về năng suất ở một số công việc [@brynjolfsson2025], nhưng bằng chứng về thay thế việc làm còn ít [@eloundou2024gpts].
 - **Quan hệ với chatbot có thể mang lại cảm giác được hỗ trợ:** một nghiên cứu định tính ghi nhận điều này qua lời kể của 18 người dùng; nghiên cứu ấy không đo mức độ phổ biến hay tác động lâu dài [@skjuve2021replika].
 - **AI trong y tế còn những giới hạn đã được nêu rõ:** thiên lệch, quyền riêng tư và bảo mật, thiếu minh bạch [@topol2019].
 - **Theo đánh giá dựa trên các chỉ báo rút ra từ lý thuyết khoa học về ý thức, chưa hệ AI nào được xét là ứng viên mạnh cho ý thức.** Đây là một đánh giá theo khung lý thuyết, không phải chứng minh rằng chúng không có ý thức [@butlin2026].
@@ -91,11 +91,11 @@ Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quy
 
 Thay vì hỏi "phương Đông nghĩ gì về AI", hãy đặt cạnh nhau những văn bản cụ thể.
 
-**Aristotle, Khổng Tử và Phật giáo, qua Vallor.** Vallor (2016) xây dựng một bộ mười hai "đức tính công nghệ – đạo đức" cho thời đại số; trong đó có trung thực, tự kiểm soát, khiêm tốn, công bằng, can đảm, cảm thông, quan tâm và khôn ngoan thực hành. Bà lấy chất liệu từ ba truyền thống: đạo đức đức hạnh của Aristotle, Nho giáo và Phật giáo [@vallor2016]. Theo cách đọc của Vallor, cả ba đều coi đức tính là thói quen được rèn qua thực hành, trong quan hệ với người khác; từ đó có thể suy ra rằng đức tính không phải thứ có thể lập trình thành một quy tắc. Nhưng ba truyền thống cũng khác nhau, và khác nhau ngay bên trong:
+**Aristotle, Khổng Tử và Phật giáo, qua Vallor.** Vallor (2016) xây dựng một bộ mười hai "đức tính công nghệ – đạo đức" cho thời đại số; trong đó có trung thực, tự kiểm soát, khiêm tốn, công bằng, can đảm, cảm thông, quan tâm và khôn ngoan công nghệ – đạo đức. Bà lấy chất liệu từ ba truyền thống: đạo đức đức hạnh của Aristotle, Nho giáo và Phật giáo [@vallor2016]. Theo cách đọc của Vallor, cả ba đều coi đức tính là thói quen được rèn qua thực hành, trong quan hệ với người khác; từ đó có thể suy ra rằng đức tính không phải thứ có thể lập trình thành một quy tắc. Nhưng ba truyền thống cũng khác nhau, và khác nhau ngay bên trong:
 - Nho giáo đặt con người trong mạng quan hệ và lễ [@confucius], nhưng Mạnh Tử và Tuân Tử bất đồng về chuyện đức tính đến từ bản tính hay từ rèn luyện (Chương 2).
 - Phật giáo nhấn mạnh vô ngã và sự dính mắc [@buddhaSEP]. Câu hỏi "AI có cái tôi không?" vì vậy được đặt lại thành câu hỏi "ta đang bám víu vào điều gì khi tìm sự đồng hành nơi máy?".
 
-**Kant và trường phái vị lợi trước một thuật toán phân bổ.** Thuyết vị lợi có thể ủng hộ một thuật toán phân bổ nguồn lực y tế nếu nó làm tăng tổng lợi ích. Kant nhắc rằng mỗi người là một mục đích tự thân, không phải một điểm dữ liệu [@kant1785]. Trường hợp Obermeyer cho thấy hai cách nhìn này gặp nhau: một hệ thống tối ưu sai thước đo vừa không tối đa hoá lợi ích, vừa đối xử bất công với một nhóm người.
+**Kant và trường phái vị lợi trước một thuật toán phân bổ.** Thuyết vị lợi có thể ủng hộ một thuật toán phân bổ nguồn lực y tế nếu nó làm tăng tổng lợi ích. Theo tinh thần của Kant, mỗi người là một mục đích tự thân, không phải một điểm dữ liệu [@kant1785]. Trường hợp Obermeyer cho thấy hai cách nhìn này gặp nhau: một hệ thống tối ưu sai thước đo vừa không tối đa hoá lợi ích, vừa đối xử bất công với một nhóm người.
 
 ## 10. Câu hỏi mở
 
@@ -117,7 +117,7 @@ Thay vì hỏi "phương Đông nghĩ gì về AI", hãy đặt cạnh nhau nh�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.2.0. Chương mới.
+- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: thêm bằng chứng về năng suất (Brynjolfsson và cộng sự 2025), Đạo luật AI của Liên minh châu Âu, và phía "máy có thể hiểu" trong Tranh luận 8.1 (Mitchell và Krakauer 2023).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Mới — mời góp ý.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
