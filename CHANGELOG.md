@@ -10,9 +10,9 @@ Release 1.7.0 (women thinkers) is reserved and waits for the owner's choice of n
 - **Ch. 3:** van Inwagen moved from "hard determinism" to incompatibilism (he affirms free will); hard incompatibilism stated correctly; Dominik et al. 2024 no longer described as showing a consensus; the unsourced replication claim replaced by the Genschow et al. 2023 meta-analysis; regional generalisations replaced by named sources; link to Ch. 8.
 - **Ch. 5:** Matthias's responsibility gap described as he states it; Greene separated from Haidt; dual-process theory no longer called "the default"; automation bias sourced (Goddard et al. 2012); an unsourced negative claim about reviews removed; SEP revision dates updated; links to Ch. 3 and 8.
 - **Ch. 6:** *cogito ergo sum* no longer attributed to the *Meditations*; the Butlin verdict attributed to the 2023 preprint; Cogitate results stated as in the paper; SEP date corrected; unsourced Beauvoir clause and regional generalisations removed; link to Ch. 8.
-- **Ch. 8:** productivity evidence (Brynjolfsson et al. 2025); the EU AI Act; Mitchell & Krakauer 2023 for the other side of debate 8.1; the Ch. 1 cross-reference made accurate.
+- **Ch. 8:** productivity evidence (Brynjolfsson et al. 2025); the EU AI Act; Mitchell & Krakauer's 2023 survey of the debate in debate 8.1; the Ch. 1 cross-reference made accurate.
 - Terms unified: *beneficence* "làm điều tốt", *libertarianism* "tự do luận", *candidate* "ứng viên"; Vallor's *technomoral wisdom* "khôn ngoan công nghệ – đạo đức".
-- 5 new sources; author list of Koo et al. 2024 completed.
+- 6 new sources (including the 2023 Butlin et al. report, now cited for its own verdict); author list of Koo et al. 2024 completed; SEP "Stoicism" and "Buddha" entries given their real authors and dates.
 
 ## [1.6.1] — Chapter 7: fixes after independent review
 

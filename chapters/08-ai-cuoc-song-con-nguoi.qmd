@@ -29,7 +29,7 @@ Searle, với Phòng Trung Hoa (Chương 6), lập luận rằng thao tác ký h
 
 **Phía kia:** Turing nhắc rằng ta cũng chỉ suy ra tâm trí của người khác từ hành vi của họ [@turing1950]. Mitchell và Krakauer (2023) mô tả đây là một cuộc tranh luận thực sự trong giới nghiên cứu AI, và đề xuất rằng có thể có những kiểu "hiểu" khác với kiểu của con người [@mitchellKrakauer2023]. Nếu một hệ thống trả lời đúng, linh hoạt, trong những tình huống chưa từng gặp, thì đòi hỏi thêm một thứ "hiểu thật sự" ở bên trong có phải là một tiêu chuẩn kép không?
 
-**Đánh giá:** Tranh luận này lặp lại tranh luận về ý thức ở Chương 6, nhưng với tiền cược thực tế hơn. Butlin và cộng sự xây dựng một bộ chỉ báo rút ra từ các lý thuyết khoa học về ý thức. Khi áp dụng cho các hệ AI họ xem xét, bản thảo năm 2023 của nhóm kết luận chưa hệ nào là ứng viên mạnh cho ý thức, dù cũng không thấy rào cản kỹ thuật hiển nhiên nào ngăn việc xây dựng một hệ như vậy; bản công bố năm 2026 phát triển tiếp bộ chỉ báo này [@butlin2026]. Đó là một đánh giá theo khung lý thuyết, không phải bằng chứng rằng máy chắc chắn không có ý thức. Với người dùng bình thường, hệ quả thực hành rõ ràng hơn kết luận triết học: hãy đối xử với câu trả lời của máy như một bản nháp cần kiểm tra, không như lời của một người hiểu mình.
+**Đánh giá:** Tranh luận này lặp lại tranh luận về ý thức ở Chương 6, nhưng với tiền cược thực tế hơn. Butlin và cộng sự xây dựng một bộ chỉ báo rút ra từ các lý thuyết khoa học về ý thức. Khi áp dụng cho các hệ AI họ xem xét, bản thảo năm 2023 của nhóm cho rằng chưa có hệ nào là ứng viên mạnh cho ý thức, dù cũng không thấy rào cản kỹ thuật hiển nhiên nào ngăn việc xây dựng một hệ như vậy [@butlin2023]; bản công bố năm 2026 phát triển tiếp bộ chỉ báo này [@butlin2026]. Đó là một đánh giá theo khung lý thuyết, không phải bằng chứng rằng máy chắc chắn không có ý thức. Với người dùng bình thường, hệ quả thực hành rõ ràng hơn kết luận triết học: hãy đối xử với câu trả lời của máy như một bản nháp cần kiểm tra, không như lời của một người hiểu mình.
 
 ## 4. AI trong công việc: việc làm, ý nghĩa và phẩm giá
 
@@ -81,7 +81,7 @@ Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quy
 ## Nghiên cứu thực nghiệm nói gì?
 
 - **Thiên lệch là có thật và đo được:** thuật toán y tế dùng chi phí thay cho nhu cầu đã đánh giá thấp nhu cầu của bệnh nhân da đen; đổi biến mục tiêu làm giảm thiên lệch [@obermeyer2019bias].
-- **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, đã có bằng chứng về năng suất ở một số công việc [@brynjolfsson2025], nhưng bằng chứng về thay thế việc làm còn ít [@eloundou2024gpts].
+- **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, đã có bằng chứng về năng suất ở một số công việc [@brynjolfsson2025], còn nghiên cứu của Eloundou và cộng sự chỉ đo mức "phơi nhiễm" của nhiệm vụ; bằng chứng về thay thế việc làm còn ít [@eloundou2024gpts].
 - **Quan hệ với chatbot có thể mang lại cảm giác được hỗ trợ:** một nghiên cứu định tính ghi nhận điều này qua lời kể của 18 người dùng; nghiên cứu ấy không đo mức độ phổ biến hay tác động lâu dài [@skjuve2021replika].
 - **AI trong y tế còn những giới hạn đã được nêu rõ:** thiên lệch, quyền riêng tư và bảo mật, thiếu minh bạch [@topol2019].
 - **Theo đánh giá dựa trên các chỉ báo rút ra từ lý thuyết khoa học về ý thức, chưa hệ AI nào được xét là ứng viên mạnh cho ý thức.** Đây là một đánh giá theo khung lý thuyết, không phải chứng minh rằng chúng không có ý thức [@butlin2026].
@@ -117,7 +117,7 @@ Thay vì hỏi "phương Đông nghĩ gì về AI", hãy đặt cạnh nhau nh�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: thêm bằng chứng về năng suất (Brynjolfsson và cộng sự 2025), Đạo luật AI của Liên minh châu Âu, và phía "máy có thể hiểu" trong Tranh luận 8.1 (Mitchell và Krakauer 2023).
+- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: thêm bằng chứng về năng suất (Brynjolfsson và cộng sự 2025), Đạo luật AI của Liên minh châu Âu, và tổng quan của Mitchell và Krakauer (2023) về cuộc tranh luận trong Tranh luận 8.1.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Mới — mời góp ý.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

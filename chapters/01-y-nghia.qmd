@@ -60,7 +60,7 @@ Thaddeus Metz, trong *Meaning in Life: An Analytic Study* (2013), đề xuất l
 
 Tâm lý học đương đại phân biệt ba khía cạnh của ý nghĩa: **tính mạch lạc** (đời sống có thể hiểu được), **mục đích** (có định hướng, mục tiêu), và **tính quan trọng** (đời sống có giá trị, đáng sống). Ba khía cạnh này được Martela và Steger (2016) hệ thống hoá [@martelaSteger2016] và được King và Hicks (2021) tổng quan trong *Annual Review of Psychology* [@kingHicks2021].
 
-Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của Steger và cộng sự (2006), phân biệt *sự hiện diện* của ý nghĩa và *sự tìm kiếm* ý nghĩa [@steger2006]. Baumeister và cộng sự (2013) cho thấy hạnh phúc và ý nghĩa khác nhau: hạnh phúc gắn với nhận lấy, tập trung vào hiện tại; ý nghĩa gắn với cho đi, tích hợp quá khứ–hiện tại–tương lai, và đôi khi chấp nhận khổ đau [@baumeister2013]. Baumeister (1991) đã trình bày sớm hơn bốn nhu cầu của ý nghĩa: mục đích, giá trị, hiệu lực, và lòng tự trọng [@baumeister1991]. Seligman, trong *Authentic Happiness* (2002), coi đời sống có ý nghĩa là một trong những dạng của đời sống tốt [@seligman2002].
+Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của Steger và cộng sự (2006), phân biệt *sự hiện diện* của ý nghĩa và *sự tìm kiếm* ý nghĩa [@steger2006]. Baumeister và cộng sự (2013) cho thấy hạnh phúc và ý nghĩa khác nhau: hạnh phúc gắn với nhận lấy, tập trung vào hiện tại; ý nghĩa gắn với cho đi, tích hợp quá khứ–hiện tại–tương lai, và đôi khi chấp nhận khổ đau [@baumeister2013]. Baumeister (1991) đã trình bày sớm hơn bốn nhu cầu của ý nghĩa: mục đích, giá trị, hiệu lực, và lòng tự trọng [@baumeister1991]. Seligman, trong *Authentic Happiness* (2002), phân biệt ba kiểu đời sống: đời sống dễ chịu, đời sống tốt (dấn thân) và đời sống có ý nghĩa [@seligman2002].
 
 Một meta-analysis của Cohen, Bavishi và Rozanski (2016) trên 10 nghiên cứu tiền cứu, tổng cộng 136.265 người, cho thấy mục đích sống cao hơn gắn với nguy cơ tử vong do mọi nguyên nhân thấp hơn khoảng 17% (tỷ số nguy cơ gộp 0,83) [@cohen2016].
 
@@ -79,7 +79,7 @@ Mục này không so sánh "phương Đông" với "phương Tây" như hai kh�
 
 - Ý nghĩa là một câu hỏi hay một chùm câu hỏi? "Ý nghĩa của cuộc sống" (mục đích của vũ trụ) và "ý nghĩa trong cuộc sống" (đời tôi có đáng sống không) có phải là cùng một câu hỏi?
 - Ý nghĩa có cần giá trị khách quan không, hay cảm nhận chủ quan là đủ?
-- Liệu AI và y sinh học có thay đổi ý nghĩa của lao động, chữa bệnh và chăm sóc — khi máy móc làm được nhiều việc mà trước đây chỉ con người làm được? (Xem Chương 8, mục 4.)
+- Liệu AI và y sinh học có thay đổi ý nghĩa của lao động, chữa bệnh và chăm sóc — khi máy móc làm được nhiều việc mà trước đây chỉ con người làm được? (Xem Chương 8, mục 4–6.)
 - Cái chết làm gì với ý nghĩa? (Xem Chương 4.)
 - Khổ đau phá huỷ ý nghĩa, hay tạo ra ý nghĩa? (Xem Chương 7.)
 
