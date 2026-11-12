@@ -14,7 +14,7 @@ Melzack và Wall, trong lý thuyết cổng kiểm soát cơn đau (1965), *Scie
 
 Simone Weil (1909–1943), trong tiểu luận "L'amour de Dieu et le malheur" (Tình yêu Thiên Chúa và sự bất hạnh), tách *malheur* (bất hạnh, hay khổ nạn) khỏi khổ đau thông thường: trong lĩnh vực khổ đau, bất hạnh là một thứ riêng biệt, khác hẳn khổ đau đơn thuần. Theo bà, chỉ có bất hạnh thật sự khi một biến cố nhổ bật một đời sống và chạm tới nó, trực tiếp hay gián tiếp, trên mọi phương diện, xã hội, tâm lý và thể xác, trong đó yếu tố xã hội là cốt yếu [@weil1962]. Khái niệm này được hun đúc bởi kinh nghiệm làm công nhân nhà máy của bà, nơi nỗi đau thể xác đi cùng sự giày vò tâm lý và sự hạ thấp phẩm giá xã hội [@sepWeil]. Với người làm y sinh, đây là lời nhắc rằng khổ đau của người bệnh có thể nằm cả ở vị thế xã hội của họ, không chỉ ở cơ thể.
 
-Martha Nussbaum, trong *Upheavals of Thought* (2001), lập luận rằng cảm xúc không phải là những lực xa lạ, mà là những phản ứng có sức phân định cao trước điều có giá trị và quan trọng [@nussbaum2001]. Theo tóm tắt của Curtin, với Nussbaum, cảm xúc là những đánh giá giá trị, gán tầm quan trọng lớn cho những người và những điều ta không kiểm soát được đối với sự hưng thịnh của chính ta; cuốn sách mở đầu bằng nỗi đau buồn của bà khi mẹ mất đột ngột [@curtin2002]. Hiểu như vậy, nỗi đau mất người thân cũng là một đánh giá về việc người ấy quan trọng thế nào với đời ta.
+Martha Nussbaum, trong *Upheavals of Thought* (2001), lập luận rằng cảm xúc không phải là những lực xa lạ, mà là những phản ứng thông minh trước điều có giá trị và quan trọng. Tên sách lấy từ chữ của Proust, người gọi cảm xúc là "những biến động địa chất của tư tưởng" [@nussbaum2001, tr. 1]. Theo tóm tắt của Curtin, với Nussbaum, cảm xúc là những đánh giá giá trị, gán tầm quan trọng lớn cho những người và những điều ta không kiểm soát được đối với sự hưng thịnh của chính ta; cuốn sách mở đầu bằng nỗi đau buồn của bà khi mẹ mất đột ngột [@curtin2002]. Hiểu như vậy, nỗi đau mất người thân cũng là một đánh giá về việc người ấy quan trọng thế nào với đời ta.
 
 Scarantino và de Sousa xếp Nussbaum, cùng Solomon và Neu, vào hướng đồng nhất cảm xúc với phán đoán, theo truyền thống Khắc kỷ, dù bà đã bác bỏ cái nhãn "thuyết phán đoán". Những người phê phán cho rằng hướng này khó giải thích vì sao cảm xúc thúc đẩy hành động, cảm xúc được trải nghiệm như thế nào, và cảm xúc ở động vật và trẻ nhỏ. Những người bảo vệ đáp lại bằng cách làm rõ cảm xúc là loại phán đoán nào; nhưng theo hai tác giả, nếu khái niệm "phán đoán" được nới rộng quá mức, việc đồng nhất cảm xúc với phán đoán chỉ còn đúng một cách tầm thường [@sepEmotion].
 
@@ -143,7 +143,7 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.10.0. Ghi tên tiếng Việt của Cuong Tu Nguyen (Nguyễn Tự Cường); mục SEP "Buddha" ghi tên tác giả (Siderits), ấn bản được ghi trong Tài liệu tham khảo.
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Ghi tên tiếng Việt của Cuong Tu Nguyen (Nguyễn Tự Cường); thêm số trang cho Nussbaum; mục SEP "Buddha" ghi tên tác giả (Siderits), ấn bản được ghi trong Tài liệu tham khảo.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
