@@ -87,7 +87,7 @@ Câu hỏi này nghe như của y học, nhưng nó có một phần triết h�
 
 - **Tiêu chuẩn tuần hoàn – hô hấp:** chết là khi tuần hoàn và hô hấp ngừng không thể đảo ngược. *Phản biện:* chưa có đồng thuận về việc khi nào sự ngừng ấy được coi là không thể đảo ngược. Hiểu theo nghĩa chặt nhất, tiêu chuẩn này sẽ gây khó cho việc hiến tạng sau ngừng tuần hoàn. Vì vậy, nhiều chính sách dùng chữ "vĩnh viễn" (tuần hoàn không tự phục hồi và sẽ không được hồi sức) thay cho "không thể đảo ngược".
 - **Tiêu chuẩn toàn não:** theo câu chữ của luật mẫu Hoa Kỳ, chết là khi mọi chức năng của toàn bộ não, gồm cả thân não, ngừng không thể đảo ngược. Hướng dẫn đồng thuận năm 2023 hiểu câu đó là mất vĩnh viễn chức năng của não *như một tổng thể*, biểu hiện bằng hôn mê, mất các phản xạ thân não và ngừng thở [@greer2023brainDeath]. Lý do được nêu là não giữ cho cơ thể vận hành như một thể thống nhất. *Phản biện:* một số chức năng hợp nhất của cơ thể vẫn có thể tiếp tục sau chết toàn não. Ngoài ra, các xét nghiệm lâm sàng chỉ kiểm tra khả năng có ý thức, các phản xạ thân não và khả năng tự thở, chứ không phải mọi chức năng của não.
-- **Tiêu chuẩn não bậc cao:** chết là khi mất vĩnh viễn khả năng có ý thức. *Phản biện:* theo quan điểm này, một số người vẫn tự thở sẽ bị coi là đã chết. Theo SEP (bản cập nhật 2026), chưa nơi nào trên thế giới công nhận tiêu chuẩn này về mặt pháp lý, và chưa có xét nghiệm được kiểm chứng để xác định nó.
+- **Tiêu chuẩn não bậc cao:** chết là khi mất vĩnh viễn khả năng có ý thức. *Phản biện:* theo quan điểm này, một số người vẫn tự thở sẽ bị coi là đã chết. Theo Omelianchuk và DeGrazia, chưa nơi nào trên thế giới công nhận tiêu chuẩn này về mặt pháp lý, và chưa có xét nghiệm được kiểm chứng để xác định nó [@sepDeathDefinition].
 
 Đạo luật mẫu của Hoa Kỳ về xác định tử vong (UDDA), mà các bang có thể ban hành, chấp nhận cả tiêu chuẩn tuần hoàn – hô hấp lẫn tiêu chuẩn toàn não, tuỳ điều nào được đáp ứng trước [@sepDeathDefinition]. Tranh luận này cho thấy định nghĩa cái chết phụ thuộc cả vào khoa học lẫn vào một câu hỏi triết học: con người, trước hết, là một cơ thể sống, hay một chủ thể có ý thức?
 
@@ -127,7 +127,7 @@ Câu hỏi này nghe như của y học, nhưng nó có một phần triết h�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.9.0. Thêm Simone de Beauvoir: sống sự hữu hạn với đam mê, phê phán Heidegger, và tuổi già (*La Vieillesse*).
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Dẫn trực tiếp mục SEP về định nghĩa cái chết thay cho ghi chú năm cập nhật trong bài.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

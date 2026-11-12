@@ -93,7 +93,7 @@ Bài kệ khép lại *Cư trần lạc đạo phú* (Phú ở cõi trần vui �
 
 Đặt cạnh câu hỏi về khổ đau, bài kệ gợi ý rằng điều cần không phải là trốn khỏi đời, mà là một tâm không bám víu (*vô tâm*) ngay giữa những việc bình thường nhất: ăn khi đói, ngủ khi mệt.
 
-**Một tiếng nói thận trọng.** Cuong Tu Nguyen, trong nghiên cứu về *Thiền uyển tập anh* (1997), thách thức cách đọc quen thuộc coi các dòng truyền thừa trước Trúc Lâm được chép trong văn bản ấy là lịch sử thể chế. Theo ông, Thiền ở Việt Nam thời trung đại giống một "cộng đồng tưởng tượng", một tập hợp thái độ và phong cách lan toả, hơn là một tổ chức có thể chế [@nguyenCuong1997; @phan1998]. Điều đó không phủ nhận việc tu Thiền đã thực sự diễn ra. Nó chỉ nhắc ta đọc câu chuyện về các dòng thiền như một truyền thống được kể lại, chứ không chỉ như biên niên. Luận điểm của ông nói về các dòng thiền ấy, không trực tiếp về Trúc Lâm.
+**Một tiếng nói thận trọng.** Cuong Tu Nguyen (Nguyễn Tự Cường), trong nghiên cứu về *Thiền uyển tập anh* (1997), thách thức cách đọc quen thuộc coi các dòng truyền thừa trước Trúc Lâm được chép trong văn bản ấy là lịch sử thể chế. Theo ông, Thiền ở Việt Nam thời trung đại giống một "cộng đồng tưởng tượng", một tập hợp thái độ và phong cách lan toả, hơn là một tổ chức có thể chế [@nguyenCuong1997; @phan1998]. Điều đó không phủ nhận việc tu Thiền đã thực sự diễn ra. Nó chỉ nhắc ta đọc câu chuyện về các dòng thiền như một truyền thống được kể lại, chứ không chỉ như biên niên. Luận điểm của ông nói về các dòng thiền ấy, không trực tiếp về Trúc Lâm.
 
 **Thích Nhất Hạnh và Phật giáo dấn thân.** Thích Nhất Hạnh (1926–2022) sinh ở miền Trung Việt Nam. Theo tiểu sử do Làng Mai công bố, trong chiến tranh Việt Nam ông khởi xướng phong trào Phật giáo dấn thân và đặt ra thuật ngữ này trong sách *Vietnam: Lotus in a Sea of Fire*; về sau ông lập Làng Mai [@plumVillage]. Về khổ đau, ông nhận xét rằng khi khổ, ta thường nghĩ khổ là tất cả những gì đang có, còn hạnh phúc thuộc về một lúc khác, một nơi khác. Ông viết rằng khổ và vui "không phải hai thứ tách rời", và phản đối ý cho rằng sống khôn ngoan là phải "vượt lên" cả khổ lẫn vui: "không có bùn thì không có sen" [@nhatHanh2014].
 
@@ -134,16 +134,16 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 - Kabat-Zinn (1990), *Full Catastrophe Living* [@kabatZinn1990]
 - Tedeschi & Calhoun (1996) [@tedeschiCalhoun1996]
 - Cassell (1982) [@cassell1982]
-- SEP "Buddha", ấn bản Mùa xuân 2019 [@buddhaSEP]
+- Siderits, SEP "Buddha" [@buddhaSEP]
 - Nguyễn Tài Thư (2009), "Xu hướng nhập thế trong tư tưởng Phật giáo Trần Nhân Tông" [@nguyenTaiThu2009]
-- Cuong Tu Nguyen (1997), *Zen in Medieval Vietnam* [@nguyenCuong1997]
+- Cuong Tu Nguyen (Nguyễn Tự Cường) (1997), *Zen in Medieval Vietnam* [@nguyenCuong1997]
 - Thích Nhất Hạnh (2014), *No Mud, No Lotus* [@nhatHanh2014]
 - King (2009), *Socially Engaged Buddhism* [@king2009]
 
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.9.0. Thêm Simone Weil về bất hạnh (*malheur*) và Martha Nussbaum về cảm xúc như những đánh giá, mỗi người kèm một phê phán.
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Ghi tên tiếng Việt của Cuong Tu Nguyen (Nguyễn Tự Cường); mục SEP "Buddha" ghi tên tác giả (Siderits), ấn bản được ghi trong Tài liệu tham khảo.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

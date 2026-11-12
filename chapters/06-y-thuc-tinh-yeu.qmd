@@ -44,7 +44,7 @@ Cả hai lý thuyết đều không giải quyết vấn đề khó; IIT bị ph
 
 Khoa học thần kinh theo dõi các tương quan thần kinh của ý thức (*neural correlates of consciousness*, NCC): thị giác mù (*blindsight*), gây mê, giấc ngủ, não tách đôi. Dehaene cho thấy ý thức gắn với sự phát sóng toàn cục; Tononi cho thấy nó gắn với tích hợp. Nhưng *qualia* không thể so sánh trực tiếp giữa hai người, và ý thức là đặc biệt vì đối tượng và chủ thể là cùng một thứ.
 
-Điểm khởi đầu nên là: Van Gulick (2004), SEP "Consciousness" (xuất bản lần đầu 18 tháng 6 năm 2004, sửa đổi lớn 14 tháng 1 năm 2014) [@sepConsciousness]; Chalmers (1996) [@chalmers1996]; Dehaene (2014) [@dehaene2014].
+Điểm khởi đầu nên là: Van Gulick (2004), SEP "Consciousness" [@sepConsciousness]; Chalmers (1996) [@chalmers1996]; Dehaene (2014) [@dehaene2014].
 :::
 
 ## 5. Tình yêu: eros, philia, agape — và khoa học về gắn bó
@@ -55,7 +55,7 @@ Erich Fromm, trong *The Art of Loving* (1956), tên đầy đủ *The Art of Lov
 
 Tâm lý học gắn bó đưa ra một bức tranh khác, bổ sung chứ không đối lập. John Bowlby, trong *Attachment and Loss, Vol. 1: Attachment* (1969), cho rằng gắn bó là cơ chế sinh tồn [@bowlby1969]. Mary Ainsworth và cộng sự (1978), trong *Patterns of Attachment: A Psychological Study of the Strange Situation*, phân biệt gắn bó an toàn, lo âu, và tránh né [@ainsworth1978]. Robert Sternberg (1986), trong "A Triangular Theory of Love", *Psychological Review*, đề xuất ba thành phần: thân mật, đam mê, và cam kết [@sternberg1986]. Các nghiên cứu hình ảnh não cho thấy tình yêu lãng mạn kích hoạt những vùng thuộc hệ thống khen thưởng, giàu dopamine [@bartels2000love; @fisher2005love] — nhưng biết cơ chế không giải thích được ý nghĩa của tình yêu, giống như biết về sóng âm không giải thích được ý nghĩa của một bản nhạc.
 
-Helm (2005), SEP "Love" (xuất bản lần đầu 8 tháng 4 năm 2005, sửa đổi 2009, 2013, 2021), là điểm khởi đầu tốt cho triết học về tình yêu [@sepLove].
+Helm (2005), SEP "Love", là điểm khởi đầu tốt cho triết học về tình yêu [@sepLove].
 
 ## 6. Tranh luận 6.2: AI có thể có ý thức không?
 
@@ -96,7 +96,7 @@ Butlin, Long, Bayne và cộng sự (2026), "Identifying Indicators of Conscious
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.9.0. Thêm quan niệm của Beauvoir về tình yêu đích thực như sự công nhận lẫn nhau của hai tự do.
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Ngày xuất bản và sửa đổi của các mục SEP được ghi trong Tài liệu tham khảo, không ghi trong bài.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

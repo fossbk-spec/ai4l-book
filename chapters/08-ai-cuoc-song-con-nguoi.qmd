@@ -43,6 +43,8 @@ Câu hỏi triết học nằm phía sau con số. Nếu máy làm tốt hơn ph
 
 Chương 6 hỏi tình yêu là cảm xúc, lựa chọn hay thực hành. Ngày nay có người trò chuyện với một "bạn đồng hành" AI mỗi ngày. Skjuve và cộng sự (2021) phỏng vấn 18 người dùng một ứng dụng chatbot bạn đồng hành, những người đã coi chatbot là bạn. Họ kể rằng quan hệ ấy phát triển từ hời hợt tới sâu sắc, mang lại cảm giác được lắng nghe và được hỗ trợ [@skjuve2021replika]. Đây là trải nghiệm tự báo cáo của một nhóm nhỏ được chọn: nó cho thấy những trải nghiệm như vậy có xảy ra, chứ không cho biết chúng phổ biến tới đâu hay tốt hay xấu về lâu dài.
 
+Các nghiên cứu mới hơn cho một bức tranh hai mặt. Trong một loạt nghiên cứu, gồm một nghiên cứu theo dõi trong một tuần, De Freitas và cộng sự (2025) thấy trò chuyện với một AI bạn đồng hành làm giảm cảm giác cô đơn ngay sau mỗi lần dùng [@defreitas2025]. Fang và cộng sự (2025) cho 981 người dùng ChatGPT, một trợ lý AI đa năng chứ không phải ứng dụng bạn đồng hành, trong một thử nghiệm ngẫu nhiên có đối chứng kéo dài bốn tuần. Nghiên cứu không thấy cách trò chuyện được phân công (văn bản hay giọng nói, chủ đề cá nhân hay không) tạo ra khác biệt đáng kể nào; nhưng những người tự nguyện dùng chatbot nhiều hơn lại có kết quả tâm lý – xã hội xấu hơn, và người càng tin và thấy chatbot cuốn hút thì càng dễ phụ thuộc cảm xúc [@fang2025]. Đây là bản tiền ấn phẩm chưa qua bình duyệt, và vì mức sử dụng do người tham gia tự chọn, nó chỉ cho thấy một mối tương quan, chưa cho thấy dùng nhiều gây ra kết quả xấu. Một khảo sát 1006 sinh viên dùng Replika thấy họ cô đơn hơn sinh viên nói chung nhưng vẫn cảm nhận được nhiều hỗ trợ xã hội [@maples2024]; khảo sát này không có nhóm đối chứng. Gộp lại, có bằng chứng về sự nhẹ nhõm ngắn hạn, có tín hiệu đáng lưu ý ở những người dùng nhiều hơn, và chưa có bằng chứng về tác động lâu dài.
+
 Trong chăm sóc người cao tuổi, Sharkey và Sharkey (2012) nêu các lo ngại đạo đức khi dùng robot:
 - giảm tiếp xúc giữa người với người;
 - người già cảm thấy bị đối xử như đồ vật và mất quyền kiểm soát;
@@ -82,7 +84,7 @@ Lập luận này không chỉ áp dụng cho chiến tranh. Mỗi khi một quy
 
 - **Thiên lệch là có thật và đo được:** thuật toán y tế dùng chi phí thay cho nhu cầu đã đánh giá thấp nhu cầu của bệnh nhân da đen; đổi biến mục tiêu làm giảm thiên lệch [@obermeyer2019bias].
 - **Tác động lên việc làm phụ thuộc vào công nghệ và bối cảnh:** robot công nghiệp làm giảm việc làm và tiền lương ở các vùng tiếp nhận nhiều tại Mỹ, 1990–2007 [@acemoglu2020robots]; với mô hình ngôn ngữ, đã có bằng chứng về năng suất ở một số công việc [@brynjolfsson2025], còn nghiên cứu của Eloundou và cộng sự chỉ đo mức "phơi nhiễm" của nhiệm vụ; bằng chứng về thay thế việc làm còn ít [@eloundou2024gpts].
-- **Quan hệ với chatbot có thể mang lại cảm giác được hỗ trợ:** một nghiên cứu định tính ghi nhận điều này qua lời kể của 18 người dùng; nghiên cứu ấy không đo mức độ phổ biến hay tác động lâu dài [@skjuve2021replika].
+- **Quan hệ với chatbot có thể mang lại cảm giác được hỗ trợ và giảm cô đơn trong ngắn hạn:** điều này được ghi nhận qua lời kể của người dùng và qua các thí nghiệm ngắn hạn; trong một thử nghiệm bốn tuần (tiền ấn phẩm), người tự nguyện dùng nhiều hơn có kết quả xấu hơn, nhưng đó mới là tương quan, và các nghiên cứu này đều ngắn hạn, chưa cho biết tác động lâu dài [@skjuve2021replika; @defreitas2025; @fang2025].
 - **AI trong y tế còn những giới hạn đã được nêu rõ:** thiên lệch, quyền riêng tư và bảo mật, thiếu minh bạch [@topol2019].
 - **Theo đánh giá dựa trên các chỉ báo rút ra từ lý thuyết khoa học về ý thức, chưa hệ AI nào được xét là ứng viên mạnh cho ý thức.** Đây là một đánh giá theo khung lý thuyết, không phải chứng minh rằng chúng không có ý thức [@butlin2026].
 :::
@@ -117,7 +119,7 @@ Thay vì hỏi "phương Đông nghĩ gì về AI", hãy đặt cạnh nhau nh�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: thêm bằng chứng về năng suất (Brynjolfsson và cộng sự 2025), Đạo luật AI của Liên minh châu Âu, và tổng quan của Mitchell và Krakauer (2023) về cuộc tranh luận trong Tranh luận 8.1.
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Thêm bằng chứng mới về chatbot bạn đồng hành và chatbot đa năng: giảm cô đơn ngắn hạn (De Freitas và cộng sự 2025), mối tương quan giữa dùng nhiều và kết quả xấu hơn (Fang và cộng sự 2025, tiền ấn phẩm), và khảo sát người dùng Replika (Maples và cộng sự 2024).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Mới — mời góp ý.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
