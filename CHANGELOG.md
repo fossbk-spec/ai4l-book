@@ -6,7 +6,7 @@ All notable changes to *Cuộc sống và con người* are documented here. The
 
 This release touches several chapters; each change is small and listed below.
 
-- **Ch. 1:** the "counting blades of grass" example, which is Rawls's and not in Wolf's book, replaced by Wolf's own Sisyphus Fulfilled case (after Richard Taylor, whose conclusion she rejects), with page references; Wolf's formula quoted with its page; the phrase "leap of faith" noted as not occurring in Kierkegaard's published works (McKinnon 1993); Camus's closing sentence given in French.
+- **Ch. 1:** the "counting blades of grass" example, which is Rawls's and not in Wolf's book, replaced by Wolf's own Sisyphus Fulfilled case (after Richard Taylor, whose conclusion she rejects), with page references; Wolf's formula quoted with its page; the phrase "leap of faith" noted as not occurring in Kierkegaard's Danish published works (McKinnon 1993), and the timeline entry reworded to match; Camus's closing sentence given in French.
 - **Ch. 8:** newer evidence on companion and general-purpose chatbots: short-term reductions in loneliness (De Freitas et al. 2025), a four-week randomized trial with ChatGPT in which more voluntary use went with worse outcomes (Fang et al. 2025, preprint; correlational), and a survey of student Replika users (Maples et al. 2024), each with its limits.
 - **Ch. 7:** Vietnamese name of Cuong Tu Nguyen (Nguyễn Tự Cường) added; Nussbaum cited with page (p. 1), including Proust's "geological upheavals of thought" behind the book's title.
 - **Ch. 1, 4, 5, 6, 7:** SEP edition, publication and revision dates moved out of the text into the references; in Ch. 4 the higher-brain claim is now attributed to Omelianchuk and DeGrazia and cited.
