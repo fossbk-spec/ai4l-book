@@ -2,7 +2,7 @@
 
 Bảng này giúp tra nhanh mười bốn nhà tư tưởng mà cuốn sách bàn tới nhiều nhất và có vai trò lớn nhất trong lập luận của các chương. Bảng không nhằm khôi phục danh sách của phiên bản đầu, và cũng không phải bảng xếp hạng tầm vóc triết gia nói chung. Mỗi người được chọn theo cùng một bộ tiêu chí: liên quan tới các câu hỏi của sách, được sách bàn tới thực chất, giữ vai trò trụ cột trong một chương, góp vào sự cân bằng giữa các truyền thống, và có nguồn đáng tin cậy.
 
-Bảng còn hai khoảng trống mà cuốn sách thừa nhận: chưa có nhà tư tưởng nữ nào và chưa có nhà tư tưởng Việt Nam nào được bàn đủ sâu để có mặt ở đây. Những khoảng trống này sẽ được lấp bằng nội dung mới trong các chương, không phải bằng cách thêm tên vào bảng.
+Khi bảng được lập, cuốn sách còn hai khoảng trống: chưa có nhà tư tưởng nữ nào và chưa có nhà tư tưởng Việt Nam nào được bàn đủ sâu. Các chương nay đã có nội dung mới về cả hai, nhưng bảng không thêm tên. Về tư tưởng Việt Nam, xem Trần Nhân Tông và Thiền Trúc Lâm, Thích Nhất Hạnh và Phật giáo dấn thân ở [Chương 7](chapters/07-kho-dau-vo-thuong.qmd). Về các nhà tư tưởng nữ, xem Simone de Beauvoir ở [Chương 4](chapters/04-cai-chet-thoi-gian.qmd) và [Chương 6](chapters/06-y-thuc-tinh-yeu.qmd), Iris Murdoch ở [Chương 5](chapters/05-dao-duc.qmd), Simone Weil và Martha Nussbaum ở [Chương 7](chapters/07-kho-dau-vo-thuong.qmd).
 
 | Nhà tư tưởng | Thời gian | Truyền thống | Ý chính trong sách | Chương |
 |---|---|---|---|---|
