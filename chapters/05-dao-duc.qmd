@@ -18,7 +18,7 @@ Kant, trong *Groundwork* (1785), xây dựng đạo đức trên lý trí thuầ
 
 Iris Murdoch (1919–1999), trong *The Sovereignty of Good* (1970), cho rằng đời sống đạo đức không chỉ gồm những lúc ta cân nhắc và lựa chọn. Ví dụ nổi tiếng của bà là M, một người mẹ chồng, vốn thấy con dâu D là suồng sã, thiếu lễ độ, lúc nào cũng trẻ con. Bề ngoài M vẫn cư xử như cũ (Murdoch còn hình dung D đã đi xa hay đã mất). Nhưng M bắt đầu tự xét lại, nhận ra sự ghen tị và thói trưởng giả của chính mình, cố nhìn D theo một cách mới, và dần thấy D không thô tục mà giản dị, không trẻ con mà trẻ trung. Murdoch giả định cái nhìn mới này đúng, dù thừa nhận nó không nhất thiết đúng. Theo Murdoch, sự thay đổi trong cách nhìn ấy đã là một hoạt động đạo đức. Bà mượn từ Simone Weil chữ "chú tâm" (*attention*) để chỉ "một cái nhìn công bằng và yêu thương hướng vào một thực tại cá biệt", và coi đó là dấu hiệu đặc trưng của tác nhân đạo đức [@murdoch1970; @sepMurdoch]. Murdoch thường được xếp vào đạo đức học đức hạnh, nhưng Blum cho rằng bà không phải một nhà lý thuyết đức hạnh: bà không coi đức hạnh là khái niệm nền tảng hơn các khái niệm đạo đức khác. Blum cũng chỉ ra một giới hạn: Murdoch hầu như không bàn tới những nguồn xã hội làm méo mó nhân cách đạo đức, những điều ta tiếp nhận một cách thụ động, như các định kiến ngầm [@sepMurdoch].
 
-Các mục SEP nên bắt đầu là: Sinnott-Armstrong, "Consequentialism" (xuất bản lần đầu 20 tháng 5 năm 2003, sửa đổi 4 tháng 10 năm 2023) [@sepConsequentialism]; Alexander và Moore, "Deontological Ethics" (xuất bản lần đầu 21 tháng 11 năm 2007, sửa đổi 11 tháng 12 năm 2024) [@sepDeontology]; Hursthouse và Pettigrove, "Virtue Ethics" (xuất bản lần đầu 18 tháng 7 năm 2003, sửa đổi gần nhất 3 tháng 5 năm 2026) [@sepVirtueEthics].
+Các mục SEP nên bắt đầu là: Sinnott-Armstrong, "Consequentialism" [@sepConsequentialism]; Alexander và Moore, "Deontological Ethics" [@sepDeontology]; Hursthouse và Pettigrove, "Virtue Ethics" [@sepVirtueEthics].
 
 ## 2. Tranh luận 5.1: Bài toán xe điện — trực giác của ta nói gì?
 
@@ -91,7 +91,7 @@ Phán đoán đạo đức của con người không thuần lý trí: Haidt cho
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.9.0. Thêm Iris Murdoch: sự chú tâm (*attention*) và ví dụ người mẹ chồng M, cùng một giới hạn (Blum, SEP).
+- **Cập nhật gần nhất:** phiên bản 1.10.0. Ngày xuất bản và sửa đổi của các mục SEP được ghi trong Tài liệu tham khảo, không ghi trong bài.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
