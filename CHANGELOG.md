@@ -2,6 +2,16 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.9.0] — Women thinkers: Beauvoir, Murdoch, Weil, Nussbaum
+
+This is the release planned as 1.7.0. It is numbered 1.9.0 because 1.8.0 shipped first.
+
+- **Ch. 4:** Simone de Beauvoir on living one's finitude with passion, her criticism of Heidegger, and old age (*La Vieillesse*); a new row in the positions map, with her own later self-criticism.
+- **Ch. 5:** Iris Murdoch on attention and the example of M and D; Blum's points that she is not a virtue theorist and that she neglects the social sources of moral formation.
+- **Ch. 6:** Beauvoir on authentic love as the mutual recognition of two freedoms, against Sartre's love as conflict.
+- **Ch. 7:** Simone Weil on affliction (*malheur*) as social, psychological and physical, and its supernatural use, with the charge that she glorifies suffering and Thomas's defence; Martha Nussbaum on emotions as responses to value, with the standard objections to judgment theories and the reply to them.
+- 14 new sources; the SEP and IEP entries, the Weil text, the Cleary entry and the Crossref records were opened and checked.
+
 ## [1.8.0] — Light review pass: Chapters 1, 3, 5, 6 and 8
 
 Release 1.7.0 (women thinkers) is reserved and waits for the owner's choice of names.
