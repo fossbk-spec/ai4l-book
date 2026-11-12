@@ -2,6 +2,15 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.11.0] — Reference pages catch up with stage 5
+
+Only the reference pages (thinkers table, timeline, glossary, mind map) change; every entry restates what a chapter already says, with the chapter's sources.
+
+- **Thinkers table:** the note that the book has no women or Vietnamese thinkers is replaced by links to where they are now discussed (Ch. 4–7). The table itself keeps its fourteen names.
+- **Timeline:** Trần Nhân Tông; Beauvoir (1944, 1947, 1949, 1970); Murdoch (1970); Smart & Williams (1973); Hull (1986); Cuong Tu Nguyen (1997); Nussbaum (2001); Downes & Machery (2013); Thích Nhất Hạnh (2014); Hannon & Lewens (2018). Three older entries brought in line with the chapters: the *cogito* formula (Ch. 6, as corrected in 1.8.0), relativity as a philosophical argument against presentism (Ch. 4), and the closing note on traditions (method of 1.3.0).
+- **Glossary:** *malheur* (Weil), attention (Murdoch), nhập thế / xuất thế, engaged Buddhism.
+- **Mind map:** branch summaries name the stage-5 thinkers; Haidt and Greene listed separately, as in Ch. 5.
+
 ## [1.10.0] — Deferred fixes: Chapters 1, 4, 5, 6, 7 and 8
 
 This release touches several chapters; each change is small and listed below.

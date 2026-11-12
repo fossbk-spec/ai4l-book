@@ -8,9 +8,11 @@
 | *Anatta* (vô ngã) | Giáo lý Phật giáo: không có một cái tôi cố định, thường hằng; cái ta gọi là "tôi" là dòng chảy của các yếu tố thay đổi. | [2](chapters/02-ban-chat-con-nguoi.qmd), [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | *Anicca* (vô thường) | Mọi sự đều thay đổi, không có gì tồn tại mãi trong một trạng thái. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | *Ataraxia* | Sự an tĩnh của tâm hồn, không bị xáo trộn; với Epicurus, đó là hạnh phúc thật sự. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| Bất hạnh (*malheur*) | Khái niệm của Simone Weil: chỉ có bất hạnh thật sự khi một biến cố nhổ bật một đời sống và chạm tới nó, trực tiếp hay gián tiếp, trên mọi phương diện, xã hội, tâm lý và thể xác, trong đó yếu tố xã hội là cốt yếu; khác với khổ đau đơn thuần. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | Bất tương hợp cứng (*hard incompatibilism*) | Quan điểm cho rằng không có loại tự do nào, dù thế giới tất định hay không, đủ để con người chịu trách nhiệm đạo đức theo nghĩa mạnh. | [3](chapters/03-tu-do.qmd) |
 | Cảm thụ đau (*nociception*) | Quá trình thần kinh phát hiện và dẫn truyền kích thích có hại; khác với trải nghiệm đau. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | Chết não (chết theo tiêu chuẩn thần kinh) | Mất vĩnh viễn chức năng của toàn bộ não, gồm cả thân não; khác với trạng thái thực vật, vốn là rối loạn ý thức ở người còn sống. | [4](chapters/04-cai-chet-thoi-gian.qmd) |
+| Chú tâm (*attention*) | Chữ Murdoch mượn từ Simone Weil: một cái nhìn công bằng và yêu thương hướng vào một thực tại cá biệt; với Murdoch, sự thay đổi trong cách nhìn đã là một hoạt động đạo đức. | [5](chapters/05-dao-duc.qmd) |
 | Dãy A / dãy B | Hai cách sắp xếp thời gian của McTaggart: dãy A theo quá khứ, hiện tại, tương lai (có sự trôi qua); dãy B theo trước và sau (không có sự trôi qua). | [4](chapters/04-cai-chet-thoi-gian.qmd) |
 | *Dukkha* (khổ) | Tính chất bất toại nguyện của đời sống; chân lý đầu tiên trong Tứ Diệu Đế. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | *Eudaimonia* | Đời sống hưng thịnh, sống tốt theo Aristotle: hoạt động theo đức tính suốt một đời, không phải cảm giác vui nhất thời. | [1](chapters/01-y-nghia.qmd) |
@@ -20,6 +22,8 @@
 | Lý thuyết quản lý nỗi sợ cái chết (TMT) | Giả thuyết cho rằng văn hoá và lòng tự trọng giúp con người đối phó với nỗi sợ cái chết; hiệu ứng "nổi bật về tử vong" (*mortality salience*) của nó không tái tạo được trong Many Labs 4. | [4](chapters/04-cai-chet-thoi-gian.qmd) |
 | Lý thuyết thông tin tích hợp (IIT) | Ý thức tương ứng với mức độ thông tin được tích hợp trong một hệ thống, theo một cấu trúc nhân quả nhất định; đo bằng đại lượng Phi. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |
 | *Mauvaise foi* (ngụy tín) | Theo Sartre: tự lừa dối mình rằng mình không tự do, để trốn tránh trách nhiệm lựa chọn. | [3](chapters/03-tu-do.qmd) |
+| Nhập thế / xuất thế | Theo Nguyễn Tài Thư, xu hướng nhập thế trong tư tưởng Trần Nhân Tông là: dù đi tu, ông vẫn mang ý thức trách nhiệm với xã hội, và dòng thiền ông xây dựng vừa chú trọng thiền định, vừa quan tâm đến những vấn đề trần thế; ông phân biệt xu hướng này với tư tưởng xuất thế vốn có của Phật giáo. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
+| Phật giáo dấn thân (*engaged Buddhism*) | Theo tiểu sử do Làng Mai công bố, Thích Nhất Hạnh khởi xướng phong trào này trong chiến tranh Việt Nam và đặt ra thuật ngữ; theo Sallie King, làm vơi khổ cho con người, các loài và hành tinh là một phần của chính sự tu tập. | [7](chapters/07-kho-dau-vo-thuong.qmd) |
 | *Phronesis* (khôn ngoan thực hành) | Khả năng phán đoán đúng việc nên làm trong một hoàn cảnh cụ thể; đức tính trung tâm trong đạo đức của Aristotle. | [5](chapters/05-dao-duc.qmd) |
 | *Qualia* | Chất lượng chủ quan của trải nghiệm, "cảm giác như thế nào" khi thấy màu đỏ hay nếm vị ngọt. | [6](chapters/06-y-thuc-tinh-yeu.qmd) |
 | Tăng trưởng sau sang chấn (PTG) | Những thay đổi tích cực mà người ta báo cáo sau một biến cố đau thương; còn tranh luận là thay đổi thật hay ảo tưởng thích nghi. | [7](chapters/07-kho-dau-vo-thuong.qmd) |

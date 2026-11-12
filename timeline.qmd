@@ -24,8 +24,9 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | c. 170–180 | Marcus Aurelius, *Meditations*: làm chủ phán đoán, chấp nhận điều ngoài tầm kiểm soát. | 1, 7 |
 | Đầu thế kỷ 2 | *Enchiridion* của Epictetus (do Arrian biên soạn). | 7 |
 | c. 397–400 | Augustine, *Confessions*, Quyển XI: thời gian trong tâm hồn — hiện tại của quá khứ là ký ức, hiện tại của hiện tại là chú ý, hiện tại của tương lai là mong đợi. | 4 |
+| 1258–1308 | Trần Nhân Tông, được tôn là sơ tổ Thiền phái Trúc Lâm; nhường ngôi năm 1293, về sau xuất gia ở Yên Tử. | 7 |
 | 1265–1274 | Aquinas, *Summa Theologiae*: luật tự nhiên. | 5 |
-| 1641 | Descartes, *Meditations*: *cogito ergo sum*, tâm trí khác biệt với vật chất có quảng tính. | 6 |
+| 1641 | Descartes, *Meditations*: "tôi là, tôi hiện hữu" chắc chắn đúng mỗi khi tôi nghĩ tới nó; tâm trí khác biệt với vật chất có quảng tính (công thức "tôi tư duy, vậy tôi hiện hữu" có ở *Discours de la méthode*, 1637, và *Principia*, 1644). | 6 |
 | 1651 | Hobbes, *Leviathan*: chiến tranh của mọi người chống mọi người. | 2 |
 | 1677 | Spinoza, *Ethics* (xuất bản sau khi mất): thuyết tất định triệt để. | 3 |
 | 1689 [trang tựa 1690] | Locke, *Essay Concerning Human Understanding* và *Two Treatises of Government*: tờ giấy trắng. | 2, 6 |
@@ -60,14 +61,16 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | Thời gian | Mốc | Gắn với chương |
 |---|---|---|
 | 1903 | G. E. Moore, *Principia Ethica*: sai lầm tự nhiên hoá. | 5 |
-| 1905 / 1915 | Einstein, thuyết tương đối: tính đồng thời là tương đối, không có một hiện tại vũ trụ duy nhất. | 4 |
+| 1905 | Einstein, thuyết tương đối hẹp: hai sự kiện đồng thời hay không là tuỳ hệ quy chiếu; nhiều triết gia dùng điểm này để phản bác thuyết hiện tại (một lập luận triết học dựa trên vật lý, không phải kết quả của riêng vật lý). | 4 |
 | 1908 | McTaggart, "The Unreality of Time", *Mind*: dãy A và dãy B. | 4 |
 | 1927 | Heidegger, *Being and Time*: Dasein là hiện hữu-hướng-tới-cái-chết. | 4 |
 | 1930 | Freud, *Civilization and Its Discontents* (viết 1929): văn minh dựng trên kìm nén. | 2 |
 | 1942 | Camus, *The Myth of Sisyphus*. | 1, 7 |
 | 1943 | Sartre, *Being and Nothingness*: hiện hữu đi trước bản chất; "bị kết án phải tự do". | 1, 2, 3, 6 |
+| 1944 / 1947 | Beauvoir, *Pyrrhus et Cinéas* (1944): sống với sự hữu hạn của mình bằng đam mê; *Pour une morale de l'ambiguïté* (1947): đạo đức học về tự do và sự mơ hồ của thân phận con người. | 4 |
 | 1945 | Merleau-Ponty, *Phenomenology of Perception*: tâm trí nhập thân. | 6 |
 | 1946 / 1959 / 1962 | Frankl: tiếng Đức 1946; tiếng Anh 1959 là *From Death-Camp to Existentialism*; tên *Man's Search for Meaning* chỉ từ 1962. | 1, 7 |
+| 1949 | Beauvoir, *Le Deuxième Sexe*: tình yêu đích thực dựa trên sự công nhận lẫn nhau của hai tự do. | 6 |
 | 1950 | Turing, "Computing Machinery and Intelligence": thay câu hỏi "máy có suy nghĩ không?" bằng trò chơi bắt chước. | 8 |
 | 1956 | Fromm, *The Art of Loving*: tình yêu là nghệ thuật, thực hành, chăm sóc, trách nhiệm, tôn trọng, hiểu biết. | 6 |
 | 1958 | Anscombe, "Modern Moral Philosophy", *Philosophy*. | 5 |
@@ -77,9 +80,9 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 1967 | Foot, "The Problem of Abortion and the Doctrine of the Double Effect", *Oxford Review* — bài toán xe điện ra đời (Thomson đặt tên sau đó). | 5 |
 | 1968 | Ủy ban Harvard về định nghĩa chết não, *JAMA*. | 4 |
 | 1969 | Bowlby, *Attachment and Loss, Vol. 1: Attachment*; Frankfurt, "Alternate Possibilities and Moral Responsibility", *Journal of Philosophy*. | 6, 3 |
-| 1970 | Nagel, "Death", *Noûs*: cái chết gây hại bằng cách tước đoạt tương lai tốt đẹp. | 4 |
+| 1970 | Nagel, "Death", *Noûs*: cái chết gây hại bằng cách tước đoạt tương lai tốt đẹp; Beauvoir, *La Vieillesse*: tuổi già như một thân phận *tha nhân* không phải là tất yếu; Murdoch, *The Sovereignty of Good*: sự chú tâm. | 4, 5 |
 | 1971 | Rawls, *A Theory of Justice*. | 5 |
-| 1973 | Becker, *The Denial of Death* (Pulitzer 1974); Williams, "The Makropulos Case", trong *Problems of the Self*. | 4 |
+| 1973 | Becker, *The Denial of Death* (Pulitzer 1974); Williams, "The Makropulos Case", trong *Problems of the Self*; Smart & Williams, *Utilitarianism: For and Against*. | 4, 5 |
 | 1974 | Nagel, "What Is It Like to Be a Bat?", *Philosophical Review*. | 6 |
 | 1976 / 1985 | Thomson về bài toán xe điện: *The Monist*; *Yale Law Journal*. | 5 |
 | 1978 | Ainsworth và cộng sự, *Patterns of Attachment*; Beauchamp & Childress, *Principles of Biomedical Ethics*, ấn bản 1 in 1978, bản quyền 1979. | 6, 5 |
@@ -90,16 +93,18 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 1984 | Parfit, *Reasons and Persons*; Dennett, *Elbow Room*. | 4, 3 |
 | 1986 | Greenberg, Pyszczynski & Solomon, lý thuyết quản lý nỗi sợ cái chết, trong Baumeister (chủ biên), *Public Self and Private Self*. | 4 |
 | 1986 | Sternberg, lý thuyết tam giác của tình yêu, *Psychological Review*. | 6 |
+| 1986 | Hull, "On Human Nature", *PSA*: sinh học tiến hoá không ủng hộ một bản chất chung của mọi con người. | 2 |
 | 1988 | Baars, *A Cognitive Theory of Consciousness*: lý thuyết không gian làm việc toàn cục. | 6 |
 | 1991 | Baumeister, *Meanings of Life*; Dennett, *Consciousness Explained*. | 1, 6 |
 | 1995 / 1996 | Chalmers, "Facing Up to the Problem of Consciousness" (1995) và *The Conscious Mind* (1996): vấn đề khó. | 6 |
 | 1996 | Kane, *The Significance of Free Will*; Tedeschi & Calhoun, Posttraumatic Growth Inventory, *Journal of Traumatic Stress*. | 3, 7 |
+| 1997 | Cuong Tu Nguyen (Nguyễn Tự Cường), *Zen in Medieval Vietnam*: nghiên cứu và bản dịch *Thiền uyển tập anh*. | 7 |
 
 ## Thế kỷ 21
 
 | Thời gian | Mốc | Gắn với chương |
 |---|---|---|
-| 2001 | Haidt, "The Emotional Dog and Its Rational Tail", *Psychological Review*; Greene và cộng sự, *Science*; van Lommel và cộng sự, trải nghiệm cận tử, *The Lancet*; Pereboom, *Living Without Free Will*. | 5, 4, 3 |
+| 2001 | Haidt, "The Emotional Dog and Its Rational Tail", *Psychological Review*; Greene và cộng sự, *Science*; van Lommel và cộng sự, trải nghiệm cận tử, *The Lancet*; Pereboom, *Living Without Free Will*; Nussbaum, *Upheavals of Thought*: cảm xúc là những phản ứng thông minh trước điều có giá trị và quan trọng. | 5, 4, 3, 7 |
 | 2002 | Pinker, *The Blank Slate*; Seligman, *Authentic Happiness*. | 2, 1 |
 | 2003 | Dennett, *Freedom Evolves*. | 3 |
 | 2004 | Bonanno, khả năng phục hồi, *American Psychologist*; Frankfurt, *The Reasons of Love*; Tononi, lý thuyết thông tin tích hợp, *BMC Neuroscience*. | 7, 6 |
@@ -107,10 +112,12 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 | 2008 | Soon và cộng sự, *Nature Neuroscience*; Vohs & Schooler, *Psychological Science*. | 3 |
 | 2010 | Wolf, *Meaning in Life and Why It Matters*; Henrich và cộng sự, WEIRD, *Behavioral and Brain Sciences*. | 1, 2 |
 | 2012 | Schurger và cộng sự, *PNAS*; Kagan, *Death*; Haidt, *The Righteous Mind*. | 3, 4, 5 |
-| 2013 | Baumeister và cộng sự, *Journal of Positive Psychology*; Metz, *Meaning in Life: An Analytic Study*. | 1 |
+| 2013 | Baumeister và cộng sự, *Journal of Positive Psychology*; Metz, *Meaning in Life: An Analytic Study*; Downes & Machery, *Arguing About Human Nature*. | 1, 2 |
 | 2014 | Goyal và cộng sự, thiền và sức khoẻ, *JAMA Internal Medicine*; Dehaene, *Consciousness and the Brain*; Parnia và cộng sự, AWARE, *Resuscitation*. | 7, 6, 4 |
+| 2014 | Thích Nhất Hạnh, *No Mud, No Lotus*: khổ và vui không phải hai thứ tách rời. | 7 |
 | 2016 | Henrich, *The Secret of Our Success*; Martela & Steger, *Journal of Positive Psychology*; Cohen và cộng sự, meta-analysis về mục đích sống và tử vong, *Psychosomatic Medicine*; Vallor, *Technology and the Virtues*: đức tính cho thời công nghệ. | 2, 1, 8 |
 | 2017 | Sapolsky, *Behave*; Hilton và cộng sự, thiền và đau mạn tính, *Annals of Behavioral Medicine*. | 2, 7 |
+| 2018 | Hannon & Lewens (chủ biên), *Why We Disagree About Human Nature*. | 2 |
 | 2019 | Tomasello, *Becoming Human*; Jobin và cộng sự, 84 hướng dẫn đạo đức AI, *Nature Machine Intelligence*; Floridi & Cowls, *Harvard Data Science Review*; Fischer, *Death, Immortality, and Meaning in Life* (bản bìa mềm 2020); Obermeyer và cộng sự, thiên lệch chủng tộc trong một thuật toán y tế. | 2, 5, 4, 8 |
 | 2021 | King & Hicks, *Annual Review of Psychology*; Schurger và cộng sự, *Trends in Cognitive Sciences*; Bender và cộng sự, rủi ro của mô hình ngôn ngữ lớn; UNESCO, Khuyến nghị về Đạo đức Trí tuệ Nhân tạo. | 1, 3, 8 |
 | 2022 | Klein và cộng sự, Many Labs 4, *Collabra: Psychology* — không tái tạo được hiệu ứng nổi bật về tử vong; Mudrik và cộng sự, *Trends in Cognitive Sciences*; Stilwell và cộng sự, *Journal of Pain*. | 4, 3, 7 |
@@ -121,4 +128,4 @@ Từ khoảng năm 800 trước Công nguyên tới năm 2025, con người đã
 
 ## Đọc dòng thời gian như thế nào?
 
-Ba điều nổi bật khi nhìn toàn cảnh. Thứ nhất, các câu hỏi không cũ đi: Epicurus hỏi về cái chết 2.300 năm trước, và Nagel vẫn trả lời ông vào năm 1970. Thứ hai, khoa học thực nghiệm không thay thế triết học, mà làm cho các câu hỏi trở nên sắc hơn: Libet không chứng minh ta không có tự do, nhưng buộc ta phải nói rõ "tự do" nghĩa là gì. Thứ ba, phương Đông và phương Tây thường hỏi cùng một câu bằng ngôn ngữ khác nhau: vô thường của Phật giáo và tính hữu hạn của Heidegger, tính thiện của Mạnh Tử và tờ giấy trắng của Locke, đều là những cách khác nhau để hỏi con người là gì.
+Ba điều nổi bật khi nhìn toàn cảnh. Thứ nhất, các câu hỏi không cũ đi: Epicurus hỏi về cái chết 2.300 năm trước, và Nagel vẫn trả lời ông vào năm 1970. Thứ hai, khoa học thực nghiệm không thay thế triết học, mà làm cho các câu hỏi trở nên sắc hơn: Libet không chứng minh ta không có tự do, nhưng buộc ta phải nói rõ "tự do" nghĩa là gì. Thứ ba, những người thuộc các truyền thống khác nhau thường hỏi cùng một câu bằng ngôn ngữ khác nhau, và ngay trong một truyền thống cũng có bất đồng: vô thường của Phật giáo và tính hữu hạn của Heidegger, tính thiện của Mạnh Tử và tờ giấy trắng của Locke, đều là những cách khác nhau để hỏi con người là gì; còn Mạnh Tử và Tuân Tử thì bất đồng ngay trong Nho gia.
