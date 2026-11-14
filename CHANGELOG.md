@@ -2,6 +2,21 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.11.1] — Corrections pass rebased from 1.8.1 onto 1.11.0
+
+Applies the independent chapter-review corrections prepared as 1.8.1 (against 1.8.0) to the 1.11.0 text. One correction was NOT carried over — see below.
+
+- **Ch. 1:** Sartre's slogans attributed to the 1946 lecture, not *Being and Nothingness*; Tolstoy's *A Confession* 1882 appearance corrected (censored before printing; first published Geneva 1884); Seachris's pro-God case added to Debate 1.1; Aristotle's mean reworded ("trung dung"); Metz's fundamentality glossed with the role of reason.
+- **Ch. 2:** Marx quote re-attributed to the *Theses on Feuerbach* (1845); Sartre slogan re-attributed to the 1946 lecture; Locke citation order fixed; "đã chết" rhetoric softened; Darwin 1859 cited.
+- **Ch. 3:** standard replies to Frankfurt cases added (flicker of freedom, dilemma defence); Dennett *Elbow Room* (1984) cited; Mudrik et al. (2022) conclusion stated; *mauvaise foi* glossed; sourcehood/leeway glossed.
+- **Ch. 4:** Kierkegaard *The Sickness unto Death* cited to 1849, not 1843; McMahan disambiguated as Jeff McMahan (2002); UK brainstem-death standard added to Debate 4.3; ECMO/cryonics glossed.
+- **Ch. 5:** Thomson (1985) footbridge variant pinned; Nietzsche *Genealogy* (1887) cited; Mozi *jian'ai* cited; Greene et al. (2004) added; supervised L1–L2 vocabulary named, pointing to Ch. 8 §8; SEP wording and Bentham dates tidied.
+- **Ch. 6:** Butlin 2023 report split from the 2026 journal article in prose; Ainsworth's third attachment pattern corrected to ambivalent/resistant; "quảng tính" and Φ glossed.
+- **Ch. 7:** SEP "Stoicism" prose date corrected to the 2023 rewrite; SEP "Epictetus" aligned to the Fall 2025 edition; Nietzsche *Zarathustra* now cites 1883–85; Marcus Aurelius speculative sub-range removed.
+- **Ch. 8:** EU AI Act deferral dates added (Digital Omnibus, Regulation (EU) 2026/1744); Butlin "no strong candidate" verdict re-attributed to the 2023 report; Cogitate caveat added to Debate 8.1; automation-bias passage and responsibility-gap contestation added to §6; Noy & Zhang (2023) and Dell'Acqua et al. (2023) productivity evidence added to §4; Metzinger moratorium given its 2050 horizon.
+- **Bibliography:** 15 new sources; Matthias (2004) issue 6(3); EU AI Act author corrected to the European Parliament and Council; Nietzsche 1882 entry split (Zarathustra → 1883, Genealogy → 1887); Kierkegaard 1843 note trimmed; Butlin 2026 online date added (10 November 2025); Sparrow author case fixed; Marcus Aurelius note trimmed; Seachris IEP year/note and McKenna SEP note added.
+- **Not carried over:** the 1.8.1 change to the Brynjolfsson numbers (5,179 agents / +14%) was NOT applied: those figures are from the NBER working paper; the published *Quarterly Journal of Economics* article, 140(2):889–942 (DOI 10.1093/qje/qjae044), reports 5,172 agents and a 15% average increase, which is what the book already says.
+
 ## [1.11.0] — Reference pages catch up with stage 5
 
 Only the reference pages (thinkers table, timeline, glossary, mind map) change; every entry restates what a chapter already says, with the chapter's sources.
