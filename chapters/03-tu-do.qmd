@@ -53,6 +53,8 @@ Khoa học thần kinh về ý chí đã tiến xa kể từ Libet. Điện th�
 
 Các tổng quan đương đại nên bắt đầu từ: O'Connor và Franklin, SEP "Free Will" [@oconnorSEPfreewill]; McKenna và Coates, SEP "Compatibilism" [@mckennaSEPcompatibilism]; Dominik và cộng sự (2024) [@dominik2024]; Schurger và cộng sự (2021) [@schurger2021].
 
+Tự chủ, theo lý thuyết tự quyết, không phải là làm mọi thứ một mình, mà là hành động vì mình tán thành — khác với bị ép buộc [@ryanDeci2000]. Chirkov, Ryan, Kim và Kaplan (2003), trên bốn nước (Hàn Quốc, Nga, Thổ Nhĩ Kỳ, Mỹ), cho thấy tự chủ khác với độc lập và chủ nghĩa cá nhân: người ta có thể tự nguyện tán thành giá trị tập thể và nghĩa vụ gia đình, và khi đó vẫn khỏe mạnh [@chirkov2003]. Trong thực hành, hỗ trợ tự chủ — đưa ra lựa chọn có ý nghĩa, giải thích lý do, thừa nhận cảm xúc — giúp người khác nội tâm hóa giá trị thay vì chỉ tuân theo vì sợ phạt hay mong thưởng.
+
 **Giới hạn cần nhớ:** Các thí nghiệm nghiên cứu quyết định tầm thường, tự phát. Chưa có thí nghiệm nào đo được một quyết định có cân nhắc, có lý do, có trách nhiệm — loại quyết định mà triết học về tự do thực sự quan tâm.
 :::
 
@@ -99,7 +101,7 @@ Sartre nói con người "bị kết án phải tự do" và *mauvaise foi*, ni�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.8.0. Rà soát nhẹ: sửa vị trí của van Inwagen (bất tương hợp luận), luận điểm bất tương hợp cứng, cách dẫn Dominik và cộng sự (2024); thêm phân tích gộp của Genschow và cộng sự (2023); bỏ các khái quát theo vùng.
+- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung phân biệt tự chủ với độc lập (Chirkov và cộng sự 2003) và hỗ trợ tự chủ vào mục nghiên cứu thực nghiệm.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
