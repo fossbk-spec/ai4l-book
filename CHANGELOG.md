@@ -2,6 +2,22 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.12.0] — Empirical enrichment: what matters most in life
+
+Distributes the 17 November 2026 synthesis "Các yếu tố quan trọng nhất trong cuộc sống" across the empirical boxes of all eight chapters. No new chapter; no heading or section number changes.
+
+- **Ch. 1:** PERMA (Seligman 2011) and self-determination theory (Ryan & Deci 2000) added to §6; the income–happiness finding corrected (Kahneman & Deaton 2010; Killingsworth et al. 2023) — 75,000 USD is not a hard threshold.
+- **Ch. 2:** Erikson's eight psychosocial stages added as an interpretive map, with the warning that the rigid age schedule is weakly tested; SDT's three needs added.
+- **Ch. 3:** autonomy distinguished from independence (Chirkov et al. 2003) and autonomy support added to §5.
+- **Ch. 4:** Harvard Study of Adult Development (Waldinger & Schulz 2023, with sample limits stated), Blue Zones habits (Buettner 2012), and the contested U-shaped happiness curve (Blanchflower & Oswald 2008 vs Galambos et al. 2020) added to §7.
+- **Ch. 5:** social trust and institutions (World Happiness Report 2025) and inequality as contested/contextual added to the empirical box.
+- **Ch. 6:** parenting styles (Baumrind 1966; Maccoby & Martin 1983; Pinquart & Kauser 2018, 428 studies), Gottman's Four Horsemen, 5:1 ratio and repair (93.6% stated as retrospective fit), and family resilience (Walsh 2016) added to §5; attachment caveat on the US-developed Strange Situation.
+- **Ch. 7:** resilience as a process, and the Vietnamese thread on filial piety shifting from authoritative to reciprocal (Mai & Lê 2024; Nguyễn 2025, Hanoi youth sample) added to §5.
+- **Ch. 8:** job demands–resources model (Demerouti et al. 2001; Bakker & Demerouti 2024), Herzberg two-factor with limits, Gallup Q12 engagement (20% globally, 2025 data), meaningful work and job crafting, social capital and loneliness as a public-health issue (Putnam 2000; Holt-Lunstad et al. 2015), and Bronfenbrenner's ecological systems frame added to §4–5.
+- **Mind map:** branch summaries for Ch. 1, 2, 4, 6 and 8 enriched with one clause each; cross-link 7 enriched with family/work/society evidence. Still eight branches and eight cross-links; nothing renumbered.
+- **Index:** version line to 1.12.0 (November 2026).
+- **Bibliography:** 29 new sources (247 → 276). Deliberately omitted: Kratz & Brüderl (2021) — the synthesis gives no title for it, so the U-shape critique is cited via Galambos et al. (2020) only; Gottman's 86% vs 33% bid-response figures and the Blue Zones "4–14 years" figure — secondary-only, unverified.
+
 ## [1.11.1] — Corrections pass rebased from 1.8.1 onto 1.11.0
 
 Applies the independent chapter-review corrections prepared as 1.8.1 (against 1.8.0) to the 1.11.0 text. One correction was NOT carried over — see below.

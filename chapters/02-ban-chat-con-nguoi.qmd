@@ -54,6 +54,8 @@ Joseph Henrich, trong *The Secret of Our Success* (2016), đảo ngược quan h
 
 Sự đồng thuận hiện đại là **tương tác luận**: gen, phát triển và văn hoá cùng xây dựng con người. Không có đặc điểm quan trọng nào là "100% bẩm sinh" hay "100% học được". Tâm lý học tiến hoá (Cosmides, Tooby) mô tả các mô-đun chuyên biệt; khoa học thần kinh cho thấy não bộ đáp lại kinh nghiệm; di truyền học hành vi cho thấy tính di truyền của nhiều đặc điểm, nhưng cũng cho thấy môi trường điều chỉnh cách gen biểu hiện.
 
+Erikson (1950), trong *Childhood and Society*, vẽ một bản đồ tám giai đoạn tâm lý–xã hội — tin tưởng, tự chủ, chủ động, cần cù, bản sắc, thân mật, sinh thành, toàn vẹn — mỗi giai đoạn là một nhiệm vụ cần giải quyết [@erikson1950]. Bản đồ này hữu ích để đặt tên cho nhiệm vụ của từng giai đoạn đời người, nhưng lịch trình tuổi cứng nhắc của nó ít được kiểm chứng thực nghiệm trực tiếp: bản sắc tiếp tục phát triển suốt đời và phụ thuộc bối cảnh. Bổ sung cho bức tranh phát triển này là ba nhu cầu của lý thuyết tự quyết — tự chủ, năng lực và gắn kết — mà Ryan và Deci (2000) cho là phổ quát: khi ba nhu cầu được đáp ứng, động lực nội tại và hạnh phúc tăng lên ở mọi lứa tuổi [@ryanDeci2000].
+
 **Giới hạn cần nhớ:** Các nghiên cứu về "phổ quát" thường dựa trên mẫu WEIRD. Các giải thích tiến hoá dễ rơi vào kể chuyện thích ứng — gán cho mọi đặc điểm một chức năng sinh tồn sau sự kiện. Và "bẩm sinh" không có nghĩa là "không thể thay đổi": chiều cao là bẩm sinh cao, nhưng dinh dưỡng vẫn làm thay đổi nó đáng kể.
 :::
 
@@ -119,7 +121,7 @@ Không có bước chuyển tự động từ câu trả lời cho câu (a) sang
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.5.0. Mở rộng tranh luận 2.2: thêm lập luận hoài nghi của Hull, câu trả lời của Machery, các phản hồi đương đại, trình bày lại đúng kết luận của Nathan (2024), và lý do vì sao các nhà nghiên cứu bất đồng (Downes và Machery 2013; Hannon và Lewens 2018).
+- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung bản đồ giai đoạn tâm lý–xã hội của Erikson và ba nhu cầu của lý thuyết tự quyết vào mục nghiên cứu thực nghiệm.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

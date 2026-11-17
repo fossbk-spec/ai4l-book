@@ -68,6 +68,8 @@ Tedeschi và Calhoun (1996), với Posttraumatic Growth Inventory (PTGI), *Journ
 **Chánh niệm.** Kabat-Zinn mở phòng khám MBSR năm 1979; nghiên cứu đầu tiên năm 1982 về đau mạn tính là không có đối chứng, 51 người hoàn thành, chỉ là sơ bộ, không phải RCT — Kabat-Zinn (1982), *General Hospital Psychiatry* [@kabatZinn1982]. *Full Catastrophe Living* (1990), tên đầy đủ *Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*, ấn bản 2 sửa đổi 2013 [@kabatZinn1990]. Goyal và cộng sự (2014), *JAMA Internal Medicine* — 47 thử nghiệm, 3.515 người tham gia, bằng chứng vừa phải cho lo âu, trầm cảm, đau, hiệu ứng nhỏ tới vừa, không vượt trội so với điều trị chủ động [@goyal2014]. Hilton và cộng sự (2017), *Annals of Behavioral Medicine* — 38 RCT, bằng chứng chất lượng thấp về giảm đau nhỏ [@hilton2017]. Chánh niệm thay đổi mối quan hệ với cảm giác, không phải bản thân vô thường; cảnh báo về "McMindfulness" — kỹ thuật bị tách khỏi đạo đức và bối cảnh.
 
 **Tóm lại:** Chánh niệm là một phương pháp hỗ trợ, không phải thuốc chữa. Khả năng phục hồi là phổ biến, không phải ngoại lệ. Tăng trưởng sau sang chấn là có thể, nhưng tự báo cáo không bằng thay đổi đo được.
+
+**Phục hồi là một quá trình, không phải một tính cách.** Sau biến cố, điều giúp hồi phục nhất thường là quan hệ xã hội, một câu chuyện có ý nghĩa về biến cố, kỹ năng điều tiết cảm xúc và nguồn lực vật chất — cùng với thói quen hằng ngày — chứ không phải "nghĩ tích cực" đơn thuần. Nhấn mạnh quá mức vào phục hồi có thể trở thành yêu cầu "đứng lên một mình", bỏ qua hỗ trợ xã hội và bất bình đẳng. **Một mạch Việt Nam.** Nghiên cứu của Mai và Lê (2024) trên 385 con trưởng thành ở Việt Nam cho thấy hiếu thảo đang chuyển dạng: hiếu thảo tương hỗ — biết ơn, quan tâm, chăm sóc xuất phát từ gắn bó — cao hơn rõ rệt so với hiếu thảo uy quyền — vâng lời vì thứ bậc — và cả hai chiều có thể cùng tồn tại, cùng liên quan hạnh phúc gia đình [@maiLe2024]. Nguyễn (2025), khảo sát và phỏng vấn sâu 397 người trẻ 18–30 tuổi ở Hà Nội, thấy giá trị truyền thống vẫn quan trọng nhưng cùng tồn tại với lý tưởng hiện đại, và đa số cho rằng con trai và con gái chia sẻ ngang nhau việc chăm sóc cha mẹ già [@nguyen2025]. Đây là mẫu người trẻ ở Hà Nội, không đại diện toàn quốc — nhưng nó cho thấy tự chủ, trong bối cảnh Việt Nam, có thể là tự nguyện tán thành nghĩa vụ gia đình, chứ không phải tách khỏi gia đình.
 :::
 
 ## 6. Một mạch Việt Nam: vui đạo giữa cõi đời
@@ -143,7 +145,7 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.10.0. Ghi tên tiếng Việt của Cuong Tu Nguyen (Nguyễn Tự Cường); thêm số trang cho Nussbaum; mục SEP "Buddha" ghi tên tác giả (Siderits), ấn bản được ghi trong Tài liệu tham khảo.
+- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung phục hồi như một quá trình và mạch Việt Nam về hiếu thảo hai chiều (Mai & Lê 2024; Nguyễn 2025) vào mục nghiên cứu thực nghiệm.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
