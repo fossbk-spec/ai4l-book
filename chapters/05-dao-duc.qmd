@@ -92,7 +92,7 @@ Phán đoán đạo đức của con người không thuần lý trí: Haidt cho
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.10.0. Ngày xuất bản và sửa đổi của các mục SEP được ghi trong Tài liệu tham khảo, không ghi trong bài.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

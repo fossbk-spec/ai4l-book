@@ -5,6 +5,9 @@ project:
     - assets/book.js
 
 lang: vi
+language:
+  callout-note-title: "Ghi chú"
+  callout-tip-title: "Mẹo"
 bibliography: references.bib
 
 book:
