@@ -42,9 +42,9 @@ Heidegger, trong *Being and Time* (1927), cho rằng Dasein — hiện hữu con
 
 Sartre (1943) và Camus (1942) đưa ra những biến thể khác nhau của cùng một trực giác: cái chết không có ý nghĩa cho sẵn, và chính vì vậy ta phải tự tạo ra ý nghĩa [@sartre1943; @camus1942].
 
-Simone de Beauvoir (1908–1986) đi một hướng khác. Trong *Pyrrhus et Cinéas* (1944), bà hỏi: làm sao ta có thể sống với sự hữu hạn của mình bằng đam mê? Theo cách đọc của Bergoffen và Burke, khi hiểu rõ tự do là gì, ta học cách sống tự do bằng cách chấp nhận tính hữu hạn và tính bất định của nó, cùng những rủi ro và thất bại của nó [@sepBeauvoir]. Theo Mussett, trong cùng tác phẩm ấy, bà phê phán Heidegger vì sự nhấn mạnh vào hiện hữu-hướng-tới-cái-chết làm suy yếu tính tất yếu của việc đặt ra các dự định; những dự định ấy tự chúng là mục đích, chứ không nhất thiết là những phóng chiếu hướng tới cái chết [@iepBeauvoir]. Ba năm sau, bà viết *Pour une morale de l'ambiguïté* (1947), một đạo đức học về tự do và sự mơ hồ của thân phận con người [@beauvoir1947].
+Simone de Beauvoir (1908–1986) đi một hướng khác. Trong *Pyrrhus et Cinéas* (1944) [@beauvoir1944], bà hỏi: làm sao ta có thể sống với sự hữu hạn của mình bằng đam mê? Theo cách đọc của Bergoffen và Burke, khi hiểu rõ tự do là gì, ta học cách sống tự do bằng cách chấp nhận tính hữu hạn và tính bất định của nó, cùng những rủi ro và thất bại của nó [@sepBeauvoir]. Theo Mussett, trong cùng tác phẩm ấy, bà phê phán Heidegger vì sự nhấn mạnh vào hiện hữu-hướng-tới-cái-chết làm suy yếu tính tất yếu của việc đặt ra các dự định; những dự định ấy tự chúng là mục đích, chứ không nhất thiết là những phóng chiếu hướng tới cái chết [@iepBeauvoir]. Ba năm sau, bà viết *Pour une morale de l'ambiguïté* (1947), một đạo đức học về tự do và sự mơ hồ của thân phận con người [@beauvoir1947].
 
-Trong *La Vieillesse* (1970), Beauvoir cho rằng quá trình già đi có thể không tránh được, nhưng tuổi già như một thân phận *tha nhân* thì không phải tất yếu. Người già mất vị thế chủ thể vì bị loại khỏi các dự định và các mối quan hệ có ý nghĩa với người khác, và tuổi già vẫn phải là thời gian của những dự định sáng tạo [@sepBeauvoir; @iepBeauvoir; @beauvoir1970]. Trong *Une mort très douce* (1964), bà kể lại cái chết của mẹ mình qua những biến đổi của thân thể. Có người thấy những trang ấy lạnh lùng, thậm chí tàn nhẫn; các tác giả mục SEP cho rằng họ đã hiểu sai ý bà [@sepBeauvoir].
+Trong *La Vieillesse* (1970), Beauvoir cho rằng quá trình già đi có thể không tránh được, nhưng tuổi già như một thân phận *tha nhân* thì không phải tất yếu. Người già mất vị thế chủ thể vì bị loại khỏi các dự định và các mối quan hệ có ý nghĩa với người khác, và tuổi già vẫn phải là thời gian của những dự định sáng tạo [@sepBeauvoir; @iepBeauvoir; @beauvoir1970]. Trong *Une mort très douce* (1964) [@beauvoir1964], bà kể lại cái chết của mẹ mình qua những biến đổi của thân thể. Có người thấy những trang ấy lạnh lùng, thậm chí tàn nhẫn; các tác giả mục SEP cho rằng họ đã hiểu sai ý bà [@sepBeauvoir].
 
 ## 5. Thời gian: dãy A, dãy B, và thời gian sống
 
@@ -130,7 +130,7 @@ Câu hỏi này nghe như của y học, nhưng nó có một phần triết h�
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung nghiên cứu Harvard về phát triển người lớn, thói quen Blue Zones và tranh luận về đường cong chữ U vào mục nghiên cứu thực nghiệm.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

@@ -96,7 +96,7 @@ Ngoài cá nhân, đạo đức còn sống trong lòng tin xã hội. *World Ha
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung tin tưởng xã hội và thể chế (World Happiness Report 2025) cùng bất bình đẳng vào mục nghiên cứu thực nghiệm.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

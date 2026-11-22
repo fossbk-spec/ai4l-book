@@ -62,7 +62,7 @@ Tự chủ, theo lý thuyết tự quyết, không phải là làm mọi thứ m
 
 Câu hỏi về tự do không chỉ là trừu tượng. Luật hình sự giả định trách nhiệm, nhưng phải đối mặt với u não, chấn thương, rối loạn tâm thần, nghiện ngập. Với hệ AI hỗ trợ quyết định lâm sàng (AI-CDSS), khi hệ thống gợi ý sai, trách nhiệm ở đâu — nhà thiết kế, bệnh viện, bác sĩ lâm sàng, hay thuật toán? Chương 5 sẽ trở lại câu hỏi này qua "khoảng trống trách nhiệm" của Matthias. Ở đây, chỉ cần ghi nhận: thiết kế giao diện cho phép bác sĩ dễ dàng kiểm tra và phủ quyết gợi ý của máy chính là cách bảo vệ trách nhiệm con người trong thực tế — tự do phủ quyết của Libet, được thể chế hoá thành một nút bấm. Chương 8 mở rộng câu hỏi này sang vũ khí tự động.
 
-Sartre nói con người "bị kết án phải tự do" và *mauvaise foi*, niềm tin không thành thật, là tự lừa dối mình rằng mình không có lựa chọn [@sartre1943]. Dù ta đứng ở lập trường nào về siêu hình học, *mauvaise foi* vẫn là một chẩn đoán đạo đức sắc bén: có bao nhiêu lần ta nói "tôi không có lựa chọn" trong khi thực ra ta có — chỉ là lựa chọn đó khó khăn, tốn kém, hay đáng sợ?
+Sartre nói con người "bị kết án phải tự do" [@sartre1946], và *mauvaise foi*, niềm tin không thành thật, là tự lừa dối mình rằng mình không có lựa chọn [@sartre1943]. Dù ta đứng ở lập trường nào về siêu hình học, *mauvaise foi* vẫn là một chẩn đoán đạo đức sắc bén: có bao nhiêu lần ta nói "tôi không có lựa chọn" trong khi thực ra ta có — chỉ là lựa chọn đó khó khăn, tốn kém, hay đáng sợ?
 
 ## 7. Đối chiếu các truyền thống
 
@@ -76,7 +76,7 @@ Sartre nói con người "bị kết án phải tự do" và *mauvaise foi*, ni�
 
 **Bất đồng bên trong.** Mỗi phía đều có người phản đối:
 
-- Các nhà tự do luận như Kane cho rằng trách nhiệm thật sự đòi hỏi những lựa chọn không bị tất định [@kane1996], và Sartre nói con người "bị kết án phải tự do" [@sartre1943].
+- Các nhà tự do luận như Kane cho rằng trách nhiệm thật sự đòi hỏi những lựa chọn không bị tất định [@kane1996], và Sartre nói con người "bị kết án phải tự do" [@sartre1946].
 - Trong Nho gia, Khổng Tử dạy tu thân trong *thiên mệnh* [@confucius]. Tuân Tử thì cho rằng trời vận hành theo quy luật của nó, không thưởng phạt ai, và con người nên nắm lấy quy luật đó mà dùng, thay vì chỉ ngưỡng vọng trời [@xunzi].
 - Đạo gia dạy *vô vi*, hành động mà không cưỡng ép [@laozi]. Phật giáo dạy duyên khởi và con đường giải thoát khỏi bám víu [@buddhaSEP]. Đây là hai cách hiểu khác nhau về điều gì trói buộc con người.
 
@@ -102,7 +102,7 @@ Sartre nói con người "bị kết án phải tự do" và *mauvaise foi*, ni�
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung phân biệt tự chủ với độc lập (Chirkov và cộng sự 2003) và hỗ trợ tự chủ vào mục nghiên cứu thực nghiệm.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
