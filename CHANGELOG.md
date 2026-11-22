@@ -2,6 +2,19 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.11.2] — Corrections pass (independent review of v1.11.1, 21 Nov 2026)
+
+Applies the Fix-now and the verified Fix-soon items from the independent chapter-by-chapter review of v1.11.1. No chapter is rewritten; no status-box version number is changed (D1 still open).
+
+- **Ch. 3:** Sartre's "bị kết án phải tự do" re-attributed from 1943 to the 1946 lecture in §6 and §7; in §6 the sentence is split so *mauvaise foi* (genuinely a 1943 concept) keeps the 1943 citation.
+- **Ch. 4:** Beauvoir's *Pyrrhus et Cinéas* (1944) and *Une mort très douce* (1964) now have bibliography entries (both Gallimard, Paris) and are cited in §4.
+- **Ch. 6:** Kierkegaard's *Works of Love* (1847) now has a bibliography entry (C. A. Reitzel, Copenhagen, 29 September 1847) and is cited in §1.
+- **Ch. 8:** Dell'Acqua et al. upgraded from the 2023 Harvard Business School working paper to the published journal version, *Organization Science* 37(2):403–423 (2026), DOI 10.1287/orsc.2025.21838; author "Lifshitz-Assaf" corrected to "Lifshitz"; the in-text citation now renders as 2026.
+- **Bibliography:** `baars1988` — wrong DOI (10.1017/CBO9780511598463, which resolves to Skinner & Viroli's *Machiavelli and Republicanism*) deleted with no substitute, and the false note clause about a 1991 printing deleted; `buddhaSEP` updated to the Spring 2023 edition (year 2023, revision 6 Mar 2023); SEP entries given years and first-published notes (`oconnorSEPfreewill` Fall 2026, `mckennaSEPcompatibilism` 2015, `sepQualia` 1997); `sepStoicism` note corrected to "First published 15 Apr 1996; completely rewritten 20 Jan 2023" and `sepEmotion` harmonised the same way ("First published 2003; completely rewritten 25 Sep 2018"); `cogitate2025` note corrected from "ECoG" to "iEEG"; `defreitas2025` note added ("Advance Access 25 June 2025; assigned to the April 2026 issue", year unchanged at 2025).
+- **Status boxes (all 8 chapters) and bibliography header:** the claim "mọi DOI đối chiếu với Crossref" / "Every DOI listed here was resolved on Crossref/doi.org before release" is softened to spot-checked only; a full Crossref batch check is still outstanding.
+- **Site-wide:** callout type labels localised in `_quarto.yml` (`language: callout-note-title "Ghi chú"`, `callout-tip-title "Mẹo"`), so the English "Note"/"Tip" labels no longer render before the Vietnamese callout titles.
+- **F01 — Nguyễn Tài Thư (2009): NOT FIXED in this pass — see the investigation record (`F01-INVESTIGATION.md`).** The entry is present and well-formed in `references.bib`, is cited 3× in Ch. 7, renders in-text as "Nguyễn 2009", but is still absent from the rendered `references.html` (re-confirmed on the live site, 21 Nov 2026). Missing volume, diacritics, the underscore URL and a stale deploy were all ruled out as sole causes from repo files; no concrete in-repo cause was found, so no speculative fix was applied. The exact build-log check needed is recorded in the investigation file.
+
 ## [1.11.1] — Corrections pass rebased from 1.8.1 onto 1.11.0
 
 Applies the independent chapter-review corrections prepared as 1.8.1 (against 1.8.0) to the 1.11.0 text. One correction was NOT carried over — see below.

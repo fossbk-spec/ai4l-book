@@ -120,7 +120,7 @@ Không có bước chuyển tự động từ câu trả lời cho câu (a) sang
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.5.0. Mở rộng tranh luận 2.2: thêm lập luận hoài nghi của Hull, câu trả lời của Machery, các phản hồi đương đại, trình bày lại đúng kết luận của Nathan (2024), và lý do vì sao các nhà nghiên cứu bất đồng (Downes và Machery 2013; Hannon và Lewens 2018).
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

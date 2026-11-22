@@ -99,7 +99,7 @@ Mục này không so sánh "phương Đông" với "phương Tây" như hai kh�
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.10.0. Sửa ví dụ minh hoạ quan niệm của Wolf (dùng ví dụ của chính bà, kèm số trang), ghi rõ cụm "bước nhảy của đức tin" không có nguyên văn ở Kierkegaard, và đưa ngày của mục SEP về Tài liệu tham khảo.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; mọi DOI đối chiếu với Crossref (tồn tại, năm, tiêu đề).
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).
