@@ -2,6 +2,13 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.12.1] — Corrections (independent review of v1.12.0, 24 Nov 2026)
+
+Fixes two attribution errors found in the independent review of v1.12.0 (merged as PR #25, 24 Nov 2026). No chapter is rewritten.
+
+- **Ch. 6:** the "≈93% divorce prediction" figure is re-attributed to Buehlman, Gottman & Katz (1992) — oral-history interview, 52 couples, 3-year follow-up — instead of Gottman & Levenson (1992/2000), which remain the sources for the Four Horsemen and contempt. New bibliography entry `buehlmanGottmanKatz1992` (DOI 10.1037/0893-3200.5.3-4.295).
+- **Ch. 7:** Nguyễn (2025) sample corrected: 397 students aged 18–30 at three Hanoi universities surveyed, 50 interviewed in depth — not "397 young Vietnamese" all interviewed in depth.
+
 ## [1.12.0] — Empirical enrichment: what matters most in life
 
 Distributes the 17 November 2026 synthesis "Các yếu tố quan trọng nhất trong cuộc sống" across the empirical boxes of all eight chapters. No new chapter; no heading or section number changes.

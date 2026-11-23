@@ -69,7 +69,7 @@ Tedeschi và Calhoun (1996), với Posttraumatic Growth Inventory (PTGI), *Journ
 
 **Tóm lại:** Chánh niệm là một phương pháp hỗ trợ, không phải thuốc chữa. Khả năng phục hồi là phổ biến, không phải ngoại lệ. Tăng trưởng sau sang chấn là có thể, nhưng tự báo cáo không bằng thay đổi đo được.
 
-**Phục hồi là một quá trình, không phải một tính cách.** Sau biến cố, điều giúp hồi phục nhất thường là quan hệ xã hội, một câu chuyện có ý nghĩa về biến cố, kỹ năng điều tiết cảm xúc và nguồn lực vật chất — cùng với thói quen hằng ngày — chứ không phải "nghĩ tích cực" đơn thuần. Nhấn mạnh quá mức vào phục hồi có thể trở thành yêu cầu "đứng lên một mình", bỏ qua hỗ trợ xã hội và bất bình đẳng. **Một mạch Việt Nam.** Nghiên cứu của Mai và Lê (2024) trên 385 con trưởng thành ở Việt Nam cho thấy hiếu thảo đang chuyển dạng: hiếu thảo tương hỗ — biết ơn, quan tâm, chăm sóc xuất phát từ gắn bó — được thể hiện mạnh, bên cạnh hiếu thảo uy quyền — vâng lời vì thứ bậc — và cả hai chiều có thể cùng tồn tại, cùng liên quan hạnh phúc gia đình [@maiLe2024]. Nguyễn (2025), khảo sát và phỏng vấn sâu 397 người trẻ Việt Nam 18–30 tuổi, thấy giá trị truyền thống vẫn quan trọng nhưng cùng tồn tại với lý tưởng hiện đại, và có xu hướng chia sẻ việc chăm sóc cha mẹ già giữa con trai và con gái [@nguyen2025]. Đây là mẫu người trẻ Việt Nam, không đại diện toàn quốc — nhưng nó cho thấy tự chủ, trong bối cảnh Việt Nam, có thể là tự nguyện tán thành nghĩa vụ gia đình, chứ không phải tách khỏi gia đình.
+**Phục hồi là một quá trình, không phải một tính cách.** Sau biến cố, điều giúp hồi phục nhất thường là quan hệ xã hội, một câu chuyện có ý nghĩa về biến cố, kỹ năng điều tiết cảm xúc và nguồn lực vật chất — cùng với thói quen hằng ngày — chứ không phải "nghĩ tích cực" đơn thuần. Nhấn mạnh quá mức vào phục hồi có thể trở thành yêu cầu "đứng lên một mình", bỏ qua hỗ trợ xã hội và bất bình đẳng. **Một mạch Việt Nam.** Nghiên cứu của Mai và Lê (2024) trên 385 con trưởng thành ở Việt Nam cho thấy hiếu thảo đang chuyển dạng: hiếu thảo tương hỗ — biết ơn, quan tâm, chăm sóc xuất phát từ gắn bó — được thể hiện mạnh, bên cạnh hiếu thảo uy quyền — vâng lời vì thứ bậc — và cả hai chiều có thể cùng tồn tại, cùng liên quan hạnh phúc gia đình [@maiLe2024]. Nguyễn (2025), khảo sát 397 sinh viên 18–30 tuổi ở ba trường đại học tại Hà Nội — trong đó phỏng vấn sâu 50 người — thấy giá trị truyền thống vẫn quan trọng nhưng cùng tồn tại với lý tưởng hiện đại, và có xu hướng chia sẻ việc chăm sóc cha mẹ già giữa con trai và con gái [@nguyen2025]. Đây là mẫu sinh viên Hà Nội, không đại diện toàn quốc — nhưng nó cho thấy tự chủ, trong bối cảnh Việt Nam, có thể là tự nguyện tán thành nghĩa vụ gia đình, chứ không phải tách khỏi gia đình.
 :::
 
 ## 6. Một mạch Việt Nam: vui đạo giữa cõi đời
@@ -145,7 +145,7 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung phục hồi như một quá trình và mạch Việt Nam về hiếu thảo hai chiều (Mai & Lê 2024; Nguyễn 2025) vào mục nghiên cứu thực nghiệm.
+- **Cập nhật gần nhất:** phiên bản 1.12.1. Sửa mô tả mẫu của Nguyễn (2025): 397 sinh viên ba trường đại học Hà Nội làm khảo sát, 50 người phỏng vấn sâu.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
