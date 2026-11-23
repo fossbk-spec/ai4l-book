@@ -66,6 +66,10 @@ Công cụ đo phổ biến nhất là Meaning in Life Questionnaire (MLQ) của
 
 Một meta-analysis của Cohen, Bavishi và Rozanski (2016) trên 10 nghiên cứu tiền cứu, tổng cộng 136.265 người, cho thấy mục đích sống cao hơn gắn với nguy cơ tử vong do mọi nguyên nhân thấp hơn khoảng 17% (tỷ số nguy cơ gộp 0,83) [@cohen2016].
 
+Seligman, trong *Flourish* (2011), gom năm thành tố của một đời sống thịnh vượng thành PERMA — cảm xúc tích cực, dấn thân, quan hệ, ý nghĩa và thành tựu [@seligman2011]. PERMA hữu ích như một danh mục kiểm tra khi thiết kế can thiệp, nhưng cấu trúc đo lường còn tranh luận. Lý thuyết tự quyết (SDT) của Ryan và Deci (2000) đưa ra một khung gọn hơn và có bằng chứng mạnh hơn: ba nhu cầu tâm lý cơ bản — tự chủ, năng lực và gắn kết — khi được đáp ứng thì động lực nội tại và hạnh phúc tăng lên, khi bị cản trở thì cả hai đều giảm [@ryanDeci2000].
+
+Về thu nhập, Kahneman và Deaton (2010) thấy đánh giá về cuộc sống tăng theo log-thu nhập ở mọi mức, nhưng cảm xúc hằng ngày bão hòa quanh 75.000 USD một năm (số liệu 2010) [@kahnemanDeaton2010]. Nghiên cứu hòa giải sau đó của Killingsworth, Kahneman và Mellers (2023) sửa lại kết luận này: bão hòa chỉ rõ ở khoảng 20% nhóm vốn đã không hạnh phúc (quanh 100.000 USD), còn đa số vẫn tăng chậm theo thu nhập [@killingsworth2023]. Con số 75.000 USD vì vậy không nên được trích như một ngưỡng cứng.
+
 **Giới hạn cần nhớ:** Hầu hết các nghiên cứu này là tương quan, tự báo cáo, và có thiên lệch văn hoá. Cảm thấy có ý nghĩa không giống với thực sự có ý nghĩa. Bằng chứng về Frankl chủ yếu là giai thoại và quan sát lâm sàng, không phải thử nghiệm ngẫu nhiên có đối chứng; và việc nhấn mạnh thái độ có nguy cơ đổ lỗi cho nạn nhân — như thể người khổ đau chỉ cần "thay đổi thái độ" là đủ.
 :::
 
@@ -98,7 +102,7 @@ Mục này không so sánh "phương Đông" với "phương Tây" như hai kh�
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.10.0. Sửa ví dụ minh hoạ quan niệm của Wolf (dùng ví dụ của chính bà, kèm số trang), ghi rõ cụm "bước nhảy của đức tin" không có nguyên văn ở Kierkegaard, và đưa ngày của mục SEP về Tài liệu tham khảo.
+- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung khung PERMA và lý thuyết tự quyết (SDT) vào mục nghiên cứu thực nghiệm, cùng kết quả đã sửa về thu nhập và hạnh phúc (Kahneman & Deaton 2010; Killingsworth và cộng sự 2023).
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).

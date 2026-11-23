@@ -59,7 +59,11 @@ Một tổng quan hệ thống của Koo và cộng sự (2024), *Malaysian Jour
 ::: {.callout-note}
 ## Nghiên cứu thực nghiệm nói gì?
 
-Phán đoán đạo đức của con người không thuần lý trí: Haidt cho rằng trực giác đến trước, lý luận đến sau; Greene cho rằng cả phản ứng cảm xúc lẫn suy luận có kiểm soát đều góp phần. Thuyết xử lý kép có ảnh hưởng lớn, nhưng chi tiết vẫn đang tranh cãi. Trong y sinh, bốn nguyên tắc vẫn là ngôn ngữ chung. Trong đạo đức AI, Jobin và cộng sự (2019) cho thấy sự hội tụ về năm nguyên tắc — nhưng sự hội tụ về từ ngữ che giấu sự khác nhau về diễn giải. **Giới hạn:** "là" không suy ra "nên"; mẫu WEIRD; các tình huống xe điện là nhân tạo; và các nguyên tắc, nếu không được cụ thể hoá, sẽ chỉ là khẩu hiệu.
+Phán đoán đạo đức của con người không thuần lý trí: Haidt cho rằng trực giác đến trước, lý luận đến sau; Greene cho rằng cả phản ứng cảm xúc lẫn suy luận có kiểm soát đều góp phần. Thuyết xử lý kép có ảnh hưởng lớn, nhưng chi tiết vẫn đang tranh cãi. Trong y sinh, bốn nguyên tắc vẫn là ngôn ngữ chung. Trong đạo đức AI, Jobin và cộng sự (2019) cho thấy sự hội tụ về năm nguyên tắc — nhưng sự hội tụ về từ ngữ che giấu sự khác nhau về diễn giải.
+
+Ngoài cá nhân, đạo đức còn sống trong lòng tin xã hội. *World Happiness Report 2025* (Helliwell và cộng sự, chủ biên) giải thích khác biệt hạnh phúc giữa các nước bằng sáu biến — trong đó có hỗ trợ xã hội, tự do lựa chọn, hào phóng và cảm nhận tham nhũng — và cho thấy tin tưởng người khác và thể chế gắn chặt với hạnh phúc [@helliwell2025]. Nhưng sáu biến này là giải thích tương quan, không phải ước lượng nhân quả, và xếp hạng quốc gia không suy ra được hạnh phúc của một cá nhân. Bất bình đẳng cũng vậy: ở cấp cộng đồng, bất bình đẳng thu nhập và cơ hội liên quan hạnh phúc thấp hơn và sức khỏe kém hơn, nhưng cơ chế — so sánh xã hội, stress, giảm tin tưởng, giảm di động xã hội — còn tranh luận; ở cấp cá nhân, cảm nhận *bất công* và thiếu kiểm soát thường quan trọng hơn con số bất bình đẳng trừu tượng.
+
+**Giới hạn:** "là" không suy ra "nên"; mẫu WEIRD; các tình huống xe điện là nhân tạo; và các nguyên tắc, nếu không được cụ thể hoá, sẽ chỉ là khẩu hiệu.
 :::
 
 ## 6. Đối chiếu các truyền thống
@@ -91,7 +95,7 @@ Phán đoán đạo đức của con người không thuần lý trí: Haidt cho
 ::: {.callout-tip appearance="simple" collapse="true"}
 ## Trạng thái chương
 
-- **Cập nhật gần nhất:** phiên bản 1.10.0. Ngày xuất bản và sửa đổi của các mục SEP được ghi trong Tài liệu tham khảo, không ghi trong bài.
+- **Cập nhật gần nhất:** phiên bản 1.12.0. Bổ sung tin tưởng xã hội và thể chế (World Happiness Report 2025) cùng bất bình đẳng vào mục nghiên cứu thực nghiệm.
 - **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
