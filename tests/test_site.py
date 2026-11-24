@@ -99,6 +99,21 @@ class RenderedSiteTests(unittest.TestCase):
                 self.assertTrue(any(re.match(r"^(?:\d+\.\s*)?Tranh luận\b", heading) for heading in page.headings))
                 self.assertIn("assets/book.js", path.read_text(encoding="utf-8"))
 
+    def test_bibliography_complete(self):
+        # F01 guard: every key cited in the .qmd sources must have a
+        # #ref-<key> entry in the rendered references.html. (One bib
+        # entry may legitimately be absent: a key that is never cited,
+        # e.g. marx1844, is correctly omitted by Quarto, so the check
+        # is one-directional: cited => present.)
+        root = Path(__file__).resolve().parents[1]
+        cited = set()
+        for path in list(root.glob("*.qmd")) + list((root / "chapters").glob("*.qmd")):
+            cited |= set(re.findall(r"@([A-Za-z][A-Za-z0-9_-]*)", path.read_text(encoding="utf-8")))
+        rendered = (SITE / "references.html").read_text(encoding="utf-8")
+        anchors = set(re.findall(r'id="ref-([^"]+)"', rendered))
+        missing = sorted(cited - anchors)
+        self.assertEqual(missing, [], f"cited keys missing from references.html: {missing}")
+
     def test_assets_are_published(self):
         # Quarto only copies files it sees referenced; book.js is loaded dynamically,
         # so it must be listed under project.resources.
