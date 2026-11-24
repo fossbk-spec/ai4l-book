@@ -146,7 +146,7 @@ Theo cách nhìn của cuốn sách, có lẽ không phương thuốc nào đủ
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.12.2. Sửa cách viết về Mai & Lê (2024): hai chiều hiếu thảo cùng tồn tại, không diễn giải thành xu hướng thay đổi theo thời gian.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); các mục mới của v1.12.1–v1.12.3 đã đối chiếu từng mục; chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

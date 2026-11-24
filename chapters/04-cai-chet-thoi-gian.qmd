@@ -130,7 +130,7 @@ Câu hỏi này nghe như của y học, nhưng nó có một phần triết h�
 ## Trạng thái chương
 
 - **Cập nhật gần nhất:** phiên bản 1.12.2. Sửa cách viết về hai nhóm của nghiên cứu Harvard; bổ sung Kratz & Brüderl (2025) vào tranh luận đường cong chữ U.
-- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); chưa kiểm tra hàng loạt toàn bộ.
+- **Kiểm tra nguồn gần nhất:** tháng 11 năm 2026; DOI được kiểm tra điểm mẫu theo Crossref (tồn tại, năm, tiêu đề); các mục mới của v1.12.1–v1.12.3 đã đối chiếu từng mục; chưa kiểm tra hàng loạt toàn bộ.
 - **Trạng thái:** Ổn định.
 - **Thẩm định:** tác giả tự thẩm định (xem [Phương pháp](../phuong-phap.qmd)).
 - **Báo lỗi:** [mở issue trên GitHub](https://github.com/fossbk-spec/ai4l-book/issues).

@@ -2,6 +2,14 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.12.3] — Accuracy follow-up II (independent review of v1.12.0, 24 Nov 2026)
+
+Closes the last two items from the independent review of v1.12.0. No chapter is rewritten.
+
+- **Ch. 5:** the income-inequality sentence now cites Wilkinson & Pickett (2009) — Annual Review of Sociology 35:493–511, DOI 10.1146/annurev-soc-070308-115926, verified on Crossref.
+- **All chapters:** the status-box source-check line is corrected — entries added in v1.12.1–v1.12.3 were each verified individually (Crossref/PsycNET); older entries remain spot-checked; no full-batch check yet.
+- **Bibliography:** new entry `wilkinsonPickett2009`. Total 283.
+
 ## [1.12.2] — Accuracy follow-up (independent review of v1.12.0, 24 Nov 2026)
 
 Applies the remaining accuracy fixes from the independent review of v1.12.0. No chapter is rewritten.
