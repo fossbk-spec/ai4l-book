@@ -2,6 +2,16 @@
 
 All notable changes to *Cuộc sống và con người* are documented here. The format follows the living-book rule: each version changes only the chapters it lists.
 
+## [1.12.2] — Accuracy follow-up (independent review of v1.12.0, 24 Nov 2026)
+
+Applies the remaining accuracy fixes from the independent review of v1.12.0. No chapter is rewritten.
+
+- **Ch. 1:** "adversarial collaboration" corrected from "hòa giải" to "hợp tác đối kháng" (Killingsworth et al. 2023).
+- **Ch. 4:** Harvard Study wording corrected (Grant cohort from 1938, Glueck cohort merged later); Kratz & Brüderl (2025) added — SOEP 1984–2017, no U-shape, German data only — full citation verified on Crossref (ESR 42(3):339–352, DOI 10.1093/esr/jcaf038).
+- **Ch. 6:** Pinquart & Kauser (2018) sentence softened — warmth and responsiveness are core components of authoritative parenting, not "the most strongly supported component" (not stated in the abstract).
+- **Ch. 7:** Mai & Lê (2024) no longer described as showing change over time (cross-sectional study) — the two dimensions coexist, reciprocal stronger.
+- **Bibliography:** full author names restored for `maiLe2024` (Hai Van Mai, Hao Van Le) and `nguyen2025` (Hue Nhu Thi Nguyen), verified on Crossref; new entry `kratzBruderl2025`. The [1.12.0] omission rationale below is corrected: the 86%/33% and "4–14 years" figures are traceable, but still omitted for the reasons now stated there.
+
 ## [1.12.1] — Corrections (independent review of v1.12.0, 24 Nov 2026)
 
 Fixes two attribution errors found in the independent review of v1.12.0 (merged as PR #25, 24 Nov 2026). No chapter is rewritten.
@@ -23,7 +33,7 @@ Distributes the 17 November 2026 synthesis "Các yếu tố quan trọng nhất 
 - **Ch. 8:** job demands–resources model (Demerouti et al. 2001; Bakker & Demerouti 2024), Herzberg two-factor with limits, Gallup Q12 engagement (20% globally, 2025 data), meaningful work and job crafting, social capital and loneliness as a public-health issue (Putnam 2000; Holt-Lunstad et al. 2015), and Bronfenbrenner's ecological systems frame added to §4–5.
 - **Mind map:** branch summaries for Ch. 1, 2, 4, 6 and 8 enriched with one clause each; cross-link 7 enriched with family/work/society evidence. Still eight branches and eight cross-links; nothing renumbered.
 - **Index:** version line to 1.12.0 (November 2026).
-- **Bibliography:** 30 new sources (250 → 280). Deliberately omitted: Kratz & Brüderl (2021) — the synthesis gives no title for it, so the U-shape critique is cited via Galambos et al. (2020) only; Gottman's 86% vs 33% bid-response figures and the Blue Zones "4–14 years" figure — secondary-only, unverified.
+- **Bibliography:** 30 new sources (250 → 280). Deliberately omitted: Gottman's 86% vs 33% bid-response figures — traceable only to the Gottman Institute's popular writing, not a peer-reviewed paper; the Blue Zones "4–14 years" figure — stated in Buettner & Skemp (2016) but resting on observational attendance studies, kept out pending the same hedging as other Blue Zones claims. (The Kratz & Brüderl U-shape critique, omitted here for lack of a title, is now cited as Kratz & Brüderl 2025 in v1.12.2.)
 
 ## [1.11.2] — Corrections pass (independent review of v1.11.1, 21 Nov 2026)
 
